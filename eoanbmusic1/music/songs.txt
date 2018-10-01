@@ -1,0 +1,21 @@
+#BAV
+music = {
+	song = "bayernhymne"
+	chance = {
+		modifier = {
+			factor = 0
+			
+			NOT = { TAG = BAV }
+		}
+		modifier = {
+			factor = 0
+			
+			NOT = { has_global_flag = is_eoanb_music_custom_true }
+		}
+		modifier = {
+			factor = 2
+			
+			TAG = BAV
+		}	
+	}
+}
