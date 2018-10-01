@@ -1,6 +1,0 @@
-#BAV
-music = {
-	name = "bayernhymne"
-	file = "eoanbm1_bayernhymne.off"
-	volume = 0.65
-}
