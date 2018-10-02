@@ -1808,6 +1808,19 @@ music = {
 
 #Generic
 music = {
+	song = "danube_waltz"
+	chance = {
+		modifier = {
+			factor = 1
+			OR = {
+				has_war = yes
+				has_war = no
+			}
+		}
+	}
+}
+
+music = {
 	song = "fledermaus"
 	chance = {
 		modifier = {
