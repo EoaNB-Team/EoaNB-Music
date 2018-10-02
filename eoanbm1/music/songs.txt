@@ -1468,6 +1468,88 @@ music = {
 	}
 }
 
+music = {
+	song = "william_tell"
+	chance = {
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				OR = {
+					TAG = PIE
+					TAG = PRM
+					TAG = MOD
+					TAG = LVN
+					TAG = PAP
+					TAG = TUS
+					TAG = NSC
+					TAG = SNM
+				}
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			NOT = { has_global_flag = is_eoanb_music_custom_true }
+		}
+		modifier = {
+			factor = 2
+			
+			OR = {
+				TAG = PIE
+				TAG = PRM
+				TAG = MOD
+				TAG = LVN
+				TAG = PAP
+				TAG = TUS
+				TAG = NSC
+				TAG = SNM
+			}
+		}	
+	}
+}
+
+music = {
+	song = "barber_of_seville"
+	chance = {
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				OR = {
+					TAG = PIE
+					TAG = PRM
+					TAG = MOD
+					TAG = LVN
+					TAG = PAP
+					TAG = TUS
+					TAG = NSC
+					TAG = SNM
+				}
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			NOT = { has_global_flag = is_eoanb_music_custom_true }
+		}
+		modifier = {
+			factor = 2
+			
+			OR = {
+				TAG = PIE
+				TAG = PRM
+				TAG = MOD
+				TAG = LVN
+				TAG = PAP
+				TAG = TUS
+				TAG = NSC
+				TAG = SNM
+			}
+		}	
+	}
+}
+
 #all GER
 music = {
 	song = "traeumerei"
@@ -1725,6 +1807,71 @@ music = {
 }
 
 #Generic
+music = {
+	song = "fledermaus"
+	chance = {
+		modifier = {
+			factor = 1
+			OR = {
+				has_war = yes
+				has_war = no
+			}
+		}
+	}
+}
+
+music = {
+	song = "poet_and_peasant"
+	chance = {
+		modifier = {
+			factor = 1
+			OR = {
+				has_war = yes
+				has_war = no
+			}
+		}
+	}
+}
+
+music = {
+	song = "flowers_waltz"
+	chance = {
+		modifier = {
+			factor = 1
+			OR = {
+				has_war = yes
+				has_war = no
+			}
+		}
+	}
+}
+
+music = {
+	song = "voices_of_spring"
+	chance = {
+		modifier = {
+			factor = 1
+			OR = {
+				has_war = yes
+				has_war = no
+			}
+		}
+	}
+}
+
+music = {
+	song = "tritsch_tratsch"
+	chance = {
+		modifier = {
+			factor = 1
+			OR = {
+				has_war = yes
+				has_war = no
+			}
+		}
+	}
+}
+
 music = {
 	song = "song_of_india"
 	chance = {
