@@ -550,10 +550,101 @@ music = {
 	volume = 0.65
 }
 
+#SWE
+music = {
+	name = "till_fronten"
+	file = "eoanbm1_till_fronten.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "blue_yellow_banner"
+	file = "eoanbm1_blue_yellow_banner.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "arme_och_marine"
+	file = "eoanbm1_arme_och_marine.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "i_gevar"
+	file = "eoanbm1_i_gevar.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "kronprins_olav"
+	file = "eoanbm1_kronprins_olav.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "husaren_moberg"
+	file = "eoanbm1_husaren_moberg.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "bohus_batajon"
+	file = "eoanbm1_bohus_batajon.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "bred_dina_vida_vingar"
+	file = "eoanbm1_bred_dina_vida_vingar.ogg"
+	volume = 0.65
+}
+
 #Generic
+music = {
+	name = "dragonerna_komma"
+	file = "eoanbm1_dragonerna_komma.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "pa_marsch"
+	file = "eoanbm1_pa_marsch.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "hertigen_av_vasterbotten"
+	file = "eoanbm1_hertigen_av_vasterbotten.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "bodens_ingenjorskars"
+	file = "eoanbm1_bodens_ingenjorskars.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "ikaros"
+	file = "eoanbm1_ikaros.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "la_gazza_ladra"
+	file = "eoanbm1_la_gazza_ladra.ogg"
+	volume = 0.65
+}
+
 music = {
 	name = "danube_waltz"
 	file = "eoanbm1_danube_waltz.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "rusalka"
+	file = "eoanbm1_rusalka.ogg"
 	volume = 0.65
 }
 

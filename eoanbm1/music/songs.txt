@@ -1806,7 +1806,289 @@ music = {
 	}
 }
 
+#SWE
+music = {
+	song = "till_fronten"
+	chance = {
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				TAG = SWE
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			NOT = { has_global_flag = is_eoanb_music_custom_true }
+		}
+		modifier = {
+			factor = 2
+			
+			TAG = SWE
+		}	
+	}
+}
+
+music = {
+	song = "blue_yellow_banner"
+	chance = {
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				TAG = SWE
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			NOT = { has_global_flag = is_eoanb_music_custom_true }
+		}
+		modifier = {
+			factor = 2
+			
+			TAG = SWE
+		}	
+	}
+}
+
+music = {
+	song = "arme_och_marine"
+	chance = {
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				TAG = SWE
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			NOT = { has_global_flag = is_eoanb_music_custom_true }
+		}
+		modifier = {
+			factor = 2
+			
+			TAG = SWE
+		}	
+	}
+}
+
+music = {
+	song = "i_gevar"
+	chance = {
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				TAG = SWE
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			NOT = { has_global_flag = is_eoanb_music_custom_true }
+		}
+		modifier = {
+			factor = 2
+			
+			TAG = SWE
+		}	
+	}
+}
+
+music = {
+	song = "kronprins_olav"
+	chance = {
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				OR = {
+					TAG = SWE
+					TAG = NOR
+				}
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			NOT = { has_global_flag = is_eoanb_music_custom_true }
+		}
+		modifier = {
+			factor = 2
+			
+			OR = {
+				TAG = SWE
+				TAG = NOR
+			}
+		}	
+	}
+}
+
+music = {
+	song = "husaren_moberg"
+	chance = {
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				TAG = SWE
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			NOT = { has_global_flag = is_eoanb_music_custom_true }
+		}
+		modifier = {
+			factor = 2
+			
+			TAG = SWE
+		}	
+	}
+}
+
+music = {
+	song = "bohus_batajon"
+	chance = {
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				TAG = SWE
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			NOT = { has_global_flag = is_eoanb_music_custom_true }
+		}
+		modifier = {
+			factor = 2
+			
+			TAG = SWE
+		}	
+	}
+}
+
+music = {
+	song = "bred_dina_vida_vingar"
+	chance = {
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				TAG = SWE
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			NOT = { has_global_flag = is_eoanb_music_custom_true }
+		}
+		modifier = {
+			factor = 2
+			
+			TAG = SWE
+		}	
+	}
+}
+
 #Generic
+music = {
+	song = "dragonerna_komma"
+	chance = {
+		modifier = {
+			factor = 1
+			OR = {
+				has_war = yes
+				has_war = no
+			}
+		}
+	}
+}
+
+music = {
+	song = "pa_marsch"
+	chance = {
+		modifier = {
+			factor = 1
+			OR = {
+				has_war = yes
+				has_war = no
+			}
+		}
+	}
+}
+
+music = {
+	song = "hertigen_av_vasterbotten"
+	chance = {
+		modifier = {
+			factor = 1
+			OR = {
+				has_war = yes
+				has_war = no
+			}
+		}
+	}
+}
+
+music = {
+	song = "bodens_ingenjorskars"
+	chance = {
+		modifier = {
+			factor = 1
+			OR = {
+				has_war = yes
+				has_war = no
+			}
+		}
+	}
+}
+
+music = {
+	song = "ikaros"
+	chance = {
+		modifier = {
+			factor = 1
+			OR = {
+				has_war = yes
+				has_war = no
+			}
+		}
+	}
+}
+
+music = {
+	song = "la_gazza_ladra"
+	chance = {
+		modifier = {
+			factor = 1
+			OR = {
+				has_war = yes
+				has_war = no
+			}
+		}
+	}
+}
+
+music = {
+	song = "rusalka"
+	chance = {
+		modifier = {
+			factor = 1
+			OR = {
+				has_war = yes
+				has_war = no
+			}
+		}
+	}
+}
+
 music = {
 	song = "danube_waltz"
 	chance = {
