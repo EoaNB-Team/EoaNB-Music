@@ -1353,6 +1353,7 @@ music = {
 			
 			NOT = {
 				OR = {
+					TAG = ITA
 					TAG = PIE
 					TAG = PRM
 					TAG = MOD
@@ -1373,6 +1374,7 @@ music = {
 			factor = 2
 			
 			OR = {
+				TAG = ITA
 				TAG = PIE
 				TAG = PRM
 				TAG = MOD
@@ -1394,6 +1396,7 @@ music = {
 			
 			NOT = {
 				OR = {
+					TAG = ITA
 					TAG = PIE
 					TAG = PRM
 					TAG = MOD
@@ -1414,6 +1417,7 @@ music = {
 			factor = 2
 			
 			OR = {
+				TAG = ITA
 				TAG = PIE
 				TAG = PRM
 				TAG = MOD
@@ -1435,6 +1439,7 @@ music = {
 			
 			NOT = {
 				OR = {
+					TAG = ITA
 					TAG = PIE
 					TAG = PRM
 					TAG = MOD
@@ -1455,6 +1460,7 @@ music = {
 			factor = 2
 			
 			OR = {
+				TAG = ITA
 				TAG = PIE
 				TAG = PRM
 				TAG = MOD
@@ -1476,6 +1482,7 @@ music = {
 			
 			NOT = {
 				OR = {
+					TAG = ITA
 					TAG = PIE
 					TAG = PRM
 					TAG = MOD
@@ -1496,6 +1503,7 @@ music = {
 			factor = 2
 			
 			OR = {
+				TAG = ITA
 				TAG = PIE
 				TAG = PRM
 				TAG = MOD
@@ -1517,6 +1525,7 @@ music = {
 			
 			NOT = {
 				OR = {
+					TAG = ITA
 					TAG = PIE
 					TAG = PRM
 					TAG = MOD
@@ -1537,6 +1546,93 @@ music = {
 			factor = 2
 			
 			OR = {
+				TAG = ITA
+				TAG = PIE
+				TAG = PRM
+				TAG = MOD
+				TAG = LVN
+				TAG = PAP
+				TAG = TUS
+				TAG = NSC
+				TAG = SNM
+			}
+		}	
+	}
+}
+
+music = {
+	song = "tarantella_siciliana"
+	chance = {
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				OR = {
+					TAG = ITA
+					TAG = PIE
+					TAG = PRM
+					TAG = MOD
+					TAG = LVN
+					TAG = PAP
+					TAG = TUS
+					TAG = NSC
+					TAG = SNM
+				}
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			NOT = { has_global_flag = is_eoanb_music_custom_true }
+		}
+		modifier = {
+			factor = 2
+			
+			OR = {
+				TAG = ITA
+				TAG = PIE
+				TAG = PRM
+				TAG = MOD
+				TAG = LVN
+				TAG = PAP
+				TAG = TUS
+				TAG = NSC
+				TAG = SNM
+			}
+		}	
+	}
+}
+
+music = {
+	song = "tarantella_napoletana"
+	chance = {
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				OR = {
+					TAG = ITA
+					TAG = PIE
+					TAG = PRM
+					TAG = MOD
+					TAG = LVN
+					TAG = PAP
+					TAG = TUS
+					TAG = NSC
+					TAG = SNM
+				}
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			NOT = { has_global_flag = is_eoanb_music_custom_true }
+		}
+		modifier = {
+			factor = 2
+			
+			OR = {
+				TAG = ITA
 				TAG = PIE
 				TAG = PRM
 				TAG = MOD
