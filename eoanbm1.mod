@@ -1,8 +1,6 @@
 name="EoaNB Music Submod - Bundle One"
 path="mod/eoanbm1/"
-dependencies={
-	"End of a New Beginning"
-}
+
 tags={
 	"Sound"
 }
