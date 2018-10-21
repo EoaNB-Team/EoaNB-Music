@@ -191,7 +191,7 @@ music = {
 
 music = {
 	name = "johnny_reb"
-	file = "eoanbm1_johny_reb.ogg"
+	file = "eoanbm1_johnny_reb.ogg"
 	volume = 0.8
 }
 
