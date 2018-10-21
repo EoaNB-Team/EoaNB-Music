@@ -1,4 +1,4 @@
-name="EoaNB Music Submod - Bundle One"
+﻿name="EoaNB Music Submod - Bundle One"
 path="mod/eoanbm1/"
 tags={
 	"Sound"

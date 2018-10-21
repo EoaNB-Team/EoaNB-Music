@@ -746,6 +746,176 @@ music = {
 	}
 }
 
+#CSA
+music = {
+	song = "southern_soldier"
+	chance = {
+		modifier = {
+			factor = 0
+			
+			NOT = { TAG = CSA }
+		}
+		modifier = {
+			factor = 0
+			
+			NOT = { has_global_flag = is_eoanb_music_custom_true }
+		}
+		modifier = {
+			factor = 2
+			
+			TAG = CSA
+		}	
+	}
+}
+
+music = {
+	song = "johnny_reb"
+	chance = {
+		modifier = {
+			factor = 0
+			
+			NOT = { TAG = CSA }
+		}
+		modifier = {
+			factor = 0
+			
+			NOT = { has_global_flag = is_eoanb_music_custom_true }
+		}
+		modifier = {
+			factor = 2
+			
+			TAG = CSA
+		}	
+	}
+}
+
+music = {
+	song = "southern_men_march"
+	chance = {
+		modifier = {
+			factor = 0
+			
+			NOT = { TAG = CSA }
+		}
+		modifier = {
+			factor = 0
+			
+			NOT = { has_global_flag = is_eoanb_music_custom_true }
+		}
+		modifier = {
+			factor = 2
+			
+			TAG = CSA
+		}	
+	}
+}
+
+music = {
+	song = "oh_susanna"
+	chance = {
+		modifier = {
+			factor = 0
+			
+			NOT = { TAG = CSA }
+		}
+		modifier = {
+			factor = 0
+			
+			NOT = { has_global_flag = is_eoanb_music_custom_true }
+		}
+		modifier = {
+			factor = 2
+			
+			TAG = CSA
+		}	
+	}
+}
+
+music = {
+	song = "good_old_rebel"
+	chance = {
+		modifier = {
+			factor = 0
+			
+			NOT = { TAG = CSA }
+		}
+		modifier = {
+			factor = 0
+			
+			NOT = { has_global_flag = is_eoanb_music_custom_true }
+		}
+		modifier = {
+			factor = 2
+			
+			TAG = CSA
+		}	
+	}
+}
+
+music = {
+	song = "southern_wagon"
+	chance = {
+		modifier = {
+			factor = 0
+			
+			NOT = { TAG = CSA }
+		}
+		modifier = {
+			factor = 0
+			
+			NOT = { has_global_flag = is_eoanb_music_custom_true }
+		}
+		modifier = {
+			factor = 2
+			
+			TAG = CSA
+		}	
+	}
+}
+
+music = {
+	song = "riding_a_raid"
+	chance = {
+		modifier = {
+			factor = 0
+			
+			NOT = { TAG = CSA }
+		}
+		modifier = {
+			factor = 0
+			
+			NOT = { has_global_flag = is_eoanb_music_custom_true }
+		}
+		modifier = {
+			factor = 2
+			
+			TAG = CSA
+		}	
+	}
+}
+
+#FIN
+music = {
+	song = "kauan_on_karsitty"
+	chance = {
+		modifier = {
+			factor = 0
+			
+			NOT = { OR = { TAG = RUS TAG = FIN } }
+		}
+		modifier = {
+			factor = 0
+			
+			NOT = { has_global_flag = is_eoanb_music_custom_true }
+		}
+		modifier = {
+			factor = 2
+			
+			OR = { TAG = RUS TAG = FIN }
+		}	
+	}
+}
+
 #CHI
 music = {
 	song = "mo_li_hua"
@@ -1131,6 +1301,27 @@ music = {
 }
 
 #FRA
+music = {
+	song = "le_chant_du_depart"
+	chance = {
+		modifier = {
+			factor = 0
+			
+			NOT = { TAG = FRA }
+		}
+		modifier = {
+			factor = 0
+			
+			NOT = { has_global_flag = is_eoanb_music_custom_true }
+		}
+		modifier = {
+			factor = 2
+			
+			TAG = FRA
+		}	
+	}
+}
+
 music = {
 	song = "danse_macabre"
 	chance = {

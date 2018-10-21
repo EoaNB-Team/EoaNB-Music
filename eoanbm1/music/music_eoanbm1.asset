@@ -182,6 +182,56 @@ music = {
 	volume = 0.8
 }
 
+#CSA
+music = {
+	name = "southern_soldier"
+	file = "eoanbm1_southern_soldier.ogg"
+	volume = 0.8
+}
+
+music = {
+	name = "johnny_reb"
+	file = "eoanbm1_johny_reb.ogg"
+	volume = 0.8
+}
+
+music = {
+	name = "southern_men_march"
+	file = "eoanbm1_southern_men_march.ogg"
+	volume = 0.8
+}
+
+music = {
+	name = "oh_susanna"
+	file = "eoanbm1_oh_susanna.ogg"
+	volume = 0.8
+}
+
+music = {
+	name = "good_old_rebel"
+	file = "eoanbm1_good_old_rebel.ogg"
+	volume = 0.8
+}
+
+music = {
+	name = "southern_wagon"
+	file = "eoanbm1_southern_wagon.ogg"
+	volume = 0.8
+}
+
+music = {
+	name = "riding_a_raid"
+	file = "eoanbm1_riding_a_raid.ogg"
+	volume = 0.8
+}
+
+#FIN
+music = {
+	name = "kauan_on_karsitty"
+	file = "eoanbm1_kauan_on_karsitty.ogg"
+	volume = 0.8
+}
+
 #CHI
 music = {
 	name = "mo_li_hua"
@@ -297,6 +347,12 @@ music = {
 }
 
 #FRA
+music = {
+	name = "le_chant_du_depart"
+	file = "eoanbm1_le_chant_du_depart.ogg"
+	volume = 0.8
+}
+
 music = {
 	name = "danse_macabre"
 	file = "eoanbm1_danse_macabre.ogg"
