@@ -1,5 +1,7 @@
 ### MUSIC SUBMOD BUNDLE 1 ###
 
+music_station = "eoanbm_bundle_one"
+
 music = {
 	song = "PRS_march_koniggratz"
 	

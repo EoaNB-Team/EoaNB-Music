@@ -1,0 +1,7 @@
+spriteTypes = {
+	spriteType = {
+		name = "GFX_eoanbm1_cover"
+		textureFile = "gfx/interface/topbar/musicplayer/bundle_one_cover.dds"
+		noOfFrames = 2
+	}
+}

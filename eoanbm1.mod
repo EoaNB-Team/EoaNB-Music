@@ -4,4 +4,4 @@ tags={
 	"Sound"
 }
 picture="eoanbm1.png"
-supported_version="1.5.*"
+supported_version="1.7.*"
