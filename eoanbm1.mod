@@ -4,5 +4,4 @@ tags={
 	"Sound"
 }
 picture="eoanbm1.png"
-remote_file_id="1816290971"
 supported_version="1.7.*"
