@@ -3,5 +3,10 @@ spriteTypes = {
 		name = "GFX_eoanbm1_cover"
 		textureFile = "gfx/interface/topbar/musicplayer/bundle_one_cover.dds"
 		noOfFrames = 2
-	}
+	}   
+	spriteType = {
+		name = "GFX_italy_album_art"
+		textureFile = "gfx/interface/topbar/musicplayer/italy_album_art.dds"
+		noOfFrames = 2
+	} 
 }
