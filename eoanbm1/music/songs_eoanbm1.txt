@@ -1795,6 +1795,264 @@ music = {
 	}
 }
 
+music = {
+	song = "Se_il_papa_e_andato_via"
+	chance = {
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				OR = {
+					TAG = ITA
+					TAG = PIE
+					TAG = PRM
+					TAG = MOD
+					TAG = LVN
+					TAG = PAP
+					TAG = TUS
+					TAG = NSC
+					TAG = SNM
+				}
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			NOT = { has_global_flag = is_eoanb_music_custom_true }
+		}
+		modifier = {
+			factor = 2
+			
+			OR = {
+				TAG = ITA
+				TAG = PIE
+				TAG = PRM
+				TAG = MOD
+				TAG = LVN
+				TAG = PAP
+				TAG = TUS
+				TAG = NSC
+				TAG = SNM
+			}
+		}	
+	}
+}
+
+music = {
+	song = "Marcia_delle_truppe_Sanfediste"
+	chance = {
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				OR = {
+					TAG = ITA
+					TAG = PIE
+					TAG = PRM
+					TAG = MOD
+					TAG = LVN
+					TAG = PAP
+					TAG = TUS
+					TAG = NSC
+					TAG = SNM
+				}
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			NOT = { has_global_flag = is_eoanb_music_custom_true }
+		}
+		modifier = {
+			factor = 2
+			
+			OR = {
+				TAG = ITA
+				TAG = PIE
+				TAG = PRM
+				TAG = MOD
+				TAG = LVN
+				TAG = PAP
+				TAG = TUS
+				TAG = NSC
+				TAG = SNM
+			}
+		}	
+	}
+}
+
+music = {
+	song = "Fratelli_d_Italia"
+	chance = {
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				OR = {
+					TAG = ITA
+					TAG = PIE
+					TAG = PRM
+					TAG = MOD
+					TAG = LVN
+					TAG = PAP
+					TAG = TUS
+					TAG = NSC
+					TAG = SNM
+				}
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			NOT = { has_global_flag = is_eoanb_music_custom_true }
+		}
+		modifier = {
+			factor = 2
+			
+			OR = {
+				TAG = ITA
+				TAG = PIE
+				TAG = PRM
+				TAG = MOD
+				TAG = LVN
+				TAG = PAP
+				TAG = TUS
+				TAG = NSC
+				TAG = SNM
+			}
+		}	
+	}
+}
+
+music = {
+	song = "Va_pensiero"
+	chance = {
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				OR = {
+					TAG = ITA
+					TAG = PIE
+					TAG = PRM
+					TAG = MOD
+					TAG = LVN
+					TAG = PAP
+					TAG = TUS
+					TAG = NSC
+					TAG = SNM
+				}
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			NOT = { has_global_flag = is_eoanb_music_custom_true }
+		}
+		modifier = {
+			factor = 2
+			
+			OR = {
+				TAG = ITA
+				TAG = PIE
+				TAG = PRM
+				TAG = MOD
+				TAG = LVN
+				TAG = PAP
+				TAG = TUS
+				TAG = NSC
+				TAG = SNM
+			}
+		}	
+	}
+}
+
+music = {
+	song = "Funiculi_Funicula"
+	chance = {
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				OR = {
+					TAG = ITA
+					TAG = PIE
+					TAG = PRM
+					TAG = MOD
+					TAG = LVN
+					TAG = PAP
+					TAG = TUS
+					TAG = NSC
+					TAG = SNM
+				}
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			NOT = { has_global_flag = is_eoanb_music_custom_true }
+		}
+		modifier = {
+			factor = 2
+			
+			OR = {
+				TAG = ITA
+				TAG = PIE
+				TAG = PRM
+				TAG = MOD
+				TAG = LVN
+				TAG = PAP
+				TAG = TUS
+				TAG = NSC
+				TAG = SNM
+			}
+		}	
+	}
+}
+
+music = {
+	song = "Gran_Marcia_Trionfale"
+	chance = {
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				OR = {
+					TAG = ITA
+					TAG = PIE
+					TAG = PRM
+					TAG = MOD
+					TAG = LVN
+					TAG = PAP
+					TAG = TUS
+					TAG = NSC
+					TAG = SNM
+				}
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			NOT = { has_global_flag = is_eoanb_music_custom_true }
+		}
+		modifier = {
+			factor = 2
+			
+			OR = {
+				TAG = ITA
+				TAG = PIE
+				TAG = PRM
+				TAG = MOD
+				TAG = LVN
+				TAG = PAP
+				TAG = TUS
+				TAG = NSC
+				TAG = SNM
+			}
+		}	
+	}
+}
+
 #all GER
 music = {
 	song = "traeumerei"

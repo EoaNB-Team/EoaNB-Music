@@ -24,3 +24,24 @@ music = {
 music = {
 	song = "tarantella_napoletana"
 }
+music = {
+	song = "Se_il_papa_e_andato_via"
+}
+music = {
+	song = "Marcia_delle_truppe_Sanfediste"
+}
+music = {
+	song = "La_Leopolda"
+}
+music = {
+	song = "Fratelli_d_Italia"
+}
+music = {
+	song = "Va_pensiero"
+}
+music = {
+	song = "Funiculi_Funicula"
+}
+music = {
+	song = "Gran_Marcia_Trionfale"
+}

@@ -445,6 +445,48 @@ music = {
 	volume = 0.8
 }
 
+music = {
+	name = "Se_il_papa_e_andato_via"
+	file = "eoanbm1_Se_il_papa_è_andato_via.ogg"
+	volume = 0.8
+}
+
+music = {
+	name = "Marcia_delle_truppe_Sanfediste"
+	file = "eoanbm1_Marcia_delle_truppe_Sanfediste.ogg"
+	volume = 0.8
+}
+
+music = {
+	name = "La_Leopolda"
+	file = "eoanbm1_La_Leopolda.ogg"
+	volume = 0.8
+}
+
+music = {
+	name = "Fratelli_d_Italia"
+	file = "eoanbm1_Fratelli_d'Italia.ogg"
+	volume = 0.8
+}
+
+music = {
+	name = "Va_pensiero"
+	file = "eoanbm1_Va_pensiero.ogg"
+	volume = 0.8
+}
+
+music = {
+	name = "Funiculi_Funicula"
+	file = "eoanbm1_Funiculi_Funicula.ogg"
+	volume = 0.8
+}
+
+music = {
+	name = "Gran_Marcia_Trionfale"
+	file = "eoanbm1_Gran_Marcia_Trionfale.ogg"
+	volume = 0.8
+}
+
 #all GER
 music = {
 	name = "traeumerei"
