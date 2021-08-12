@@ -2053,6 +2053,264 @@ music = {
 	}
 }
 
+music = {
+	song = "Brigante_Se_More"
+	chance = {
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				OR = {
+					TAG = ITA
+					TAG = PIE
+					TAG = PRM
+					TAG = MOD
+					TAG = LVN
+					TAG = PAP
+					TAG = TUS
+					TAG = NSC
+					TAG = SNM
+				}
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			NOT = { has_global_flag = is_eoanb_music_custom_true }
+		}
+		modifier = {
+			factor = 2
+			
+			OR = {
+				TAG = ITA
+				TAG = PIE
+				TAG = PRM
+				TAG = MOD
+				TAG = LVN
+				TAG = PAP
+				TAG = TUS
+				TAG = NSC
+				TAG = SNM
+			}
+		}	
+	}
+}
+
+music = {
+	song = "E_a_Roma_a_Roma"
+	chance = {
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				OR = {
+					TAG = ITA
+					TAG = PIE
+					TAG = PRM
+					TAG = MOD
+					TAG = LVN
+					TAG = PAP
+					TAG = TUS
+					TAG = NSC
+					TAG = SNM
+				}
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			NOT = { has_global_flag = is_eoanb_music_custom_true }
+		}
+		modifier = {
+			factor = 2
+			
+			OR = {
+				TAG = ITA
+				TAG = PIE
+				TAG = PRM
+				TAG = MOD
+				TAG = LVN
+				TAG = PAP
+				TAG = TUS
+				TAG = NSC
+				TAG = SNM
+			}
+		}	
+	}
+}
+
+music = {
+	song = "Addio_mia_bella_addio"
+	chance = {
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				OR = {
+					TAG = ITA
+					TAG = PIE
+					TAG = PRM
+					TAG = MOD
+					TAG = LVN
+					TAG = PAP
+					TAG = TUS
+					TAG = NSC
+					TAG = SNM
+				}
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			NOT = { has_global_flag = is_eoanb_music_custom_true }
+		}
+		modifier = {
+			factor = 2
+			
+			OR = {
+				TAG = ITA
+				TAG = PIE
+				TAG = PRM
+				TAG = MOD
+				TAG = LVN
+				TAG = PAP
+				TAG = TUS
+				TAG = NSC
+				TAG = SNM
+			}
+		}	
+	}
+}
+
+music = {
+	song = "Camicia_Rossa"
+	chance = {
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				OR = {
+					TAG = ITA
+					TAG = PIE
+					TAG = PRM
+					TAG = MOD
+					TAG = LVN
+					TAG = PAP
+					TAG = TUS
+					TAG = NSC
+					TAG = SNM
+				}
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			NOT = { has_global_flag = is_eoanb_music_custom_true }
+		}
+		modifier = {
+			factor = 2
+			
+			OR = {
+				TAG = ITA
+				TAG = PIE
+				TAG = PRM
+				TAG = MOD
+				TAG = LVN
+				TAG = PAP
+				TAG = TUS
+				TAG = NSC
+				TAG = SNM
+			}
+		}	
+	}
+}
+
+music = {
+	song = "Aida_Marcia"
+	chance = {
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				OR = {
+					TAG = ITA
+					TAG = PIE
+					TAG = PRM
+					TAG = MOD
+					TAG = LVN
+					TAG = PAP
+					TAG = TUS
+					TAG = NSC
+					TAG = SNM
+				}
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			NOT = { has_global_flag = is_eoanb_music_custom_true }
+		}
+		modifier = {
+			factor = 2
+			
+			OR = {
+				TAG = ITA
+				TAG = PIE
+				TAG = PRM
+				TAG = MOD
+				TAG = LVN
+				TAG = PAP
+				TAG = TUS
+				TAG = NSC
+				TAG = SNM
+			}
+		}	
+	}
+}
+
+music = {
+	song = "Noi_vogliam_Dio_Vergine_Maria"
+	chance = {
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				OR = {
+					TAG = ITA
+					TAG = PIE
+					TAG = PRM
+					TAG = MOD
+					TAG = LVN
+					TAG = PAP
+					TAG = TUS
+					TAG = NSC
+					TAG = SNM
+				}
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			NOT = { has_global_flag = is_eoanb_music_custom_true }
+		}
+		modifier = {
+			factor = 2
+			
+			OR = {
+				TAG = ITA
+				TAG = PIE
+				TAG = PRM
+				TAG = MOD
+				TAG = LVN
+				TAG = PAP
+				TAG = TUS
+				TAG = NSC
+				TAG = SNM
+			}
+		}	
+	}
+}
+
 #all GER
 music = {
 	song = "traeumerei"

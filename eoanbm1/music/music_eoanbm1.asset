@@ -487,6 +487,42 @@ music = {
 	volume = 0.8
 }
 
+music = {
+	name = "Brigante_Se_More"
+	file = "eoanbm1_Brigante_Se_More.ogg"
+	volume = 0.8
+}
+
+music = {
+	name = "E_a_Roma_a_Roma"
+	file = "eoanbm1_E_a_Roma_a_Roma.ogg"
+	volume = 0.8
+}
+
+music = {
+	name = "Addio_mia_bella_addio"
+	file = "eoanbm1_Addio_mia_bella_addio.ogg"
+	volume = 0.8
+}
+
+music = {
+	name = "Camicia_Rossa"
+	file = "eoanbm1_Camicia_Rossa.ogg"
+	volume = 0.8
+}
+
+music = {
+	name = "Aida_Marcia"
+	file = "eoanbm1_Aida_Marcia.ogg"
+	volume = 0.8
+}
+
+music = {
+	name = "Noi_vogliam_Dio_Vergine_Maria"
+	file = "eoanbm1_Noi_vogliam_Dio_Vergine_Maria.ogg"
+	volume = 0.8
+}
+
 #all GER
 music = {
 	name = "traeumerei"

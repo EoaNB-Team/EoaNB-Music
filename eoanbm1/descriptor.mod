@@ -4,3 +4,7 @@ tags={
 }
 picture="thumbnail.png"
 supported_version="1.10.*"
+replace_path="music/hoi2"
+replace_path="music/hoi3"
+replace_path="music/germanmarchorder.txt"
+replace_path="music/alliedradio.txt"
