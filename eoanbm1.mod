@@ -3,4 +3,4 @@ tags={
 	"Sound"
 }
 picture="thumbnail.png"
-supported_version="1.10.*"
+supported_version="1.11.*"
