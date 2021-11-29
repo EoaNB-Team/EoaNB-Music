@@ -14,12 +14,10 @@ music = {
 		modifier = {
 			factor = 0
 			
-			NOT = { has_global_flag = is_eoanb_music_custom_true }
-		}
-		modifier = {
-			factor = 2
-			
-			TAG = PRS
+			OR = {
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
+			}
 		}
 	}
 }
@@ -36,7 +34,10 @@ music = {
 		modifier = {
 			factor = 0
 			
-			NOT = { has_global_flag = is_eoanb_music_custom_true }
+			OR = {
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
+			}
 		}
 	}
 }
@@ -53,7 +54,10 @@ music = {
 		modifier = {
 			factor = 0
 			
-			NOT = { has_global_flag = is_eoanb_music_custom_true }
+			OR = {
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
+			}
 		}
 		modifier = {
 			factor = 0
@@ -75,7 +79,10 @@ music = {
 		modifier = {
 			factor = 0
 			
-			NOT = { has_global_flag = is_eoanb_music_custom_true }
+			OR = {
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
+			}
 		}
 		modifier = {
 			factor = 0
@@ -105,7 +112,10 @@ music = {
 		modifier = {
 			factor = 0
 			
-			NOT = { has_global_flag = is_eoanb_music_custom_true }
+			OR = {
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
+			}
 		}
 		modifier = {
 			factor = 0
@@ -135,12 +145,10 @@ music = {
 		modifier = {
 			factor = 0
 			
-			NOT = { has_global_flag = is_eoanb_music_custom_true }
-		}
-		modifier = {
-			factor = 2
-			
-			TAG = ENG
+			OR = {
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
+			}
 		}
 	}
 }
@@ -165,12 +173,10 @@ music = {
 		modifier = {
 			factor = 0
 			
-			NOT = { has_global_flag = is_eoanb_music_custom_true }
-		}
-		modifier = {
-			factor = 2
-			
-			TAG = ENG
+			OR = {
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
+			}
 		}
 	}
 }
@@ -194,7 +200,10 @@ music = {
 		modifier = {
 			factor = 0
 			
-			NOT = { has_global_flag = is_eoanb_music_custom_true }
+			OR = {
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
+			}
 		}
 		modifier = {
 			factor = 2
@@ -223,7 +232,10 @@ music = {
 		modifier = {
 			factor = 0
 			
-			NOT = { has_global_flag = is_eoanb_music_custom_true }
+			OR = {
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
+			}
 		}
 		modifier = {
 			factor = 2
@@ -245,7 +257,10 @@ music = {
 		modifier = {
 			factor = 0
 			
-			NOT = { has_global_flag = is_eoanb_music_custom_true }
+			OR = {
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
+			}
 		}
 		modifier = {
 			factor = 2
@@ -267,7 +282,10 @@ music = {
 		modifier = {
 			factor = 0
 			
-			NOT = { has_global_flag = is_eoanb_music_custom_true }
+			OR = {
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
+			}
 		}
 		modifier = {
 			factor = 2
@@ -289,7 +307,10 @@ music = {
 		modifier = {
 			factor = 0
 			
-			NOT = { has_global_flag = is_eoanb_music_custom_true }
+			OR = {
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
+			}
 		}
 		modifier = {
 			factor = 1.75
@@ -311,7 +332,10 @@ music = {
 		modifier = {
 			factor = 0
 			
-			NOT = { has_global_flag = is_eoanb_music_custom_true }
+			OR = {
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
+			}
 		}
 		modifier = {
 			factor = 1.75
@@ -333,7 +357,10 @@ music = {
 		modifier = {
 			factor = 0
 			
-			NOT = { has_global_flag = is_eoanb_music_custom_true }
+			OR = {
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
+			}
 		}
 		modifier = {
 			factor = 1.75
@@ -355,7 +382,10 @@ music = {
 		modifier = {
 			factor = 0
 			
-			NOT = { has_global_flag = is_eoanb_music_custom_true }
+			OR = {
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
+			}
 		}
 		modifier = {
 			factor = 1.5
@@ -377,7 +407,10 @@ music = {
 		modifier = {
 			factor = 0
 			
-			NOT = { has_global_flag = is_eoanb_music_custom_true }
+			OR = {
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
+			}
 		}
 		modifier = {
 			factor = 1.5
@@ -399,7 +432,10 @@ music = {
 		modifier = {
 			factor = 0
 			
-			NOT = { has_global_flag = is_eoanb_music_custom_true }
+			OR = {
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
+			}
 		}
 		modifier = {
 			factor = 1
@@ -427,7 +463,10 @@ music = {
 		modifier = {
 			factor = 0
 			
-			NOT = { has_global_flag = is_eoanb_music_custom_true }
+			OR = {
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
+			}
 		}
 		modifier = {
 			factor = 1.75
@@ -449,7 +488,10 @@ music = {
 		modifier = {
 			factor = 0
 			
-			NOT = { has_global_flag = is_eoanb_music_custom_true }
+			OR = {
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
+			}
 		}
 		modifier = {
 			factor = 0
@@ -483,7 +525,10 @@ music = {
 		modifier = {
 			factor = 0
 			
-			NOT = { has_global_flag = is_eoanb_music_custom_true }
+			OR = {
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
+			}
 		}
 		modifier = {
 			factor = 2
@@ -511,7 +556,10 @@ music = {
 		modifier = {
 			factor = 0
 			
-			NOT = { has_global_flag = is_eoanb_music_custom_true }
+			OR = {
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
+			}
 		}
 		modifier = {
 			factor = 0
@@ -545,7 +593,10 @@ music = {
 		modifier = {
 			factor = 0
 			
-			NOT = { has_global_flag = is_eoanb_music_custom_true }
+			OR = {
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
+			}
 		}
 		modifier = {
 			factor = 2
@@ -573,7 +624,10 @@ music = {
 		modifier = {
 			factor = 0
 			
-			NOT = { has_global_flag = is_eoanb_music_custom_true }
+			OR = {
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
+			}
 		}
 		modifier = {
 			factor = 2
@@ -601,7 +655,10 @@ music = {
 		modifier = {
 			factor = 0
 			
-			NOT = { has_global_flag = is_eoanb_music_custom_true }
+			OR = {
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
+			}
 		}
 		modifier = {
 			factor = 0
@@ -631,7 +688,10 @@ music = {
 		modifier = {
 			factor = 0
 			
-			NOT = { has_global_flag = is_eoanb_music_custom_true }
+			OR = {
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
+			}
 		}
 		modifier = {
 			factor = 0
@@ -653,7 +713,10 @@ music = {
 		modifier = {
 			factor = 0
 			
-			NOT = { has_global_flag = is_eoanb_music_custom_true }
+			OR = {
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
+			}
 		}
 		modifier = {
 			factor = 2
@@ -674,7 +737,10 @@ music = {
 		modifier = {
 			factor = 0
 			
-			NOT = { has_global_flag = is_eoanb_music_custom_true }
+			OR = {
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
+			}
 		}
 		modifier = {
 			factor = 2
@@ -695,7 +761,10 @@ music = {
 		modifier = {
 			factor = 0
 			
-			NOT = { has_global_flag = is_eoanb_music_custom_true }
+			OR = {
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
+			}
 		}
 		modifier = {
 			factor = 2
@@ -717,7 +786,10 @@ music = {
 		modifier = {
 			factor = 0
 			
-			NOT = { has_global_flag = is_eoanb_music_custom_true }
+			OR = {
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
+			}
 		}
 		modifier = {
 			factor = 2
@@ -738,7 +810,10 @@ music = {
 		modifier = {
 			factor = 0
 			
-			NOT = { has_global_flag = is_eoanb_music_custom_true }
+			OR = {
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
+			}
 		}
 		modifier = {
 			factor = 2
@@ -760,7 +835,10 @@ music = {
 		modifier = {
 			factor = 0
 			
-			NOT = { has_global_flag = is_eoanb_music_custom_true }
+			OR = {
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
+			}
 		}
 		modifier = {
 			factor = 2
@@ -781,7 +859,10 @@ music = {
 		modifier = {
 			factor = 0
 			
-			NOT = { has_global_flag = is_eoanb_music_custom_true }
+			OR = {
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
+			}
 		}
 		modifier = {
 			factor = 2
@@ -802,7 +883,10 @@ music = {
 		modifier = {
 			factor = 0
 			
-			NOT = { has_global_flag = is_eoanb_music_custom_true }
+			OR = {
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
+			}
 		}
 		modifier = {
 			factor = 2
@@ -823,7 +907,10 @@ music = {
 		modifier = {
 			factor = 0
 			
-			NOT = { has_global_flag = is_eoanb_music_custom_true }
+			OR = {
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
+			}
 		}
 		modifier = {
 			factor = 2
@@ -844,7 +931,10 @@ music = {
 		modifier = {
 			factor = 0
 			
-			NOT = { has_global_flag = is_eoanb_music_custom_true }
+			OR = {
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
+			}
 		}
 		modifier = {
 			factor = 2
@@ -865,7 +955,10 @@ music = {
 		modifier = {
 			factor = 0
 			
-			NOT = { has_global_flag = is_eoanb_music_custom_true }
+			OR = {
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
+			}
 		}
 		modifier = {
 			factor = 2
@@ -886,7 +979,10 @@ music = {
 		modifier = {
 			factor = 0
 			
-			NOT = { has_global_flag = is_eoanb_music_custom_true }
+			OR = {
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
+			}
 		}
 		modifier = {
 			factor = 2
@@ -908,7 +1004,10 @@ music = {
 		modifier = {
 			factor = 0
 			
-			NOT = { has_global_flag = is_eoanb_music_custom_true }
+			OR = {
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
+			}
 		}
 		modifier = {
 			factor = 2
@@ -930,7 +1029,10 @@ music = {
 		modifier = {
 			factor = 0
 			
-			NOT = { has_global_flag = is_eoanb_music_custom_true }
+			OR = {
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
+			}
 		}
 		modifier = {
 			factor = 2
@@ -951,7 +1053,10 @@ music = {
 		modifier = {
 			factor = 0
 			
-			NOT = { has_global_flag = is_eoanb_music_custom_true }
+			OR = {
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
+			}
 		}
 		modifier = {
 			factor = 2
@@ -972,7 +1077,10 @@ music = {
 		modifier = {
 			factor = 0
 			
-			NOT = { has_global_flag = is_eoanb_music_custom_true }
+			OR = {
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
+			}
 		}
 		modifier = {
 			factor = 2
@@ -993,7 +1101,10 @@ music = {
 		modifier = {
 			factor = 0
 			
-			NOT = { has_global_flag = is_eoanb_music_custom_true }
+			OR = {
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
+			}
 		}
 		modifier = {
 			factor = 2
@@ -1015,7 +1126,10 @@ music = {
 		modifier = {
 			factor = 0
 			
-			NOT = { has_global_flag = is_eoanb_music_custom_true }
+			OR = {
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
+			}
 		}
 		modifier = {
 			factor = 2
@@ -1036,7 +1150,10 @@ music = {
 		modifier = {
 			factor = 0
 			
-			NOT = { has_global_flag = is_eoanb_music_custom_true }
+			OR = {
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
+			}
 		}
 		modifier = {
 			factor = 2
@@ -1057,7 +1174,10 @@ music = {
 		modifier = {
 			factor = 0
 			
-			NOT = { has_global_flag = is_eoanb_music_custom_true }
+			OR = {
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
+			}
 		}
 		modifier = {
 			factor = 2
@@ -1079,7 +1199,10 @@ music = {
 		modifier = {
 			factor = 0
 			
-			NOT = { has_global_flag = is_eoanb_music_custom_true }
+			OR = {
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
+			}
 		}
 		modifier = {
 			factor = 2
@@ -1101,7 +1224,10 @@ music = {
 		modifier = {
 			factor = 0
 			
-			NOT = { has_global_flag = is_eoanb_music_custom_true }
+			OR = {
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
+			}
 		}
 		modifier = {
 			factor = 2
@@ -1122,7 +1248,10 @@ music = {
 		modifier = {
 			factor = 0
 			
-			NOT = { has_global_flag = is_eoanb_music_custom_true }
+			OR = {
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
+			}
 		}
 		modifier = {
 			factor = 2
@@ -1144,7 +1273,10 @@ music = {
 		modifier = {
 			factor = 0
 			
-			NOT = { has_global_flag = is_eoanb_music_custom_true }
+			OR = {
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
+			}
 		}
 		modifier = {
 			factor = 2
@@ -1165,7 +1297,10 @@ music = {
 		modifier = {
 			factor = 0
 			
-			NOT = { has_global_flag = is_eoanb_music_custom_true }
+			OR = {
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
+			}
 		}
 		modifier = {
 			factor = 2
@@ -1186,7 +1321,10 @@ music = {
 		modifier = {
 			factor = 0
 			
-			NOT = { has_global_flag = is_eoanb_music_custom_true }
+			OR = {
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
+			}
 		}
 		modifier = {
 			factor = 2
@@ -1207,7 +1345,10 @@ music = {
 		modifier = {
 			factor = 0
 			
-			NOT = { has_global_flag = is_eoanb_music_custom_true }
+			OR = {
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
+			}
 		}
 		modifier = {
 			factor = 2
@@ -1229,7 +1370,10 @@ music = {
 		modifier = {
 			factor = 0
 			
-			NOT = { has_global_flag = is_eoanb_music_custom_true }
+			OR = {
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
+			}
 		}
 		modifier = {
 			factor = 2
@@ -1250,7 +1394,10 @@ music = {
 		modifier = {
 			factor = 0
 			
-			NOT = { has_global_flag = is_eoanb_music_custom_true }
+			OR = {
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
+			}
 		}
 		modifier = {
 			factor = 2
@@ -1271,7 +1418,10 @@ music = {
 		modifier = {
 			factor = 0
 			
-			NOT = { has_global_flag = is_eoanb_music_custom_true }
+			OR = {
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
+			}
 		}
 		modifier = {
 			factor = 2
@@ -1292,7 +1442,10 @@ music = {
 		modifier = {
 			factor = 0
 			
-			NOT = { has_global_flag = is_eoanb_music_custom_true }
+			OR = {
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
+			}
 		}
 		modifier = {
 			factor = 2
@@ -1314,7 +1467,10 @@ music = {
 		modifier = {
 			factor = 0
 			
-			NOT = { has_global_flag = is_eoanb_music_custom_true }
+			OR = {
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
+			}
 		}
 		modifier = {
 			factor = 2
@@ -1335,7 +1491,10 @@ music = {
 		modifier = {
 			factor = 0
 			
-			NOT = { has_global_flag = is_eoanb_music_custom_true }
+			OR = {
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
+			}
 		}
 		modifier = {
 			factor = 2
@@ -1356,7 +1515,10 @@ music = {
 		modifier = {
 			factor = 0
 			
-			NOT = { has_global_flag = is_eoanb_music_custom_true }
+			OR = {
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
+			}
 		}
 		modifier = {
 			factor = 2
@@ -1377,7 +1539,10 @@ music = {
 		modifier = {
 			factor = 0
 			
-			NOT = { has_global_flag = is_eoanb_music_custom_true }
+			OR = {
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
+			}
 		}
 		modifier = {
 			factor = 2
@@ -1398,7 +1563,10 @@ music = {
 		modifier = {
 			factor = 0
 			
-			NOT = { has_global_flag = is_eoanb_music_custom_true }
+			OR = {
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
+			}
 		}
 		modifier = {
 			factor = 2
@@ -1420,7 +1588,10 @@ music = {
 		modifier = {
 			factor = 0
 			
-			NOT = { has_global_flag = is_eoanb_music_custom_true }
+			OR = {
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
+			}
 		}
 		modifier = {
 			factor = 2
@@ -1441,7 +1612,10 @@ music = {
 		modifier = {
 			factor = 0
 			
-			NOT = { has_global_flag = is_eoanb_music_custom_true }
+			OR = {
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
+			}
 		}
 		modifier = {
 			factor = 2
@@ -1462,7 +1636,10 @@ music = {
 		modifier = {
 			factor = 0
 			
-			NOT = { has_global_flag = is_eoanb_music_custom_true }
+			OR = {
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
+			}
 		}
 		modifier = {
 			factor = 2
@@ -1483,7 +1660,10 @@ music = {
 		modifier = {
 			factor = 0
 			
-			NOT = { has_global_flag = is_eoanb_music_custom_true }
+			OR = {
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
+			}
 		}
 		modifier = {
 			factor = 2
@@ -1517,7 +1697,10 @@ music = {
 		modifier = {
 			factor = 0
 			
-			NOT = { has_global_flag = is_eoanb_music_custom_true }
+			OR = {
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
+			}
 		}
 		modifier = {
 			factor = 2
@@ -1560,7 +1743,10 @@ music = {
 		modifier = {
 			factor = 0
 			
-			NOT = { has_global_flag = is_eoanb_music_custom_true }
+			OR = {
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
+			}
 		}
 		modifier = {
 			factor = 2
@@ -1603,7 +1789,10 @@ music = {
 		modifier = {
 			factor = 0
 			
-			NOT = { has_global_flag = is_eoanb_music_custom_true }
+			OR = {
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
+			}
 		}
 		modifier = {
 			factor = 2
@@ -1646,7 +1835,10 @@ music = {
 		modifier = {
 			factor = 0
 			
-			NOT = { has_global_flag = is_eoanb_music_custom_true }
+			OR = {
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
+			}
 		}
 		modifier = {
 			factor = 2
@@ -1689,7 +1881,10 @@ music = {
 		modifier = {
 			factor = 0
 			
-			NOT = { has_global_flag = is_eoanb_music_custom_true }
+			OR = {
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
+			}
 		}
 		modifier = {
 			factor = 2
@@ -1732,7 +1927,10 @@ music = {
 		modifier = {
 			factor = 0
 			
-			NOT = { has_global_flag = is_eoanb_music_custom_true }
+			OR = {
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
+			}
 		}
 		modifier = {
 			factor = 2
@@ -1775,7 +1973,10 @@ music = {
 		modifier = {
 			factor = 0
 			
-			NOT = { has_global_flag = is_eoanb_music_custom_true }
+			OR = {
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
+			}
 		}
 		modifier = {
 			factor = 2
@@ -1818,7 +2019,10 @@ music = {
 		modifier = {
 			factor = 0
 			
-			NOT = { has_global_flag = is_eoanb_music_custom_true }
+			OR = {
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
+			}
 		}
 		modifier = {
 			factor = 2
@@ -1861,7 +2065,10 @@ music = {
 		modifier = {
 			factor = 0
 			
-			NOT = { has_global_flag = is_eoanb_music_custom_true }
+			OR = {
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
+			}
 		}
 		modifier = {
 			factor = 2
@@ -1904,7 +2111,10 @@ music = {
 		modifier = {
 			factor = 0
 			
-			NOT = { has_global_flag = is_eoanb_music_custom_true }
+			OR = {
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
+			}
 		}
 		modifier = {
 			factor = 2
@@ -1947,7 +2157,10 @@ music = {
 		modifier = {
 			factor = 0
 			
-			NOT = { has_global_flag = is_eoanb_music_custom_true }
+			OR = {
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
+			}
 		}
 		modifier = {
 			factor = 2
@@ -1990,7 +2203,10 @@ music = {
 		modifier = {
 			factor = 0
 			
-			NOT = { has_global_flag = is_eoanb_music_custom_true }
+			OR = {
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
+			}
 		}
 		modifier = {
 			factor = 2
@@ -2033,7 +2249,10 @@ music = {
 		modifier = {
 			factor = 0
 			
-			NOT = { has_global_flag = is_eoanb_music_custom_true }
+			OR = {
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
+			}
 		}
 		modifier = {
 			factor = 2
@@ -2076,7 +2295,10 @@ music = {
 		modifier = {
 			factor = 0
 			
-			NOT = { has_global_flag = is_eoanb_music_custom_true }
+			OR = {
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
+			}
 		}
 		modifier = {
 			factor = 2
@@ -2119,7 +2341,10 @@ music = {
 		modifier = {
 			factor = 0
 			
-			NOT = { has_global_flag = is_eoanb_music_custom_true }
+			OR = {
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
+			}
 		}
 		modifier = {
 			factor = 2
@@ -2162,7 +2387,10 @@ music = {
 		modifier = {
 			factor = 0
 			
-			NOT = { has_global_flag = is_eoanb_music_custom_true }
+			OR = {
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
+			}
 		}
 		modifier = {
 			factor = 2
@@ -2205,7 +2433,10 @@ music = {
 		modifier = {
 			factor = 0
 			
-			NOT = { has_global_flag = is_eoanb_music_custom_true }
+			OR = {
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
+			}
 		}
 		modifier = {
 			factor = 2
@@ -2248,7 +2479,10 @@ music = {
 		modifier = {
 			factor = 0
 			
-			NOT = { has_global_flag = is_eoanb_music_custom_true }
+			OR = {
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
+			}
 		}
 		modifier = {
 			factor = 2
@@ -2291,7 +2525,10 @@ music = {
 		modifier = {
 			factor = 0
 			
-			NOT = { has_global_flag = is_eoanb_music_custom_true }
+			OR = {
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
+			}
 		}
 		modifier = {
 			factor = 2
@@ -2339,7 +2576,10 @@ music = {
 		modifier = {
 			factor = 0
 			
-			NOT = { has_global_flag = is_eoanb_music_custom_true }
+			OR = {
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
+			}
 		}
 		modifier = {
 			factor = 2
@@ -2390,7 +2630,10 @@ music = {
 		modifier = {
 			factor = 0
 			
-			NOT = { has_global_flag = is_eoanb_music_custom_true }
+			OR = {
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
+			}
 		}
 		modifier = {
 			factor = 2
@@ -2441,7 +2684,10 @@ music = {
 		modifier = {
 			factor = 0
 			
-			NOT = { has_global_flag = is_eoanb_music_custom_true }
+			OR = {
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
+			}
 		}
 		modifier = {
 			factor = 2
@@ -2492,7 +2738,10 @@ music = {
 		modifier = {
 			factor = 0
 			
-			NOT = { has_global_flag = is_eoanb_music_custom_true }
+			OR = {
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
+			}
 		}
 		modifier = {
 			factor = 2
@@ -2543,7 +2792,10 @@ music = {
 		modifier = {
 			factor = 0
 			
-			NOT = { has_global_flag = is_eoanb_music_custom_true }
+			OR = {
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
+			}
 		}
 		modifier = {
 			factor = 2
@@ -2581,7 +2833,10 @@ music = {
 		modifier = {
 			factor = 0
 			
-			NOT = { has_global_flag = is_eoanb_music_custom_true }
+			OR = {
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
+			}
 		}
 		modifier = {
 			factor = 2
@@ -2604,7 +2859,10 @@ music = {
 		modifier = {
 			factor = 0
 			
-			NOT = { has_global_flag = is_eoanb_music_custom_true }
+			OR = {
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
+			}
 		}
 		modifier = {
 			factor = 2
@@ -2627,7 +2885,10 @@ music = {
 		modifier = {
 			factor = 0
 			
-			NOT = { has_global_flag = is_eoanb_music_custom_true }
+			OR = {
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
+			}
 		}
 		modifier = {
 			factor = 2
@@ -2650,7 +2911,10 @@ music = {
 		modifier = {
 			factor = 0
 			
-			NOT = { has_global_flag = is_eoanb_music_custom_true }
+			OR = {
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
+			}
 		}
 		modifier = {
 			factor = 2
@@ -2676,7 +2940,10 @@ music = {
 		modifier = {
 			factor = 0
 			
-			NOT = { has_global_flag = is_eoanb_music_custom_true }
+			OR = {
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
+			}
 		}
 		modifier = {
 			factor = 2
@@ -2702,7 +2969,10 @@ music = {
 		modifier = {
 			factor = 0
 			
-			NOT = { has_global_flag = is_eoanb_music_custom_true }
+			OR = {
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
+			}
 		}
 		modifier = {
 			factor = 2
@@ -2725,7 +2995,10 @@ music = {
 		modifier = {
 			factor = 0
 			
-			NOT = { has_global_flag = is_eoanb_music_custom_true }
+			OR = {
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
+			}
 		}
 		modifier = {
 			factor = 2
@@ -2748,7 +3021,10 @@ music = {
 		modifier = {
 			factor = 0
 			
-			NOT = { has_global_flag = is_eoanb_music_custom_true }
+			OR = {
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
+			}
 		}
 		modifier = {
 			factor = 2
