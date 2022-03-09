@@ -560,6 +560,30 @@ music = {
 	volume = 0.8
 }
 
+music = {
+	name = "Deutschlandlied"
+	file = "eoanbm1_Deutschlandlied.ogg"
+	volume = 0.8
+}
+
+music = {
+	name = "Die_Wacht_am_Rhein"
+	file = "eoanbm1_Die_Wacht_am_Rhein.ogg"
+	volume = 0.8
+}
+
+music = {
+	name = "Preussenlied"
+	file = "eoanbm1_Preussenlied.ogg"
+	volume = 0.8
+}
+
+music = {
+	name = "Preubens_Gloria"
+	file = "eoanbm1_Preußens_Gloria.ogg"
+	volume = 0.8
+}
+
 #SWE
 music = {
 	name = "till_fronten"

@@ -30,3 +30,15 @@ music = {
 music = {
 	song = "was_ist_des_deutschen_vaterland"
 }
+music = {
+	song = "Deutschlandlied"
+}
+music = {
+	song = "Die_Wacht_am_Rhein"
+}
+music = {
+	song = "Preussenlied"
+}
+music = {
+	song = "Preubens_Gloria"
+}
