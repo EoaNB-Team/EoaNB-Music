@@ -1,19 +1,16 @@
 ### MUSIC SUBMOD BUNDLE 1 ###
-
 music_station = "eoanbm_bundle_one"
-
 music = {
 	song = "PRS_march_koniggratz"
-	
 	chance = {
 		modifier = {
 			factor = 0
-			
-			NOT = { TAG = PRS }
+			NOT = {
+				TAG = PRS
+			}
 		}
 		modifier = {
 			factor = 0
-			
 			OR = {
 				has_global_flag = eoanb_gamerule_music_disabled
 				has_country_flag = eoanb_gamerule_music_disabled
@@ -24,16 +21,13 @@ music = {
 
 music = {
 	song = "eoanb_peace_1"
-	
 	chance = {
 		modifier = {
 			factor = 1
-
 			has_war = no
 		}
 		modifier = {
 			factor = 0
-			
 			OR = {
 				has_global_flag = eoanb_gamerule_music_disabled
 				has_country_flag = eoanb_gamerule_music_disabled
@@ -44,16 +38,13 @@ music = {
 
 music = {
 	song = "eoanb_peace_2"
-	
 	chance = {
 		modifier = {
 			factor = 1
-
 			has_war = no
 		}
 		modifier = {
 			factor = 0
-			
 			OR = {
 				has_global_flag = eoanb_gamerule_music_disabled
 				has_country_flag = eoanb_gamerule_music_disabled
@@ -61,24 +52,22 @@ music = {
 		}
 		modifier = {
 			factor = 0
-			
-			NOT = { has_idea = victorian_era }
+			NOT = {
+				has_idea = victorian_era
+			}
 		}
 	}
 }
 
 music = {
 	song = "eoanb_peace_4"
-	
 	chance = {
 		modifier = {
 			factor = 1
-
 			has_war = no
 		}
 		modifier = {
 			factor = 0
-			
 			OR = {
 				has_global_flag = eoanb_gamerule_music_disabled
 				has_country_flag = eoanb_gamerule_music_disabled
@@ -86,11 +75,10 @@ music = {
 		}
 		modifier = {
 			factor = 0
-		
-			NOT = { 
+			NOT = {
 				OR = {
 					has_idea = pre_industrial_era
-					has_idea = victorian_era 
+					has_idea = victorian_era
 					has_idea = machine_era
 					has_idea = oil_era
 					has_idea = aviation_era
@@ -102,16 +90,13 @@ music = {
 
 music = {
 	song = "eoanb_peace_5"
-	
 	chance = {
 		modifier = {
 			factor = 1
-
 			has_war = no
 		}
 		modifier = {
 			factor = 0
-			
 			OR = {
 				has_global_flag = eoanb_gamerule_music_disabled
 				has_country_flag = eoanb_gamerule_music_disabled
@@ -119,11 +104,10 @@ music = {
 		}
 		modifier = {
 			factor = 0
-		
-			NOT = { 
+			NOT = {
 				OR = {
 					has_idea = pre_industrial_era
-					has_idea = victorian_era 
+					has_idea = victorian_era
 					has_idea = machine_era
 					has_idea = oil_era
 					has_idea = aviation_era
@@ -135,16 +119,15 @@ music = {
 
 music = {
 	song = "ENG_british_grenadiers_song"
-	
 	chance = {
 		modifier = {
 			factor = 0
-			
-			NOT = { TAG = ENG }
+			NOT = {
+				TAG = ENG
+			}
 		}
 		modifier = {
 			factor = 0
-			
 			OR = {
 				has_global_flag = eoanb_gamerule_music_disabled
 				has_country_flag = eoanb_gamerule_music_disabled
@@ -155,16 +138,15 @@ music = {
 
 music = {
 	song = "ENG_god_save_the_queen_song"
-	
 	chance = {
 		modifier = {
 			factor = 0
-			
-			NOT = { TAG = ENG }
+			NOT = {
+				TAG = ENG
+			}
 		}
 		modifier = {
 			factor = 0
-			
 			has_government = collectivist_socialism
 			has_government = vanguard_communism
 			has_government = anarchism
@@ -172,7 +154,6 @@ music = {
 		}
 		modifier = {
 			factor = 0
-			
 			OR = {
 				has_global_flag = eoanb_gamerule_music_disabled
 				has_country_flag = eoanb_gamerule_music_disabled
@@ -183,23 +164,21 @@ music = {
 
 music = {
 	song = "FRA_marsellaise_song"
-	
 	chance = {
 		modifier = {
 			factor = 0
-			
-			NOT = { TAG = FRA }
+			NOT = {
+				TAG = FRA
+			}
 		}
 		modifier = {
 			factor = 0
-			
 			has_government = chauvinist_populism
 			has_government = autocracy
 			has_government = fundamentalism
 		}
 		modifier = {
 			factor = 0
-			
 			OR = {
 				has_global_flag = eoanb_gamerule_music_disabled
 				has_country_flag = eoanb_gamerule_music_disabled
@@ -207,7 +186,6 @@ music = {
 		}
 		modifier = {
 			factor = 2
-			
 			TAG = FRA
 		}
 	}
@@ -215,23 +193,21 @@ music = {
 
 music = {
 	song = "FRA_victory_song"
-	
 	chance = {
 		modifier = {
 			factor = 0
-			
-			NOT = { TAG = FRA }
+			NOT = {
+				TAG = FRA
+			}
 		}
 		modifier = {
 			factor = 0
-			
 			has_government = chauvinist_populism
 			has_government = autocracy
 			has_government = fundamentalism
 		}
 		modifier = {
 			factor = 0
-			
 			OR = {
 				has_global_flag = eoanb_gamerule_music_disabled
 				has_country_flag = eoanb_gamerule_music_disabled
@@ -239,7 +215,6 @@ music = {
 		}
 		modifier = {
 			factor = 2
-			
 			TAG = FRA
 		}
 	}
@@ -247,16 +222,15 @@ music = {
 
 music = {
 	song = "OTO_mehter_marsi_song"
-	
 	chance = {
 		modifier = {
 			factor = 0
-			
-			NOT = { TAG = OTO }
+			NOT = {
+				TAG = OTO
+			}
 		}
 		modifier = {
 			factor = 0
-			
 			OR = {
 				has_global_flag = eoanb_gamerule_music_disabled
 				has_country_flag = eoanb_gamerule_music_disabled
@@ -264,7 +238,6 @@ music = {
 		}
 		modifier = {
 			factor = 2
-			
 			TAG = OTO
 		}
 	}
@@ -272,16 +245,15 @@ music = {
 
 music = {
 	song = "OTO_mecidiye_marsi_song"
-	
 	chance = {
 		modifier = {
 			factor = 0
-			
-			NOT = { TAG = OTO }
+			NOT = {
+				TAG = OTO
+			}
 		}
 		modifier = {
 			factor = 0
-			
 			OR = {
 				has_global_flag = eoanb_gamerule_music_disabled
 				has_country_flag = eoanb_gamerule_music_disabled
@@ -289,7 +261,6 @@ music = {
 		}
 		modifier = {
 			factor = 2
-			
 			TAG = OTO
 		}
 	}
@@ -297,16 +268,15 @@ music = {
 
 music = {
 	song = "AUS_radetzky_march_song"
-	
 	chance = {
 		modifier = {
 			factor = 0
-			
-			NOT = { TAG = AUS }
+			NOT = {
+				TAG = AUS
+			}
 		}
 		modifier = {
 			factor = 0
-			
 			OR = {
 				has_global_flag = eoanb_gamerule_music_disabled
 				has_country_flag = eoanb_gamerule_music_disabled
@@ -314,7 +284,6 @@ music = {
 		}
 		modifier = {
 			factor = 1.75
-			
 			TAG = AUS
 		}
 	}
@@ -322,16 +291,15 @@ music = {
 
 music = {
 	song = "BRA_anthem"
-	
 	chance = {
 		modifier = {
 			factor = 0
-			
-			NOT = { TAG = BRA }
+			NOT = {
+				TAG = BRA
+			}
 		}
 		modifier = {
 			factor = 0
-			
 			OR = {
 				has_global_flag = eoanb_gamerule_music_disabled
 				has_country_flag = eoanb_gamerule_music_disabled
@@ -339,7 +307,6 @@ music = {
 		}
 		modifier = {
 			factor = 1.75
-			
 			TAG = BRA
 		}
 	}
@@ -347,16 +314,15 @@ music = {
 
 music = {
 	song = "PRS_yorkscher_marsch_song"
-	
 	chance = {
 		modifier = {
 			factor = 0
-			
-			NOT = { TAG = PRS }
+			NOT = {
+				TAG = PRS
+			}
 		}
 		modifier = {
 			factor = 0
-			
 			OR = {
 				has_global_flag = eoanb_gamerule_music_disabled
 				has_country_flag = eoanb_gamerule_music_disabled
@@ -364,7 +330,6 @@ music = {
 		}
 		modifier = {
 			factor = 1.75
-			
 			TAG = PRS
 		}
 	}
@@ -372,16 +337,15 @@ music = {
 
 music = {
 	song = "RUS_imperial_anthem_song"
-	
 	chance = {
 		modifier = {
 			factor = 0
-			
-			NOT = { TAG = RUS }
+			NOT = {
+				TAG = RUS
+			}
 		}
 		modifier = {
 			factor = 0
-			
 			OR = {
 				has_global_flag = eoanb_gamerule_music_disabled
 				has_country_flag = eoanb_gamerule_music_disabled
@@ -389,7 +353,6 @@ music = {
 		}
 		modifier = {
 			factor = 1.5
-			
 			TAG = RUS
 		}
 	}
@@ -397,16 +360,15 @@ music = {
 
 music = {
 	song = "SPR_el_turuta_song"
-	
 	chance = {
 		modifier = {
 			factor = 0
-			
-			NOT = { TAG = SPR }
+			NOT = {
+				TAG = SPR
+			}
 		}
 		modifier = {
 			factor = 0
-			
 			OR = {
 				has_global_flag = eoanb_gamerule_music_disabled
 				has_country_flag = eoanb_gamerule_music_disabled
@@ -414,7 +376,6 @@ music = {
 		}
 		modifier = {
 			factor = 1.5
-			
 			TAG = SPR
 		}
 	}
@@ -422,16 +383,15 @@ music = {
 
 music = {
 	song = "USA_johnny_marching_song"
-	
 	chance = {
 		modifier = {
 			factor = 0
-			
-			NOT = { TAG = USA }
+			NOT = {
+				TAG = USA
+			}
 		}
 		modifier = {
 			factor = 0
-			
 			OR = {
 				has_global_flag = eoanb_gamerule_music_disabled
 				has_country_flag = eoanb_gamerule_music_disabled
@@ -439,12 +399,10 @@ music = {
 		}
 		modifier = {
 			factor = 1
-			
 			TAG = USA
 		}
 		modifier = {
 			factor = 2
-			
 			TAG = USA
 			has_war_with = CSA
 		}
@@ -453,16 +411,15 @@ music = {
 
 music = {
 	song = "USA_stars_stripes_song"
-	
 	chance = {
 		modifier = {
 			factor = 0
-			
-			NOT = { TAG = USA }
+			NOT = {
+				TAG = USA
+			}
 		}
 		modifier = {
 			factor = 0
-			
 			OR = {
 				has_global_flag = eoanb_gamerule_music_disabled
 				has_country_flag = eoanb_gamerule_music_disabled
@@ -470,7 +427,6 @@ music = {
 		}
 		modifier = {
 			factor = 1.75
-			
 			TAG = USA
 		}
 	}
@@ -478,16 +434,15 @@ music = {
 
 music = {
 	song = "USA_battle_hymn_of_the_republic_song"
-	
 	chance = {
 		modifier = {
 			factor = 0
-			
-			NOT = { TAG = USA }
+			NOT = {
+				TAG = USA
+			}
 		}
 		modifier = {
 			factor = 0
-			
 			OR = {
 				has_global_flag = eoanb_gamerule_music_disabled
 				has_country_flag = eoanb_gamerule_music_disabled
@@ -495,18 +450,15 @@ music = {
 		}
 		modifier = {
 			factor = 0
-			
 			has_government = chauvinist_populism
 			has_government = autocracy
 		}
 		modifier = {
 			factor = 2
-
 			TAG = USA
 		}
 		modifier = {
 			factor = 3
-			
 			TAG = USA
 			has_war = yes
 		}
@@ -515,16 +467,15 @@ music = {
 
 music = {
 	song = "USA_union_dixie_song"
-	
 	chance = {
 		modifier = {
 			factor = 0
-			
-			NOT = { TAG = USA }
+			NOT = {
+				TAG = USA
+			}
 		}
 		modifier = {
 			factor = 0
-			
 			OR = {
 				has_global_flag = eoanb_gamerule_music_disabled
 				has_country_flag = eoanb_gamerule_music_disabled
@@ -532,12 +483,10 @@ music = {
 		}
 		modifier = {
 			factor = 2
-
 			TAG = USA
 		}
 		modifier = {
 			factor = 3
-			
 			TAG = USA
 			has_war_with = CSA
 		}
@@ -546,16 +495,15 @@ music = {
 
 music = {
 	song = "USA_battle_cry_of_freedom_song"
-	
 	chance = {
 		modifier = {
 			factor = 0
-			
-			NOT = { TAG = USA }
+			NOT = {
+				TAG = USA
+			}
 		}
 		modifier = {
 			factor = 0
-			
 			OR = {
 				has_global_flag = eoanb_gamerule_music_disabled
 				has_country_flag = eoanb_gamerule_music_disabled
@@ -563,18 +511,15 @@ music = {
 		}
 		modifier = {
 			factor = 0
-			
 			has_government = chauvinist_populism
 			has_government = autocracy
 		}
 		modifier = {
 			factor = 2
-
 			TAG = USA
 		}
 		modifier = {
 			factor = 3
-			
 			TAG = USA
 			has_war_with = CSA
 		}
@@ -583,16 +528,15 @@ music = {
 
 music = {
 	song = "USA_well_fight_for_uncle_sam_song"
-	
 	chance = {
 		modifier = {
 			factor = 0
-			
-			NOT = { TAG = USA }
+			NOT = {
+				TAG = USA
+			}
 		}
 		modifier = {
 			factor = 0
-			
 			OR = {
 				has_global_flag = eoanb_gamerule_music_disabled
 				has_country_flag = eoanb_gamerule_music_disabled
@@ -600,12 +544,10 @@ music = {
 		}
 		modifier = {
 			factor = 2
-
 			TAG = USA
 		}
 		modifier = {
 			factor = 3
-			
 			TAG = USA
 			has_war_with = CSA
 		}
@@ -614,16 +556,15 @@ music = {
 
 music = {
 	song = "CSA_dixie_song"
-	
 	chance = {
 		modifier = {
 			factor = 0
-			
-			NOT = { TAG = CSA }
+			NOT = {
+				TAG = CSA
+			}
 		}
 		modifier = {
 			factor = 0
-			
 			OR = {
 				has_global_flag = eoanb_gamerule_music_disabled
 				has_country_flag = eoanb_gamerule_music_disabled
@@ -631,12 +572,10 @@ music = {
 		}
 		modifier = {
 			factor = 2
-
 			TAG = CSA
 		}
 		modifier = {
 			factor = 3
-			
 			TAG = CSA
 			has_war_with = USAR
 		}
@@ -645,16 +584,13 @@ music = {
 
 music = {
 	song = "eoanb_peace_6"
-	
 	chance = {
 		modifier = {
 			factor = 1
-
 			has_war = no
 		}
 		modifier = {
 			factor = 0
-			
 			OR = {
 				has_global_flag = eoanb_gamerule_music_disabled
 				has_country_flag = eoanb_gamerule_music_disabled
@@ -662,11 +598,10 @@ music = {
 		}
 		modifier = {
 			factor = 0
-		
-			NOT = { 
+			NOT = {
 				OR = {
 					has_idea = pre_industrial_era
-					has_idea = victorian_era 
+					has_idea = victorian_era
 					has_idea = machine_era
 					has_idea = oil_era
 					has_idea = aviation_era
@@ -678,16 +613,13 @@ music = {
 
 music = {
 	song = "eoanb_vic_2_waltz"
-	
 	chance = {
 		modifier = {
 			factor = 0.5
-
 			has_war = no
 		}
 		modifier = {
 			factor = 0
-			
 			OR = {
 				has_global_flag = eoanb_gamerule_music_disabled
 				has_country_flag = eoanb_gamerule_music_disabled
@@ -695,8 +627,9 @@ music = {
 		}
 		modifier = {
 			factor = 0
-		
-			NOT = { has_idea = victorian_era  }
+			NOT = {
+				has_idea = victorian_era
+			}
 		}
 	}
 }
@@ -707,12 +640,12 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			
-			NOT = { TAG = BAV }
+			NOT = {
+				TAG = BAV
+			}
 		}
 		modifier = {
 			factor = 0
-			
 			OR = {
 				has_global_flag = eoanb_gamerule_music_disabled
 				has_country_flag = eoanb_gamerule_music_disabled
@@ -720,9 +653,8 @@ music = {
 		}
 		modifier = {
 			factor = 2
-			
 			TAG = BAV
-		}	
+		}
 	}
 }
 
@@ -731,12 +663,12 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			
-			NOT = { TAG = BAV }
+			NOT = {
+				TAG = BAV
+			}
 		}
 		modifier = {
 			factor = 0
-			
 			OR = {
 				has_global_flag = eoanb_gamerule_music_disabled
 				has_country_flag = eoanb_gamerule_music_disabled
@@ -744,9 +676,8 @@ music = {
 		}
 		modifier = {
 			factor = 2
-			
 			TAG = BAV
-		}	
+		}
 	}
 }
 
@@ -755,12 +686,12 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			
-			NOT = { TAG = BAV }
+			NOT = {
+				TAG = BAV
+			}
 		}
 		modifier = {
 			factor = 0
-			
 			OR = {
 				has_global_flag = eoanb_gamerule_music_disabled
 				has_country_flag = eoanb_gamerule_music_disabled
@@ -768,9 +699,8 @@ music = {
 		}
 		modifier = {
 			factor = 2
-			
 			TAG = BAV
-		}	
+		}
 	}
 }
 
@@ -780,12 +710,15 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			
-			NOT = { OR = { TAG = USA TAG = CSA } }
+			NOT = {
+				OR = {
+					TAG = USA
+					TAG = CSA
+				}
+			}
 		}
 		modifier = {
 			factor = 0
-			
 			OR = {
 				has_global_flag = eoanb_gamerule_music_disabled
 				has_country_flag = eoanb_gamerule_music_disabled
@@ -793,9 +726,11 @@ music = {
 		}
 		modifier = {
 			factor = 2
-			
-			OR = { TAG = USA TAG = CSA }
-		}	
+			OR = {
+				TAG = USA
+				TAG = CSA
+			}
+		}
 	}
 }
 
@@ -804,12 +739,12 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			
-			NOT = { TAG = USA }
+			NOT = {
+				TAG = USA
+			}
 		}
 		modifier = {
 			factor = 0
-			
 			OR = {
 				has_global_flag = eoanb_gamerule_music_disabled
 				has_country_flag = eoanb_gamerule_music_disabled
@@ -817,9 +752,8 @@ music = {
 		}
 		modifier = {
 			factor = 2
-			
 			TAG = USA
-		}	
+		}
 	}
 }
 
@@ -829,12 +763,12 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			
-			NOT = { TAG = CSA }
+			NOT = {
+				TAG = CSA
+			}
 		}
 		modifier = {
 			factor = 0
-			
 			OR = {
 				has_global_flag = eoanb_gamerule_music_disabled
 				has_country_flag = eoanb_gamerule_music_disabled
@@ -842,9 +776,8 @@ music = {
 		}
 		modifier = {
 			factor = 2
-			
 			TAG = CSA
-		}	
+		}
 	}
 }
 
@@ -853,12 +786,12 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			
-			NOT = { TAG = CSA }
+			NOT = {
+				TAG = CSA
+			}
 		}
 		modifier = {
 			factor = 0
-			
 			OR = {
 				has_global_flag = eoanb_gamerule_music_disabled
 				has_country_flag = eoanb_gamerule_music_disabled
@@ -866,9 +799,8 @@ music = {
 		}
 		modifier = {
 			factor = 2
-			
 			TAG = CSA
-		}	
+		}
 	}
 }
 
@@ -877,12 +809,12 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			
-			NOT = { TAG = CSA }
+			NOT = {
+				TAG = CSA
+			}
 		}
 		modifier = {
 			factor = 0
-			
 			OR = {
 				has_global_flag = eoanb_gamerule_music_disabled
 				has_country_flag = eoanb_gamerule_music_disabled
@@ -890,9 +822,8 @@ music = {
 		}
 		modifier = {
 			factor = 2
-			
 			TAG = CSA
-		}	
+		}
 	}
 }
 
@@ -901,12 +832,12 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			
-			NOT = { TAG = CSA }
+			NOT = {
+				TAG = CSA
+			}
 		}
 		modifier = {
 			factor = 0
-			
 			OR = {
 				has_global_flag = eoanb_gamerule_music_disabled
 				has_country_flag = eoanb_gamerule_music_disabled
@@ -914,9 +845,8 @@ music = {
 		}
 		modifier = {
 			factor = 2
-			
 			TAG = CSA
-		}	
+		}
 	}
 }
 
@@ -925,12 +855,12 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			
-			NOT = { TAG = CSA }
+			NOT = {
+				TAG = CSA
+			}
 		}
 		modifier = {
 			factor = 0
-			
 			OR = {
 				has_global_flag = eoanb_gamerule_music_disabled
 				has_country_flag = eoanb_gamerule_music_disabled
@@ -938,9 +868,8 @@ music = {
 		}
 		modifier = {
 			factor = 2
-			
 			TAG = CSA
-		}	
+		}
 	}
 }
 
@@ -949,12 +878,12 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			
-			NOT = { TAG = CSA }
+			NOT = {
+				TAG = CSA
+			}
 		}
 		modifier = {
 			factor = 0
-			
 			OR = {
 				has_global_flag = eoanb_gamerule_music_disabled
 				has_country_flag = eoanb_gamerule_music_disabled
@@ -962,9 +891,8 @@ music = {
 		}
 		modifier = {
 			factor = 2
-			
 			TAG = CSA
-		}	
+		}
 	}
 }
 
@@ -973,12 +901,12 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			
-			NOT = { TAG = CSA }
+			NOT = {
+				TAG = CSA
+			}
 		}
 		modifier = {
 			factor = 0
-			
 			OR = {
 				has_global_flag = eoanb_gamerule_music_disabled
 				has_country_flag = eoanb_gamerule_music_disabled
@@ -986,9 +914,8 @@ music = {
 		}
 		modifier = {
 			factor = 2
-			
 			TAG = CSA
-		}	
+		}
 	}
 }
 
@@ -998,12 +925,15 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			
-			NOT = { OR = { TAG = RUS TAG = FIN } }
+			NOT = {
+				OR = {
+					TAG = RUS
+					TAG = FIN
+				}
+			}
 		}
 		modifier = {
 			factor = 0
-			
 			OR = {
 				has_global_flag = eoanb_gamerule_music_disabled
 				has_country_flag = eoanb_gamerule_music_disabled
@@ -1011,9 +941,11 @@ music = {
 		}
 		modifier = {
 			factor = 2
-			
-			OR = { TAG = RUS TAG = FIN }
-		}	
+			OR = {
+				TAG = RUS
+				TAG = FIN
+			}
+		}
 	}
 }
 
@@ -1023,12 +955,12 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			
-			NOT = { TAG = CHI }
+			NOT = {
+				TAG = CHI
+			}
 		}
 		modifier = {
 			factor = 0
-			
 			OR = {
 				has_global_flag = eoanb_gamerule_music_disabled
 				has_country_flag = eoanb_gamerule_music_disabled
@@ -1036,9 +968,8 @@ music = {
 		}
 		modifier = {
 			factor = 2
-			
 			TAG = CHI
-		}	
+		}
 	}
 }
 
@@ -1047,12 +978,12 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			
-			NOT = { TAG = CHI }
+			NOT = {
+				TAG = CHI
+			}
 		}
 		modifier = {
 			factor = 0
-			
 			OR = {
 				has_global_flag = eoanb_gamerule_music_disabled
 				has_country_flag = eoanb_gamerule_music_disabled
@@ -1060,9 +991,8 @@ music = {
 		}
 		modifier = {
 			factor = 2
-			
 			TAG = CHI
-		}	
+		}
 	}
 }
 
@@ -1071,12 +1001,12 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			
-			NOT = { TAG = CHI }
+			NOT = {
+				TAG = CHI
+			}
 		}
 		modifier = {
 			factor = 0
-			
 			OR = {
 				has_global_flag = eoanb_gamerule_music_disabled
 				has_country_flag = eoanb_gamerule_music_disabled
@@ -1084,9 +1014,8 @@ music = {
 		}
 		modifier = {
 			factor = 2
-			
 			TAG = CHI
-		}	
+		}
 	}
 }
 
@@ -1095,12 +1024,12 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			
-			NOT = { TAG = CHI }
+			NOT = {
+				TAG = CHI
+			}
 		}
 		modifier = {
 			factor = 0
-			
 			OR = {
 				has_global_flag = eoanb_gamerule_music_disabled
 				has_country_flag = eoanb_gamerule_music_disabled
@@ -1108,9 +1037,8 @@ music = {
 		}
 		modifier = {
 			factor = 2
-			
 			TAG = CHI
-		}	
+		}
 	}
 }
 
@@ -1120,12 +1048,12 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			
-			NOT = { TAG = GRE }
+			NOT = {
+				TAG = GRE
+			}
 		}
 		modifier = {
 			factor = 0
-			
 			OR = {
 				has_global_flag = eoanb_gamerule_music_disabled
 				has_country_flag = eoanb_gamerule_music_disabled
@@ -1133,9 +1061,8 @@ music = {
 		}
 		modifier = {
 			factor = 2
-			
 			TAG = GRE
-		}	
+		}
 	}
 }
 
@@ -1144,12 +1071,12 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			
-			NOT = { TAG = GRE }
+			NOT = {
+				TAG = GRE
+			}
 		}
 		modifier = {
 			factor = 0
-			
 			OR = {
 				has_global_flag = eoanb_gamerule_music_disabled
 				has_country_flag = eoanb_gamerule_music_disabled
@@ -1157,9 +1084,8 @@ music = {
 		}
 		modifier = {
 			factor = 2
-			
 			TAG = GRE
-		}	
+		}
 	}
 }
 
@@ -1168,12 +1094,12 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			
-			NOT = { TAG = GRE }
+			NOT = {
+				TAG = GRE
+			}
 		}
 		modifier = {
 			factor = 0
-			
 			OR = {
 				has_global_flag = eoanb_gamerule_music_disabled
 				has_country_flag = eoanb_gamerule_music_disabled
@@ -1181,9 +1107,8 @@ music = {
 		}
 		modifier = {
 			factor = 2
-			
 			TAG = GRE
-		}	
+		}
 	}
 }
 
@@ -1193,12 +1118,12 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			
-			NOT = { TAG = KOR }
+			NOT = {
+				TAG = KOR
+			}
 		}
 		modifier = {
 			factor = 0
-			
 			OR = {
 				has_global_flag = eoanb_gamerule_music_disabled
 				has_country_flag = eoanb_gamerule_music_disabled
@@ -1206,9 +1131,8 @@ music = {
 		}
 		modifier = {
 			factor = 2
-			
 			TAG = KOR
-		}	
+		}
 	}
 }
 
@@ -1218,12 +1142,12 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			
-			NOT = { TAG = JAP }
+			NOT = {
+				TAG = JAP
+			}
 		}
 		modifier = {
 			factor = 0
-			
 			OR = {
 				has_global_flag = eoanb_gamerule_music_disabled
 				has_country_flag = eoanb_gamerule_music_disabled
@@ -1231,9 +1155,8 @@ music = {
 		}
 		modifier = {
 			factor = 2
-			
 			TAG = JAP
-		}	
+		}
 	}
 }
 
@@ -1242,12 +1165,12 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			
-			NOT = { TAG = JAP }
+			NOT = {
+				TAG = JAP
+			}
 		}
 		modifier = {
 			factor = 0
-			
 			OR = {
 				has_global_flag = eoanb_gamerule_music_disabled
 				has_country_flag = eoanb_gamerule_music_disabled
@@ -1255,9 +1178,8 @@ music = {
 		}
 		modifier = {
 			factor = 2
-			
 			TAG = JAP
-		}	
+		}
 	}
 }
 
@@ -1267,12 +1189,12 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			
-			NOT = { TAG = RUS }
+			NOT = {
+				TAG = RUS
+			}
 		}
 		modifier = {
 			factor = 0
-			
 			OR = {
 				has_global_flag = eoanb_gamerule_music_disabled
 				has_country_flag = eoanb_gamerule_music_disabled
@@ -1280,9 +1202,8 @@ music = {
 		}
 		modifier = {
 			factor = 2
-			
 			TAG = RUS
-		}	
+		}
 	}
 }
 
@@ -1291,12 +1212,12 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			
-			NOT = { TAG = RUS }
+			NOT = {
+				TAG = RUS
+			}
 		}
 		modifier = {
 			factor = 0
-			
 			OR = {
 				has_global_flag = eoanb_gamerule_music_disabled
 				has_country_flag = eoanb_gamerule_music_disabled
@@ -1304,9 +1225,8 @@ music = {
 		}
 		modifier = {
 			factor = 2
-			
 			TAG = RUS
-		}	
+		}
 	}
 }
 
@@ -1315,12 +1235,12 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			
-			NOT = { TAG = RUS }
+			NOT = {
+				TAG = RUS
+			}
 		}
 		modifier = {
 			factor = 0
-			
 			OR = {
 				has_global_flag = eoanb_gamerule_music_disabled
 				has_country_flag = eoanb_gamerule_music_disabled
@@ -1328,9 +1248,8 @@ music = {
 		}
 		modifier = {
 			factor = 2
-			
 			TAG = RUS
-		}	
+		}
 	}
 }
 
@@ -1339,12 +1258,12 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			
-			NOT = { TAG = RUS }
+			NOT = {
+				TAG = RUS
+			}
 		}
 		modifier = {
 			factor = 0
-			
 			OR = {
 				has_global_flag = eoanb_gamerule_music_disabled
 				has_country_flag = eoanb_gamerule_music_disabled
@@ -1352,9 +1271,8 @@ music = {
 		}
 		modifier = {
 			factor = 2
-			
 			TAG = RUS
-		}	
+		}
 	}
 }
 
@@ -1364,12 +1282,15 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			
-			NOT = { OR = { TAG = AUS TAG = HUN } }
+			NOT = {
+				OR = {
+					TAG = AUS
+					TAG = HUN
+				}
+			}
 		}
 		modifier = {
 			factor = 0
-			
 			OR = {
 				has_global_flag = eoanb_gamerule_music_disabled
 				has_country_flag = eoanb_gamerule_music_disabled
@@ -1377,9 +1298,11 @@ music = {
 		}
 		modifier = {
 			factor = 2
-			
-			OR = { TAG = AUS TAG = HUN }
-		}	
+			OR = {
+				TAG = AUS
+				TAG = HUN
+			}
+		}
 	}
 }
 
@@ -1388,12 +1311,15 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			
-			NOT = { OR = { TAG = AUS TAG = HUN } }
+			NOT = {
+				OR = {
+					TAG = AUS
+					TAG = HUN
+				}
+			}
 		}
 		modifier = {
 			factor = 0
-			
 			OR = {
 				has_global_flag = eoanb_gamerule_music_disabled
 				has_country_flag = eoanb_gamerule_music_disabled
@@ -1401,9 +1327,11 @@ music = {
 		}
 		modifier = {
 			factor = 2
-			
-			OR = { TAG = AUS TAG = HUN }
-		}	
+			OR = {
+				TAG = AUS
+				TAG = HUN
+			}
+		}
 	}
 }
 
@@ -1412,12 +1340,15 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			
-			NOT = { OR = { TAG = AUS TAG = HUN } }
+			NOT = {
+				OR = {
+					TAG = AUS
+					TAG = HUN
+				}
+			}
 		}
 		modifier = {
 			factor = 0
-			
 			OR = {
 				has_global_flag = eoanb_gamerule_music_disabled
 				has_country_flag = eoanb_gamerule_music_disabled
@@ -1425,9 +1356,11 @@ music = {
 		}
 		modifier = {
 			factor = 2
-			
-			OR = { TAG = AUS TAG = HUN }
-		}	
+			OR = {
+				TAG = AUS
+				TAG = HUN
+			}
+		}
 	}
 }
 
@@ -1436,12 +1369,15 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			
-			NOT = { OR = { TAG = AUS TAG = HUN } }
+			NOT = {
+				OR = {
+					TAG = AUS
+					TAG = HUN
+				}
+			}
 		}
 		modifier = {
 			factor = 0
-			
 			OR = {
 				has_global_flag = eoanb_gamerule_music_disabled
 				has_country_flag = eoanb_gamerule_music_disabled
@@ -1449,9 +1385,11 @@ music = {
 		}
 		modifier = {
 			factor = 2
-			
-			OR = { TAG = AUS TAG = HUN }
-		}	
+			OR = {
+				TAG = AUS
+				TAG = HUN
+			}
+		}
 	}
 }
 
@@ -1461,12 +1399,12 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			
-			NOT = { TAG = FRA }
+			NOT = {
+				TAG = FRA
+			}
 		}
 		modifier = {
 			factor = 0
-			
 			OR = {
 				has_global_flag = eoanb_gamerule_music_disabled
 				has_country_flag = eoanb_gamerule_music_disabled
@@ -1474,9 +1412,8 @@ music = {
 		}
 		modifier = {
 			factor = 2
-			
 			TAG = FRA
-		}	
+		}
 	}
 }
 
@@ -1485,12 +1422,12 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			
-			NOT = { TAG = FRA }
+			NOT = {
+				TAG = FRA
+			}
 		}
 		modifier = {
 			factor = 0
-			
 			OR = {
 				has_global_flag = eoanb_gamerule_music_disabled
 				has_country_flag = eoanb_gamerule_music_disabled
@@ -1498,9 +1435,8 @@ music = {
 		}
 		modifier = {
 			factor = 2
-			
 			TAG = FRA
-		}	
+		}
 	}
 }
 
@@ -1509,12 +1445,12 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			
-			NOT = { TAG = FRA }
+			NOT = {
+				TAG = FRA
+			}
 		}
 		modifier = {
 			factor = 0
-			
 			OR = {
 				has_global_flag = eoanb_gamerule_music_disabled
 				has_country_flag = eoanb_gamerule_music_disabled
@@ -1522,9 +1458,8 @@ music = {
 		}
 		modifier = {
 			factor = 2
-			
 			TAG = FRA
-		}	
+		}
 	}
 }
 
@@ -1533,12 +1468,12 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			
-			NOT = { TAG = FRA }
+			NOT = {
+				TAG = FRA
+			}
 		}
 		modifier = {
 			factor = 0
-			
 			OR = {
 				has_global_flag = eoanb_gamerule_music_disabled
 				has_country_flag = eoanb_gamerule_music_disabled
@@ -1546,9 +1481,8 @@ music = {
 		}
 		modifier = {
 			factor = 2
-			
 			TAG = FRA
-		}	
+		}
 	}
 }
 
@@ -1557,12 +1491,12 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			
-			NOT = { TAG = FRA }
+			NOT = {
+				TAG = FRA
+			}
 		}
 		modifier = {
 			factor = 0
-			
 			OR = {
 				has_global_flag = eoanb_gamerule_music_disabled
 				has_country_flag = eoanb_gamerule_music_disabled
@@ -1570,9 +1504,8 @@ music = {
 		}
 		modifier = {
 			factor = 2
-			
 			TAG = FRA
-		}	
+		}
 	}
 }
 
@@ -1582,12 +1515,12 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			
-			NOT = { TAG = ENG }
+			NOT = {
+				TAG = ENG
+			}
 		}
 		modifier = {
 			factor = 0
-			
 			OR = {
 				has_global_flag = eoanb_gamerule_music_disabled
 				has_country_flag = eoanb_gamerule_music_disabled
@@ -1595,9 +1528,8 @@ music = {
 		}
 		modifier = {
 			factor = 2
-			
 			TAG = ENG
-		}	
+		}
 	}
 }
 
@@ -1606,12 +1538,12 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			
-			NOT = { TAG = ENG }
+			NOT = {
+				TAG = ENG
+			}
 		}
 		modifier = {
 			factor = 0
-			
 			OR = {
 				has_global_flag = eoanb_gamerule_music_disabled
 				has_country_flag = eoanb_gamerule_music_disabled
@@ -1619,9 +1551,8 @@ music = {
 		}
 		modifier = {
 			factor = 2
-			
 			TAG = ENG
-		}	
+		}
 	}
 }
 
@@ -1630,12 +1561,12 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			
-			NOT = { TAG = ENG }
+			NOT = {
+				TAG = ENG
+			}
 		}
 		modifier = {
 			factor = 0
-			
 			OR = {
 				has_global_flag = eoanb_gamerule_music_disabled
 				has_country_flag = eoanb_gamerule_music_disabled
@@ -1643,9 +1574,8 @@ music = {
 		}
 		modifier = {
 			factor = 2
-			
 			TAG = ENG
-		}	
+		}
 	}
 }
 
@@ -1654,12 +1584,12 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			
-			NOT = { TAG = ENG }
+			NOT = {
+				TAG = ENG
+			}
 		}
 		modifier = {
 			factor = 0
-			
 			OR = {
 				has_global_flag = eoanb_gamerule_music_disabled
 				has_country_flag = eoanb_gamerule_music_disabled
@@ -1667,9 +1597,8 @@ music = {
 		}
 		modifier = {
 			factor = 2
-			
 			TAG = ENG
-		}	
+		}
 	}
 }
 
@@ -1679,7 +1608,6 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			
 			NOT = {
 				OR = {
 					TAG = ITA
@@ -1696,7 +1624,6 @@ music = {
 		}
 		modifier = {
 			factor = 0
-			
 			OR = {
 				has_global_flag = eoanb_gamerule_music_disabled
 				has_country_flag = eoanb_gamerule_music_disabled
@@ -1704,7 +1631,6 @@ music = {
 		}
 		modifier = {
 			factor = 2
-			
 			OR = {
 				TAG = ITA
 				TAG = PIE
@@ -1716,7 +1642,7 @@ music = {
 				TAG = NSC
 				TAG = SNM
 			}
-		}	
+		}
 	}
 }
 
@@ -1725,7 +1651,6 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			
 			NOT = {
 				OR = {
 					TAG = ITA
@@ -1742,7 +1667,6 @@ music = {
 		}
 		modifier = {
 			factor = 0
-			
 			OR = {
 				has_global_flag = eoanb_gamerule_music_disabled
 				has_country_flag = eoanb_gamerule_music_disabled
@@ -1750,7 +1674,6 @@ music = {
 		}
 		modifier = {
 			factor = 2
-			
 			OR = {
 				TAG = ITA
 				TAG = PIE
@@ -1762,7 +1685,7 @@ music = {
 				TAG = NSC
 				TAG = SNM
 			}
-		}	
+		}
 	}
 }
 
@@ -1771,7 +1694,6 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			
 			NOT = {
 				OR = {
 					TAG = ITA
@@ -1788,7 +1710,6 @@ music = {
 		}
 		modifier = {
 			factor = 0
-			
 			OR = {
 				has_global_flag = eoanb_gamerule_music_disabled
 				has_country_flag = eoanb_gamerule_music_disabled
@@ -1796,7 +1717,6 @@ music = {
 		}
 		modifier = {
 			factor = 2
-			
 			OR = {
 				TAG = ITA
 				TAG = PIE
@@ -1808,7 +1728,7 @@ music = {
 				TAG = NSC
 				TAG = SNM
 			}
-		}	
+		}
 	}
 }
 
@@ -1817,7 +1737,6 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			
 			NOT = {
 				OR = {
 					TAG = ITA
@@ -1834,7 +1753,6 @@ music = {
 		}
 		modifier = {
 			factor = 0
-			
 			OR = {
 				has_global_flag = eoanb_gamerule_music_disabled
 				has_country_flag = eoanb_gamerule_music_disabled
@@ -1842,7 +1760,6 @@ music = {
 		}
 		modifier = {
 			factor = 2
-			
 			OR = {
 				TAG = ITA
 				TAG = PIE
@@ -1854,7 +1771,7 @@ music = {
 				TAG = NSC
 				TAG = SNM
 			}
-		}	
+		}
 	}
 }
 
@@ -1863,7 +1780,6 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			
 			NOT = {
 				OR = {
 					TAG = ITA
@@ -1880,7 +1796,6 @@ music = {
 		}
 		modifier = {
 			factor = 0
-			
 			OR = {
 				has_global_flag = eoanb_gamerule_music_disabled
 				has_country_flag = eoanb_gamerule_music_disabled
@@ -1888,7 +1803,6 @@ music = {
 		}
 		modifier = {
 			factor = 2
-			
 			OR = {
 				TAG = ITA
 				TAG = PIE
@@ -1900,7 +1814,7 @@ music = {
 				TAG = NSC
 				TAG = SNM
 			}
-		}	
+		}
 	}
 }
 
@@ -1909,7 +1823,6 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			
 			NOT = {
 				OR = {
 					TAG = ITA
@@ -1926,7 +1839,6 @@ music = {
 		}
 		modifier = {
 			factor = 0
-			
 			OR = {
 				has_global_flag = eoanb_gamerule_music_disabled
 				has_country_flag = eoanb_gamerule_music_disabled
@@ -1934,7 +1846,6 @@ music = {
 		}
 		modifier = {
 			factor = 2
-			
 			OR = {
 				TAG = ITA
 				TAG = PIE
@@ -1946,7 +1857,7 @@ music = {
 				TAG = NSC
 				TAG = SNM
 			}
-		}	
+		}
 	}
 }
 
@@ -1955,7 +1866,6 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			
 			NOT = {
 				OR = {
 					TAG = ITA
@@ -1972,7 +1882,6 @@ music = {
 		}
 		modifier = {
 			factor = 0
-			
 			OR = {
 				has_global_flag = eoanb_gamerule_music_disabled
 				has_country_flag = eoanb_gamerule_music_disabled
@@ -1980,7 +1889,6 @@ music = {
 		}
 		modifier = {
 			factor = 2
-			
 			OR = {
 				TAG = ITA
 				TAG = PIE
@@ -1992,7 +1900,7 @@ music = {
 				TAG = NSC
 				TAG = SNM
 			}
-		}	
+		}
 	}
 }
 
@@ -2001,7 +1909,6 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			
 			NOT = {
 				OR = {
 					TAG = ITA
@@ -2018,7 +1925,6 @@ music = {
 		}
 		modifier = {
 			factor = 0
-			
 			OR = {
 				has_global_flag = eoanb_gamerule_music_disabled
 				has_country_flag = eoanb_gamerule_music_disabled
@@ -2026,7 +1932,6 @@ music = {
 		}
 		modifier = {
 			factor = 2
-			
 			OR = {
 				TAG = ITA
 				TAG = PIE
@@ -2038,7 +1943,7 @@ music = {
 				TAG = NSC
 				TAG = SNM
 			}
-		}	
+		}
 	}
 }
 
@@ -2047,7 +1952,6 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			
 			NOT = {
 				OR = {
 					TAG = ITA
@@ -2064,7 +1968,6 @@ music = {
 		}
 		modifier = {
 			factor = 0
-			
 			OR = {
 				has_global_flag = eoanb_gamerule_music_disabled
 				has_country_flag = eoanb_gamerule_music_disabled
@@ -2072,7 +1975,6 @@ music = {
 		}
 		modifier = {
 			factor = 2
-			
 			OR = {
 				TAG = ITA
 				TAG = PIE
@@ -2084,7 +1986,7 @@ music = {
 				TAG = NSC
 				TAG = SNM
 			}
-		}	
+		}
 	}
 }
 
@@ -2093,7 +1995,6 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			
 			NOT = {
 				OR = {
 					TAG = ITA
@@ -2110,7 +2011,6 @@ music = {
 		}
 		modifier = {
 			factor = 0
-			
 			OR = {
 				has_global_flag = eoanb_gamerule_music_disabled
 				has_country_flag = eoanb_gamerule_music_disabled
@@ -2118,7 +2018,6 @@ music = {
 		}
 		modifier = {
 			factor = 2
-			
 			OR = {
 				TAG = ITA
 				TAG = PIE
@@ -2130,7 +2029,7 @@ music = {
 				TAG = NSC
 				TAG = SNM
 			}
-		}	
+		}
 	}
 }
 
@@ -2139,7 +2038,6 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			
 			NOT = {
 				OR = {
 					TAG = ITA
@@ -2156,7 +2054,6 @@ music = {
 		}
 		modifier = {
 			factor = 0
-			
 			OR = {
 				has_global_flag = eoanb_gamerule_music_disabled
 				has_country_flag = eoanb_gamerule_music_disabled
@@ -2164,7 +2061,6 @@ music = {
 		}
 		modifier = {
 			factor = 2
-			
 			OR = {
 				TAG = ITA
 				TAG = PIE
@@ -2176,7 +2072,7 @@ music = {
 				TAG = NSC
 				TAG = SNM
 			}
-		}	
+		}
 	}
 }
 
@@ -2185,7 +2081,6 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			
 			NOT = {
 				OR = {
 					TAG = ITA
@@ -2202,7 +2097,6 @@ music = {
 		}
 		modifier = {
 			factor = 0
-			
 			OR = {
 				has_global_flag = eoanb_gamerule_music_disabled
 				has_country_flag = eoanb_gamerule_music_disabled
@@ -2210,7 +2104,6 @@ music = {
 		}
 		modifier = {
 			factor = 2
-			
 			OR = {
 				TAG = ITA
 				TAG = PIE
@@ -2222,7 +2115,7 @@ music = {
 				TAG = NSC
 				TAG = SNM
 			}
-		}	
+		}
 	}
 }
 
@@ -2231,7 +2124,6 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			
 			NOT = {
 				OR = {
 					TAG = ITA
@@ -2248,7 +2140,6 @@ music = {
 		}
 		modifier = {
 			factor = 0
-			
 			OR = {
 				has_global_flag = eoanb_gamerule_music_disabled
 				has_country_flag = eoanb_gamerule_music_disabled
@@ -2256,7 +2147,6 @@ music = {
 		}
 		modifier = {
 			factor = 2
-			
 			OR = {
 				TAG = ITA
 				TAG = PIE
@@ -2268,7 +2158,7 @@ music = {
 				TAG = NSC
 				TAG = SNM
 			}
-		}	
+		}
 	}
 }
 
@@ -2277,7 +2167,6 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			
 			NOT = {
 				OR = {
 					TAG = ITA
@@ -2294,7 +2183,6 @@ music = {
 		}
 		modifier = {
 			factor = 0
-			
 			OR = {
 				has_global_flag = eoanb_gamerule_music_disabled
 				has_country_flag = eoanb_gamerule_music_disabled
@@ -2302,7 +2190,6 @@ music = {
 		}
 		modifier = {
 			factor = 2
-			
 			OR = {
 				TAG = ITA
 				TAG = PIE
@@ -2314,7 +2201,7 @@ music = {
 				TAG = NSC
 				TAG = SNM
 			}
-		}	
+		}
 	}
 }
 
@@ -2323,7 +2210,6 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			
 			NOT = {
 				OR = {
 					TAG = ITA
@@ -2340,7 +2226,6 @@ music = {
 		}
 		modifier = {
 			factor = 0
-			
 			OR = {
 				has_global_flag = eoanb_gamerule_music_disabled
 				has_country_flag = eoanb_gamerule_music_disabled
@@ -2348,7 +2233,6 @@ music = {
 		}
 		modifier = {
 			factor = 2
-			
 			OR = {
 				TAG = ITA
 				TAG = PIE
@@ -2360,7 +2244,7 @@ music = {
 				TAG = NSC
 				TAG = SNM
 			}
-		}	
+		}
 	}
 }
 
@@ -2369,7 +2253,6 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			
 			NOT = {
 				OR = {
 					TAG = ITA
@@ -2386,7 +2269,6 @@ music = {
 		}
 		modifier = {
 			factor = 0
-			
 			OR = {
 				has_global_flag = eoanb_gamerule_music_disabled
 				has_country_flag = eoanb_gamerule_music_disabled
@@ -2394,7 +2276,6 @@ music = {
 		}
 		modifier = {
 			factor = 2
-			
 			OR = {
 				TAG = ITA
 				TAG = PIE
@@ -2406,7 +2287,7 @@ music = {
 				TAG = NSC
 				TAG = SNM
 			}
-		}	
+		}
 	}
 }
 
@@ -2415,7 +2296,6 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			
 			NOT = {
 				OR = {
 					TAG = ITA
@@ -2432,7 +2312,6 @@ music = {
 		}
 		modifier = {
 			factor = 0
-			
 			OR = {
 				has_global_flag = eoanb_gamerule_music_disabled
 				has_country_flag = eoanb_gamerule_music_disabled
@@ -2440,7 +2319,6 @@ music = {
 		}
 		modifier = {
 			factor = 2
-			
 			OR = {
 				TAG = ITA
 				TAG = PIE
@@ -2452,7 +2330,7 @@ music = {
 				TAG = NSC
 				TAG = SNM
 			}
-		}	
+		}
 	}
 }
 
@@ -2461,7 +2339,6 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			
 			NOT = {
 				OR = {
 					TAG = ITA
@@ -2478,7 +2355,6 @@ music = {
 		}
 		modifier = {
 			factor = 0
-			
 			OR = {
 				has_global_flag = eoanb_gamerule_music_disabled
 				has_country_flag = eoanb_gamerule_music_disabled
@@ -2486,7 +2362,6 @@ music = {
 		}
 		modifier = {
 			factor = 2
-			
 			OR = {
 				TAG = ITA
 				TAG = PIE
@@ -2498,7 +2373,7 @@ music = {
 				TAG = NSC
 				TAG = SNM
 			}
-		}	
+		}
 	}
 }
 
@@ -2507,7 +2382,6 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			
 			NOT = {
 				OR = {
 					TAG = ITA
@@ -2524,7 +2398,6 @@ music = {
 		}
 		modifier = {
 			factor = 0
-			
 			OR = {
 				has_global_flag = eoanb_gamerule_music_disabled
 				has_country_flag = eoanb_gamerule_music_disabled
@@ -2532,7 +2405,6 @@ music = {
 		}
 		modifier = {
 			factor = 2
-			
 			OR = {
 				TAG = ITA
 				TAG = PIE
@@ -2544,7 +2416,7 @@ music = {
 				TAG = NSC
 				TAG = SNM
 			}
-		}	
+		}
 	}
 }
 
@@ -2554,7 +2426,6 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			
 			NOT = {
 				OR = {
 					TAG = GEC
@@ -2571,12 +2442,17 @@ music = {
 					TAG = LCK
 					TAG = SCH
 					TAG = PRS
+					TAG = NAS
+					TAG = BRE
+					TAG = HAM
+					TAG = MCK
+					TAG = HSD
+					TAG = HLS
 				}
 			}
 		}
 		modifier = {
 			factor = 0
-			
 			OR = {
 				has_global_flag = eoanb_gamerule_music_disabled
 				has_country_flag = eoanb_gamerule_music_disabled
@@ -2584,63 +2460,6 @@ music = {
 		}
 		modifier = {
 			factor = 2
-			
-			OR = {
-				TAG = GEC
-					TAG = GER
-					TAG = BAV
-					TAG = WUR
-					TAG = BAD
-					TAG = OLD
-					TAG = FRK
-					TAG = SAX
-					TAG = THU
-					TAG = HAN
-					TAG = HES
-					TAG = LCK
-					TAG = SCH
-					TAG = PRS
-			}
-		}	
-	}
-}
-
-music = {
-	song = "bridal_chorus"
-	chance = {
-		modifier = {
-			factor = 0
-			
-			NOT = {
-				OR = {
-					TAG = GEC
-					TAG = GER
-					TAG = BAV
-					TAG = WUR
-					TAG = BAD
-					TAG = OLD
-					TAG = FRK
-					TAG = SAX
-					TAG = THU
-					TAG = HAN
-					TAG = HES
-					TAG = LCK
-					TAG = SCH
-					TAG = PRS
-				}
-			}
-		}
-		modifier = {
-			factor = 0
-			
-			OR = {
-				has_global_flag = eoanb_gamerule_music_disabled
-				has_country_flag = eoanb_gamerule_music_disabled
-			}
-		}
-		modifier = {
-			factor = 2
-			
 			OR = {
 				TAG = GEC
 				TAG = GER
@@ -2656,8 +2475,14 @@ music = {
 				TAG = LCK
 				TAG = SCH
 				TAG = PRS
+				TAG = NAS
+				TAG = BRE
+				TAG = HAM
+				TAG = MCK
+				TAG = HSD
+				TAG = HLS
 			}
-		}	
+		}
 	}
 }
 
@@ -2666,7 +2491,6 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			
 			NOT = {
 				OR = {
 					TAG = GEC
@@ -2683,12 +2507,17 @@ music = {
 					TAG = LCK
 					TAG = SCH
 					TAG = PRS
+					TAG = NAS
+					TAG = BRE
+					TAG = HAM
+					TAG = MCK
+					TAG = HSD
+					TAG = HLS
 				}
 			}
 		}
 		modifier = {
 			factor = 0
-			
 			OR = {
 				has_global_flag = eoanb_gamerule_music_disabled
 				has_country_flag = eoanb_gamerule_music_disabled
@@ -2696,7 +2525,6 @@ music = {
 		}
 		modifier = {
 			factor = 2
-			
 			OR = {
 				TAG = GEC
 				TAG = GER
@@ -2712,8 +2540,79 @@ music = {
 				TAG = LCK
 				TAG = SCH
 				TAG = PRS
+				TAG = NAS
+				TAG = BRE
+				TAG = HAM
+				TAG = MCK
+				TAG = HSD
+				TAG = HLS
 			}
-		}	
+		}
+	}
+}
+
+music = {
+	song = "bridal_chorus"
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					TAG = GEC
+					TAG = GER
+					TAG = BAV
+					TAG = WUR
+					TAG = BAD
+					TAG = OLD
+					TAG = FRK
+					TAG = SAX
+					TAG = THU
+					TAG = HAN
+					TAG = HES
+					TAG = LCK
+					TAG = SCH
+					TAG = PRS
+					TAG = NAS
+					TAG = BRE
+					TAG = HAM
+					TAG = MCK
+					TAG = HSD
+					TAG = HLS
+				}
+			}
+		}
+		modifier = {
+			factor = 0
+			OR = {
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				TAG = GEC
+				TAG = GER
+				TAG = BAV
+				TAG = WUR
+				TAG = BAD
+				TAG = OLD
+				TAG = FRK
+				TAG = SAX
+				TAG = THU
+				TAG = HAN
+				TAG = HES
+				TAG = LCK
+				TAG = SCH
+				TAG = PRS
+				TAG = NAS
+				TAG = BRE
+				TAG = HAM
+				TAG = MCK
+				TAG = HSD
+				TAG = HLS
+			}
+		}
 	}
 }
 
@@ -2722,7 +2621,6 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			
 			NOT = {
 				OR = {
 					TAG = GEC
@@ -2739,12 +2637,17 @@ music = {
 					TAG = LCK
 					TAG = SCH
 					TAG = PRS
+					TAG = NAS
+					TAG = BRE
+					TAG = HAM
+					TAG = MCK
+					TAG = HSD
+					TAG = HLS
 				}
 			}
 		}
 		modifier = {
 			factor = 0
-			
 			OR = {
 				has_global_flag = eoanb_gamerule_music_disabled
 				has_country_flag = eoanb_gamerule_music_disabled
@@ -2752,7 +2655,6 @@ music = {
 		}
 		modifier = {
 			factor = 2
-			
 			OR = {
 				TAG = GEC
 				TAG = GER
@@ -2768,8 +2670,14 @@ music = {
 				TAG = LCK
 				TAG = SCH
 				TAG = PRS
+				TAG = NAS
+				TAG = BRE
+				TAG = HAM
+				TAG = MCK
+				TAG = HSD
+				TAG = HLS
 			}
-		}	
+		}
 	}
 }
 
@@ -2778,7 +2686,6 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			
 			NOT = {
 				OR = {
 					TAG = GEC
@@ -2795,12 +2702,17 @@ music = {
 					TAG = LCK
 					TAG = SCH
 					TAG = PRS
+					TAG = NAS
+					TAG = BRE
+					TAG = HAM
+					TAG = MCK
+					TAG = HSD
+					TAG = HLS
 				}
 			}
 		}
 		modifier = {
 			factor = 0
-			
 			OR = {
 				has_global_flag = eoanb_gamerule_music_disabled
 				has_country_flag = eoanb_gamerule_music_disabled
@@ -2808,7 +2720,6 @@ music = {
 		}
 		modifier = {
 			factor = 2
-			
 			OR = {
 				TAG = GEC
 				TAG = GER
@@ -2824,8 +2735,14 @@ music = {
 				TAG = LCK
 				TAG = SCH
 				TAG = PRS
+				TAG = NAS
+				TAG = BRE
+				TAG = HAM
+				TAG = MCK
+				TAG = HSD
+				TAG = HLS
 			}
-		}	
+		}
 	}
 }
 
@@ -2834,7 +2751,6 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			
 			NOT = {
 				OR = {
 					TAG = GEC
@@ -2851,12 +2767,17 @@ music = {
 					TAG = LCK
 					TAG = SCH
 					TAG = PRS
+					TAG = NAS
+					TAG = BRE
+					TAG = HAM
+					TAG = MCK
+					TAG = HSD
+					TAG = HLS
 				}
 			}
 		}
 		modifier = {
 			factor = 0
-			
 			OR = {
 				has_global_flag = eoanb_gamerule_music_disabled
 				has_country_flag = eoanb_gamerule_music_disabled
@@ -2864,7 +2785,6 @@ music = {
 		}
 		modifier = {
 			factor = 2
-			
 			OR = {
 				TAG = GEC
 				TAG = GER
@@ -2880,8 +2800,14 @@ music = {
 				TAG = LCK
 				TAG = SCH
 				TAG = PRS
+				TAG = NAS
+				TAG = BRE
+				TAG = HAM
+				TAG = MCK
+				TAG = HSD
+				TAG = HLS
 			}
-		}	
+		}
 	}
 }
 
@@ -2890,7 +2816,6 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			
 			NOT = {
 				OR = {
 					TAG = GEC
@@ -2907,12 +2832,17 @@ music = {
 					TAG = LCK
 					TAG = SCH
 					TAG = PRS
+					TAG = NAS
+					TAG = BRE
+					TAG = HAM
+					TAG = MCK
+					TAG = HSD
+					TAG = HLS
 				}
 			}
 		}
 		modifier = {
 			factor = 0
-			
 			OR = {
 				has_global_flag = eoanb_gamerule_music_disabled
 				has_country_flag = eoanb_gamerule_music_disabled
@@ -2920,7 +2850,6 @@ music = {
 		}
 		modifier = {
 			factor = 2
-			
 			OR = {
 				TAG = GEC
 				TAG = GER
@@ -2936,11 +2865,16 @@ music = {
 				TAG = LCK
 				TAG = SCH
 				TAG = PRS
+				TAG = NAS
+				TAG = BRE
+				TAG = HAM
+				TAG = MCK
+				TAG = HSD
+				TAG = HLS
 			}
-		}	
+		}
 	}
 }
-
 
 #SWE
 music = {
@@ -2948,14 +2882,12 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			
 			NOT = {
 				TAG = SWE
 			}
 		}
 		modifier = {
 			factor = 0
-			
 			OR = {
 				has_global_flag = eoanb_gamerule_music_disabled
 				has_country_flag = eoanb_gamerule_music_disabled
@@ -2963,9 +2895,8 @@ music = {
 		}
 		modifier = {
 			factor = 2
-			
 			TAG = SWE
-		}	
+		}
 	}
 }
 
@@ -2974,14 +2905,12 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			
 			NOT = {
 				TAG = SWE
 			}
 		}
 		modifier = {
 			factor = 0
-			
 			OR = {
 				has_global_flag = eoanb_gamerule_music_disabled
 				has_country_flag = eoanb_gamerule_music_disabled
@@ -2989,9 +2918,8 @@ music = {
 		}
 		modifier = {
 			factor = 2
-			
 			TAG = SWE
-		}	
+		}
 	}
 }
 
@@ -3000,14 +2928,12 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			
 			NOT = {
 				TAG = SWE
 			}
 		}
 		modifier = {
 			factor = 0
-			
 			OR = {
 				has_global_flag = eoanb_gamerule_music_disabled
 				has_country_flag = eoanb_gamerule_music_disabled
@@ -3015,9 +2941,8 @@ music = {
 		}
 		modifier = {
 			factor = 2
-			
 			TAG = SWE
-		}	
+		}
 	}
 }
 
@@ -3026,14 +2951,12 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			
 			NOT = {
 				TAG = SWE
 			}
 		}
 		modifier = {
 			factor = 0
-			
 			OR = {
 				has_global_flag = eoanb_gamerule_music_disabled
 				has_country_flag = eoanb_gamerule_music_disabled
@@ -3041,9 +2964,8 @@ music = {
 		}
 		modifier = {
 			factor = 2
-			
 			TAG = SWE
-		}	
+		}
 	}
 }
 
@@ -3052,7 +2974,6 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			
 			NOT = {
 				OR = {
 					TAG = SWE
@@ -3062,7 +2983,6 @@ music = {
 		}
 		modifier = {
 			factor = 0
-			
 			OR = {
 				has_global_flag = eoanb_gamerule_music_disabled
 				has_country_flag = eoanb_gamerule_music_disabled
@@ -3070,12 +2990,11 @@ music = {
 		}
 		modifier = {
 			factor = 2
-			
 			OR = {
 				TAG = SWE
 				TAG = NOR
 			}
-		}	
+		}
 	}
 }
 
@@ -3084,14 +3003,12 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			
 			NOT = {
 				TAG = SWE
 			}
 		}
 		modifier = {
 			factor = 0
-			
 			OR = {
 				has_global_flag = eoanb_gamerule_music_disabled
 				has_country_flag = eoanb_gamerule_music_disabled
@@ -3099,9 +3016,8 @@ music = {
 		}
 		modifier = {
 			factor = 2
-			
 			TAG = SWE
-		}	
+		}
 	}
 }
 
@@ -3110,14 +3026,12 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			
 			NOT = {
 				TAG = SWE
 			}
 		}
 		modifier = {
 			factor = 0
-			
 			OR = {
 				has_global_flag = eoanb_gamerule_music_disabled
 				has_country_flag = eoanb_gamerule_music_disabled
@@ -3125,9 +3039,8 @@ music = {
 		}
 		modifier = {
 			factor = 2
-			
 			TAG = SWE
-		}	
+		}
 	}
 }
 
@@ -3136,14 +3049,12 @@ music = {
 	chance = {
 		modifier = {
 			factor = 0
-			
 			NOT = {
 				TAG = SWE
 			}
 		}
 		modifier = {
 			factor = 0
-			
 			OR = {
 				has_global_flag = eoanb_gamerule_music_disabled
 				has_country_flag = eoanb_gamerule_music_disabled
@@ -3151,9 +3062,8 @@ music = {
 		}
 		modifier = {
 			factor = 2
-			
 			TAG = SWE
-		}	
+		}
 	}
 }
 
