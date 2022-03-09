@@ -1,0 +1,26 @@
+# German Radio Pack by Imperialism
+#
+
+music_station = "Germany"
+
+music = {
+	song = "traeumerei"
+}
+music = {
+	song = "bridal_chorus"
+}
+music = {
+	song = "spinnerlied"
+}
+music = {
+	song = "traeume"
+}
+music = {
+	song = "bayernhymne"
+}
+music = {
+	song = "bayrischer_praesentiermarsch"
+}
+music = {
+	song = "ludwig_ii_marsch"
+}
