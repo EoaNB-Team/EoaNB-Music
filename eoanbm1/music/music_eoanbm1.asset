@@ -548,6 +548,18 @@ music = {
 	volume = 0.8
 }
 
+music = {
+	name = "was_ist_des_deutschen_vaterland"
+	file = "eoanbm1_was_ist_des_deutschen_vaterland.ogg"
+	volume = 0.8
+}
+
+music = {
+	name = "Heil_Dir_Im_Siegerkranz"
+	file = "eoanbm1_Heil_Dir_Im_Siegerkranz.ogg"
+	volume = 0.8
+}
+
 #SWE
 music = {
 	name = "till_fronten"

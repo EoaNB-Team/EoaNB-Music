@@ -2570,6 +2570,7 @@ music = {
 					TAG = HES
 					TAG = LCK
 					TAG = SCH
+					TAG = PRS
 				}
 			}
 		}
@@ -2586,18 +2587,19 @@ music = {
 			
 			OR = {
 				TAG = GEC
-				TAG = GER
-				TAG = BAV
-				TAG = WUR
-				TAG = BAD
-				TAG = OLD
-				TAG = FRK
-				TAG = SAX
-				TAG = THU
-				TAG = HAN
-				TAG = HES
-				TAG = LCK
-				TAG = SCH
+					TAG = GER
+					TAG = BAV
+					TAG = WUR
+					TAG = BAD
+					TAG = OLD
+					TAG = FRK
+					TAG = SAX
+					TAG = THU
+					TAG = HAN
+					TAG = HES
+					TAG = LCK
+					TAG = SCH
+					TAG = PRS
 			}
 		}	
 	}
@@ -2624,6 +2626,7 @@ music = {
 					TAG = HES
 					TAG = LCK
 					TAG = SCH
+					TAG = PRS
 				}
 			}
 		}
@@ -2652,6 +2655,7 @@ music = {
 				TAG = HES
 				TAG = LCK
 				TAG = SCH
+				TAG = PRS
 			}
 		}	
 	}
@@ -2678,6 +2682,7 @@ music = {
 					TAG = HES
 					TAG = LCK
 					TAG = SCH
+					TAG = PRS
 				}
 			}
 		}
@@ -2706,6 +2711,7 @@ music = {
 				TAG = HES
 				TAG = LCK
 				TAG = SCH
+				TAG = PRS
 			}
 		}	
 	}
@@ -2732,6 +2738,7 @@ music = {
 					TAG = HES
 					TAG = LCK
 					TAG = SCH
+					TAG = PRS
 				}
 			}
 		}
@@ -2760,6 +2767,7 @@ music = {
 				TAG = HES
 				TAG = LCK
 				TAG = SCH
+				TAG = PRS
 			}
 		}	
 	}
@@ -2786,6 +2794,7 @@ music = {
 					TAG = HES
 					TAG = LCK
 					TAG = SCH
+					TAG = PRS
 				}
 			}
 		}
@@ -2814,10 +2823,124 @@ music = {
 				TAG = HES
 				TAG = LCK
 				TAG = SCH
+				TAG = PRS
 			}
 		}	
 	}
 }
+
+music = {
+	song = "was_ist_des_deutschen_vaterland"
+	chance = {
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				OR = {
+					TAG = GEC
+					TAG = GER
+					TAG = BAV
+					TAG = WUR
+					TAG = BAD
+					TAG = OLD
+					TAG = FRK
+					TAG = SAX
+					TAG = THU
+					TAG = HAN
+					TAG = HES
+					TAG = LCK
+					TAG = SCH
+					TAG = PRS
+				}
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			OR = {
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
+			}
+		}
+		modifier = {
+			factor = 2
+			
+			OR = {
+				TAG = GEC
+				TAG = GER
+				TAG = BAV
+				TAG = WUR
+				TAG = BAD
+				TAG = OLD
+				TAG = FRK
+				TAG = SAX
+				TAG = THU
+				TAG = HAN
+				TAG = HES
+				TAG = LCK
+				TAG = SCH
+				TAG = PRS
+			}
+		}	
+	}
+}
+
+music = {
+	song = "Heil_Dir_Im_Siegerkranz"
+	chance = {
+		modifier = {
+			factor = 0
+			
+			NOT = {
+				OR = {
+					TAG = GEC
+					TAG = GER
+					TAG = BAV
+					TAG = WUR
+					TAG = BAD
+					TAG = OLD
+					TAG = FRK
+					TAG = SAX
+					TAG = THU
+					TAG = HAN
+					TAG = HES
+					TAG = LCK
+					TAG = SCH
+					TAG = PRS
+				}
+			}
+		}
+		modifier = {
+			factor = 0
+			
+			OR = {
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
+			}
+		}
+		modifier = {
+			factor = 2
+			
+			OR = {
+				TAG = GEC
+				TAG = GER
+				TAG = BAV
+				TAG = WUR
+				TAG = BAD
+				TAG = OLD
+				TAG = FRK
+				TAG = SAX
+				TAG = THU
+				TAG = HAN
+				TAG = HES
+				TAG = LCK
+				TAG = SCH
+				TAG = PRS
+			}
+		}	
+	}
+}
+
 
 #SWE
 music = {

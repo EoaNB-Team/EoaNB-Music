@@ -24,3 +24,9 @@ music = {
 music = {
 	song = "ludwig_ii_marsch"
 }
+music = {
+	song = "Heil_Dir_Im_Siegerkranz"
+}
+music = {
+	song = "was_ist_des_deutschen_vaterland"
+}
