@@ -63,3 +63,6 @@ music = {
 music = {
 	song = "Noi_vogliam_Dio_Vergine_Maria"
 }
+music = {
+	song = "rorate_caeli"
+}

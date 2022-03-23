@@ -2420,6 +2420,49 @@ music = {
 	}
 }
 
+music = {
+	song = "rorate_caeli"
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					TAG = ITA
+					TAG = PIE
+					TAG = PRM
+					TAG = MOD
+					TAG = LVN
+					TAG = PAP
+					TAG = TUS
+					TAG = NSC
+					TAG = SNM
+				}
+			}
+		}
+		modifier = {
+			factor = 0
+			OR = {
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				TAG = ITA
+				TAG = PIE
+				TAG = PRM
+				TAG = MOD
+				TAG = LVN
+				TAG = PAP
+				TAG = TUS
+				TAG = NSC
+				TAG = SNM
+			}
+		}
+	}
+}
+
 #all GER
 music = {
 	song = "traeumerei"

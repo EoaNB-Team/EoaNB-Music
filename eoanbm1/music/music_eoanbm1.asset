@@ -523,6 +523,12 @@ music = {
 	volume = 0.8
 }
 
+music = {
+	name = "rorate_caeli"
+	file = "eoanbm1_rorate_caeli.ogg"
+	volume = 0.8
+}
+
 #all GER
 music = {
 	name = "traeumerei"
