@@ -42,3 +42,42 @@ music = {
 music = {
 	song = "Preubens_Gloria"
 }
+music = {
+	song = "PRS_yorkscher_marsch_song"
+}
+music = {
+	song = "Hohenzollernlied"
+}
+music = {
+	song = "Fridericus_Rex_Grenadiermarsch"
+}
+music = {
+	song = "PRS_march_koniggratz"
+}
+music = {
+	song = "Hohenfriedberger_Marsch"
+}
+music = {
+	song = "Kaiser_Wilhelm_Siegesmarsch"
+}
+music = {
+	song = "Pariser_Einzugsmarsch"
+}
+music = {
+	song = "Prasentier_Marsch"
+}
+music = {
+	song = "Bayerischer_Defiliermarsch"
+}
+music = {
+	song = "Badnerlied"
+}
+music = {
+	song = "Sachsenlied"
+}
+music = {
+	song = "Preisend_mit_viel_schonen_Reded"
+}
+music = {
+	song = "Pommernlied"
+}

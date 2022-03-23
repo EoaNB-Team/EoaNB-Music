@@ -590,6 +590,73 @@ music = {
 	volume = 0.8
 }
 
+music = {
+	name = "Hohenzollernlied"
+	file = "eoanbm1_Hohenzollernlied.ogg"
+	volume = 0.8
+}
+
+music = {
+	name = "Fridericus_Rex_Grenadiermarsch"
+	file = "eoanbm1_Fridericus_Rex_Grenadiermarsch.ogg"
+	volume = 0.8
+}
+
+music = {
+	name = "Hohenfriedberger_Marsch"
+	file = "eoanbm1_Hohenfriedberger_Marsch.ogg"
+	volume = 0.8
+}
+
+music = {
+	name = "Kaiser_Wilhelm_Siegesmarsch"
+	file = "eoanbm1_Kaiser_Wilhelm_Siegesmarsch.ogg"
+	volume = 0.8
+}
+
+music = {
+	name = "Pariser_Einzugsmarsch"
+	file = "eoanbm1_Pariser_Einzugsmarsch.ogg"
+	volume = 0.8
+}
+
+music = {
+	name = "Prasentier_Marsch"
+	file = "eoanbm1_Prasentier_Marsch.ogg"
+	volume = 0.8
+}
+
+music = {
+	name = "Bayerischer_Defiliermarsch"
+	file = "eoanbm1_Bayerischer_Defiliermarsch.ogg"
+	volume = 0.8
+}
+
+music = {
+	name = "Badnerlied"
+	file = "eoanbm1_Badnerlied.ogg"
+	volume = 0.8
+}
+
+music = {
+	name = "Sachsenlied"
+	file = "eoanbm1_Sachsenlied.ogg"
+	volume = 0.8
+}
+
+music = {
+	name = "Preisend_mit_viel_schonen_Reded"
+	file = "eoanbm1_Preisend_mit_viel_schonen_Reded.ogg"
+	volume = 0.8
+}
+
+music = {
+	name = "Pommernlied"
+	file = "eoanbm1_Pommernlied.ogg"
+	volume = 0.8
+}
+
+
 #SWE
 music = {
 	name = "till_fronten"
