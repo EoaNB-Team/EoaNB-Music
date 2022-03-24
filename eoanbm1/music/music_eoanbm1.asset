@@ -656,6 +656,12 @@ music = {
 	volume = 0.8
 }
 
+music = {
+	name = "german_dixie"
+	file = "eoanbm1_german_dixie.ogg"
+	volume = 0.8
+}
+
 
 #SWE
 music = {
