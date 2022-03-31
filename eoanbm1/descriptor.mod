@@ -3,7 +3,7 @@ tags={
 	"Sound"
 }
 picture="thumbnail.png"
-supported_version="1.10.*"
+supported_version="1.11.*"
 replace_path="music/hoi2"
 replace_path="music/hoi3"
 replace_path="music/germanmarchorder.txt"
