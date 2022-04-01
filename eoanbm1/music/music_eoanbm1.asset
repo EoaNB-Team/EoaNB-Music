@@ -712,6 +712,13 @@ music = {
 	volume = 0.8
 }
 
+# Balkans
+music = {
+	name = "o_moravo"
+	file = "eoanbm1_o_moravo.ogg"
+	volume = 0.8
+}
+
 #Generic
 music = {
 	name = "dragonerna_komma"

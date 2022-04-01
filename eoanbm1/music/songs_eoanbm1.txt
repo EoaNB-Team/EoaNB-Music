@@ -4150,6 +4150,20 @@ music = {
 	}
 }
 
+#Balkans
+music = {
+	song = "o_moravo"
+	chance = {
+		modifier = {
+			factor = 1
+			OR = {
+				has_war = yes
+				has_war = no
+			}
+		}
+	}
+}
+
 #Generic
 music = {
 	song = "dragonerna_komma"
