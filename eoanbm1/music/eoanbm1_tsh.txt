@@ -1,0 +1,156 @@
+# Victorian Japan Music Pack by Vanadium
+
+music_station = "eoanbm1_tokugawa"
+music = {
+	song = "eoanbm1_tsh_cherry_blossoms"
+	chance = {
+		base = 0.1
+		modifier = {
+			add = 3
+			is_japanese_country = yes
+		}
+		modifier = {
+			factor = 0
+			OR = {
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
+			}
+		}
+	}
+}
+music = {
+	song = "eoanbm1_tsh_children"
+	chance = {
+		base = 0.1
+		modifier = {
+			add = 3
+			is_japanese_country = yes
+		}
+		modifier = {
+			factor = 0
+			OR = {
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
+			}
+		}
+	}
+}
+music = {
+	song = "eoanbm1_tsh_clouds"
+	chance = {
+		base = 0.1
+		modifier = {
+			add = 3
+			is_japanese_country = yes
+		}
+		modifier = {
+			factor = 0
+			OR = {
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
+			}
+		}
+	}
+}
+music = {
+	song = "eoanbm1_tsh_haros_sea"
+	chance = {
+		base = 0.1
+		modifier = {
+			add = 3
+			is_japanese_country = yes
+		}
+		modifier = {
+			factor = 0
+			OR = {
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
+			}
+		}
+	}
+}
+music = {
+	song = "eoanbm1_tsh_moon_over_the_ruined_castle"
+	chance = {
+		base = 0.1
+		modifier = {
+			add = 3
+			is_japanese_country = yes
+		}
+		modifier = {
+			factor = 0
+			OR = {
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
+			}
+		}
+	}
+}
+music = {
+	song = "eoanbm1_tsh_spring_river_flower_moon_night"
+	chance = {
+		base = 0.1
+		modifier = {
+			add = 3
+			is_japanese_country = yes
+		}
+		modifier = {
+			factor = 0
+			OR = {
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
+			}
+		}
+	}
+}
+music = {
+	song = "eoanbm1_tsh_strength"
+	chance = {
+		base = 0.1
+		modifier = {
+			add = 3
+			is_japanese_country = yes
+		}
+		modifier = {
+			factor = 0
+			OR = {
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
+			}
+		}
+	}
+}
+music = {
+	song = "eoanbm1_tsh_the_dark_temple"
+	chance = {
+		base = 0.1
+		modifier = {
+			add = 3
+			is_japanese_country = yes
+		}
+		modifier = {
+			factor = 0
+			OR = {
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
+			}
+		}
+	}
+}
+music = {
+	song = "eoanbm1_tsh_the_plight_of_the_samurai"
+	chance = {
+		base = 0.1
+		modifier = {
+			add = 3
+			is_japanese_country = yes
+		}
+		modifier = {
+			factor = 0
+			OR = {
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
+			}
+		}
+	}
+}

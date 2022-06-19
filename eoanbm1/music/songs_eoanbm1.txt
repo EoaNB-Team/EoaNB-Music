@@ -4169,10 +4169,10 @@ music = {
 	song = "dragonerna_komma"
 	chance = {
 		modifier = {
-			factor = 1
+			factor = 0
 			OR = {
-				has_war = yes
-				has_war = no
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
 			}
 		}
 	}
@@ -4182,10 +4182,10 @@ music = {
 	song = "pa_marsch"
 	chance = {
 		modifier = {
-			factor = 1
+			factor = 0
 			OR = {
-				has_war = yes
-				has_war = no
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
 			}
 		}
 	}
@@ -4195,10 +4195,10 @@ music = {
 	song = "hertigen_av_vasterbotten"
 	chance = {
 		modifier = {
-			factor = 1
+			factor = 0
 			OR = {
-				has_war = yes
-				has_war = no
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
 			}
 		}
 	}
@@ -4208,10 +4208,10 @@ music = {
 	song = "bodens_ingenjorskars"
 	chance = {
 		modifier = {
-			factor = 1
+			factor = 0
 			OR = {
-				has_war = yes
-				has_war = no
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
 			}
 		}
 	}
@@ -4221,10 +4221,10 @@ music = {
 	song = "ikaros"
 	chance = {
 		modifier = {
-			factor = 1
+			factor = 0
 			OR = {
-				has_war = yes
-				has_war = no
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
 			}
 		}
 	}
@@ -4234,10 +4234,10 @@ music = {
 	song = "la_gazza_ladra"
 	chance = {
 		modifier = {
-			factor = 1
+			factor = 0
 			OR = {
-				has_war = yes
-				has_war = no
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
 			}
 		}
 	}
@@ -4247,10 +4247,10 @@ music = {
 	song = "rusalka"
 	chance = {
 		modifier = {
-			factor = 1
+			factor = 0
 			OR = {
-				has_war = yes
-				has_war = no
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
 			}
 		}
 	}
@@ -4260,10 +4260,10 @@ music = {
 	song = "danube_waltz"
 	chance = {
 		modifier = {
-			factor = 1
+			factor = 0
 			OR = {
-				has_war = yes
-				has_war = no
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
 			}
 		}
 	}
@@ -4273,10 +4273,10 @@ music = {
 	song = "fledermaus"
 	chance = {
 		modifier = {
-			factor = 1
+			factor = 0
 			OR = {
-				has_war = yes
-				has_war = no
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
 			}
 		}
 	}
@@ -4286,10 +4286,10 @@ music = {
 	song = "poet_and_peasant"
 	chance = {
 		modifier = {
-			factor = 1
+			factor = 0
 			OR = {
-				has_war = yes
-				has_war = no
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
 			}
 		}
 	}
@@ -4299,10 +4299,10 @@ music = {
 	song = "flowers_waltz"
 	chance = {
 		modifier = {
-			factor = 1
+			factor = 0
 			OR = {
-				has_war = yes
-				has_war = no
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
 			}
 		}
 	}
@@ -4312,10 +4312,10 @@ music = {
 	song = "voices_of_spring"
 	chance = {
 		modifier = {
-			factor = 1
+			factor = 0
 			OR = {
-				has_war = yes
-				has_war = no
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
 			}
 		}
 	}
@@ -4325,10 +4325,10 @@ music = {
 	song = "tritsch_tratsch"
 	chance = {
 		modifier = {
-			factor = 1
+			factor = 0
 			OR = {
-				has_war = yes
-				has_war = no
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
 			}
 		}
 	}
@@ -4338,10 +4338,10 @@ music = {
 	song = "song_of_india"
 	chance = {
 		modifier = {
-			factor = 1
+			factor = 0
 			OR = {
-				has_war = yes
-				has_war = no
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
 			}
 		}
 	}
@@ -4351,10 +4351,10 @@ music = {
 	song = "bumblebee"
 	chance = {
 		modifier = {
-			factor = 1
+			factor = 0
 			OR = {
-				has_war = yes
-				has_war = no
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
 			}
 		}
 	}
@@ -4364,10 +4364,10 @@ music = {
 	song = "un_sospiro"
 	chance = {
 		modifier = {
-			factor = 1
+			factor = 0
 			OR = {
-				has_war = yes
-				has_war = no
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
 			}
 		}
 	}
@@ -4377,23 +4377,22 @@ music = {
 	song = "liebestraum"
 	chance = {
 		modifier = {
-			factor = 1
+			factor = 0
 			OR = {
-				has_war = yes
-				has_war = no
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
 			}
 		}
-	}
 }
 
 music = {
 	song = "duo_des_fleurs"
 	chance = {
 		modifier = {
-			factor = 1
+			factor = 0
 			OR = {
-				has_war = yes
-				has_war = no
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
 			}
 		}
 	}
@@ -4403,10 +4402,10 @@ music = {
 	song = "barcarolle"
 	chance = {
 		modifier = {
-			factor = 1
+			factor = 0
 			OR = {
-				has_war = yes
-				has_war = no
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
 			}
 		}
 	}
@@ -4416,10 +4415,10 @@ music = {
 	song = "morning_mood"
 	chance = {
 		modifier = {
-			factor = 1
+			factor = 0
 			OR = {
-				has_war = yes
-				has_war = no
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
 			}
 		}
 	}
@@ -4429,10 +4428,10 @@ music = {
 	song = "marche_slave"
 	chance = {
 		modifier = {
-			factor = 1
+			factor = 0
 			OR = {
-				has_war = yes
-				has_war = no
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
 			}
 		}
 	}
@@ -4442,10 +4441,10 @@ music = {
 	song = "moldau"
 	chance = {
 		modifier = {
-			factor = 1
+			factor = 0
 			OR = {
-				has_war = yes
-				has_war = no
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
 			}
 		}
 	}
@@ -4455,10 +4454,10 @@ music = {
 	song = "la_campanella"
 	chance = {
 		modifier = {
-			factor = 1
+			factor = 0
 			OR = {
-				has_war = yes
-				has_war = no
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
 			}
 		}
 	}
@@ -4468,10 +4467,10 @@ music = {
 	song = "nocturne_op9_no1"
 	chance = {
 		modifier = {
-			factor = 1
+			factor = 0
 			OR = {
-				has_war = yes
-				has_war = no
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
 			}
 		}
 	}
@@ -4481,10 +4480,10 @@ music = {
 	song = "entry_gods_valhalla"
 	chance = {
 		modifier = {
-			factor = 1
+			factor = 0
 			OR = {
-				has_war = yes
-				has_war = no
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
 			}
 		}
 	}
@@ -4494,10 +4493,10 @@ music = {
 	song = "solveigs_song"
 	chance = {
 		modifier = {
-			factor = 1
+			factor = 0
 			OR = {
-				has_war = yes
-				has_war = no
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
 			}
 		}
 	}
@@ -4507,10 +4506,10 @@ music = {
 	song = "reverie"
 	chance = {
 		modifier = {
-			factor = 1
+			factor = 0
 			OR = {
-				has_war = yes
-				has_war = no
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
 			}
 		}
 	}
@@ -4520,10 +4519,10 @@ music = {
 	song = "mountain_king"
 	chance = {
 		modifier = {
-			factor = 1
+			factor = 0
 			OR = {
-				has_war = yes
-				has_war = no
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
 			}
 		}
 	}
@@ -4533,10 +4532,10 @@ music = {
 	song = "can_can"
 	chance = {
 		modifier = {
-			factor = 1
+			factor = 0
 			OR = {
-				has_war = yes
-				has_war = no
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
 			}
 		}
 	}

@@ -1,0 +1,174 @@
+# Victorian China Music Pack by Vanadium
+
+music_station = "eoanbm1_qing"
+
+music = {
+	song = "eoanbm1_qng_cup_of_solid_gold"
+	chance = {
+		base = 0.1
+		modifier = {
+			add = 3
+			is_chinese_country = yes
+		}
+		modifier = {
+			factor = 0
+			OR = {
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
+			}
+		}
+	}
+}
+music = {
+	song = "eoanbm1_qng_defense_of_the_yellow_river"
+	chance = {
+		base = 0.1
+		modifier = {
+			add = 3
+			is_chinese_country = yes
+		}
+		modifier = {
+			factor = 0
+			OR = {
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
+			}
+		}
+	}
+}
+music = {
+	song = "eoanbm1_qng_the_battle_of_typhoon"
+	chance = {
+		base = 0.1
+		modifier = {
+			add = 3
+			is_chinese_country = yes
+		}
+		modifier = {
+			factor = 0
+			OR = {
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
+			}
+		}
+	}
+}
+music = {
+	song = "eoanbm1_qng_the_beyang_fleet"
+	chance = {
+		base = 0.1
+		modifier = {
+			add = 3
+			is_chinese_country = yes
+		}
+		modifier = {
+			factor = 0
+			OR = {
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
+			}
+		}
+	}
+}
+music = {
+	song = "eoanbm1_qng_the_training_song"
+	chance = {
+		base = 0.1
+		modifier = {
+			add = 3
+			is_chinese_country = yes
+		}
+		modifier = {
+			factor = 0
+			OR = {
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
+			}
+		}
+	}
+}
+music = {
+	song = "eoanbm1_qng_the_worlds_delight"
+	chance = {
+		base = 0.1
+		modifier = {
+			add = 3
+			is_chinese_country = yes
+		}
+		modifier = {
+			factor = 0
+			OR = {
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
+			}
+		}
+	}
+}
+music = {
+	song = "eoanbm1_qng_the_yellow_river_boatman"
+	chance = {
+		base = 0.1
+		modifier = {
+			add = 3
+			is_chinese_country = yes
+		}
+		modifier = {
+			factor = 0
+			OR = {
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
+			}
+		}
+	}
+}
+music = {
+	song = "eoanbm1_qng_tune_of_li_zhongtang"
+	chance = {
+		base = 0.1
+		modifier = {
+			add = 3
+			is_chinese_country = yes
+		}
+		modifier = {
+			factor = 0
+			OR = {
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
+			}
+		}
+	}
+}
+music = {
+	song = "eoanbm1_qng_wrath_of_the_yellow_river"
+	chance = {
+		base = 0.1
+		modifier = {
+			add = 3
+			is_chinese_country = yes
+		}
+		modifier = {
+			factor = 0
+			OR = {
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
+			}
+		}
+	}
+}
+music = {
+	song = "eoanbm1_qng_ode_to_the_yellow_river"
+	chance = {
+		base = 0.1
+		modifier = {
+			add = 3
+			is_chinese_country = yes
+		}
+		modifier = {
+			factor = 0
+			OR = {
+				has_global_flag = eoanb_gamerule_music_disabled
+				has_country_flag = eoanb_gamerule_music_disabled
+			}
+		}
+	}
+}
