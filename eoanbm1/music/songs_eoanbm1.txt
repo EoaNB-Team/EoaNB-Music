@@ -4383,6 +4383,7 @@ music = {
 				has_country_flag = eoanb_gamerule_music_disabled
 			}
 		}
+	}
 }
 
 music = {
