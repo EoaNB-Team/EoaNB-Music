@@ -240,7 +240,7 @@ guiTypes = {
 		checkBoxType = {
 			name = "select_station_button"
 			position = { x = 0 y = 0 }
-			quadTextureSprite = "GFX_eoanbm1_italy_album_art"
+			quadTextureSprite = "GFX_italy_album_art"
 			clicksound = decisions_ui_button
 		}
 	}
@@ -361,30 +361,7 @@ guiTypes = {
 		checkBoxType = {
 			name = "select_station_button"
 			position = { x = 0 y = 0 }
-			quadTextureSprite = "GFX_eoanbm1_germany_album_art"
-			clicksound = decisions_ui_button
-		}
-	}
-
-	containerWindowType={
-		name = "eoanbm1_qing_stations_entry"
-		size = { width = 162 height = 130 }
-
-		checkBoxType = {
-			name = "select_station_button"
-			position = { x = 0 y = 0 }
-			quadTextureSprite = "GFX_eoanbm1_qing_album_art"
-			clicksound = decisions_ui_button
-		}
-	}
-	containerWindowType={
-		name = "eoanbm1_tokugawa_stations_entry"
-		size = { width = 162 height = 130 }
-
-		checkBoxType = {
-			name = "select_station_button"
-			position = { x = 0 y = 0 }
-			quadTextureSprite = "GFX_eoanbm1_tokugawa_album_art"
+			quadTextureSprite = "GFX_germany_album_art"
 			clicksound = decisions_ui_button
 		}
 	}

@@ -5,23 +5,13 @@ spriteTypes = {
 		noOfFrames = 2
 	}   
 	spriteType = {
-		name = "GFX_eoanbm1_italy_album_art"
-		textureFile = "gfx/interface/topbar/musicplayer/eoanbm1_italy_album_art.dds"
+		name = "GFX_italy_album_art"
+		textureFile = "gfx/interface/topbar/musicplayer/italy_album_art.dds"
 		noOfFrames = 2
-	}
+	} 
 	spriteType = {
-		name = "GFX_eoanbm1_germany_album_art"
-		textureFile = "gfx/interface/topbar/musicplayer/eoanbm1_germany_album_art.dds"
+		name = "GFX_germany_album_art"
+		textureFile = "gfx/interface/topbar/musicplayer/germany_album_art.dds"
 		noOfFrames = 2
-	}
-	spriteType = {
-		name = "GFX_eoanbm1_qing_album_art"
-		textureFile = "gfx/interface/topbar/musicplayer/eoanbm1_qing_album_art.dds"
-		noOfFrames = 2
-	}
-	spriteType = {
-		name = "GFX_eoanbm1_tokugawa_album_art"
-		textureFile = "gfx/interface/topbar/musicplayer/eoanbm1_tokugawa_album_art.dds"
-		noOfFrames = 2
-	}
+	} 
 }
