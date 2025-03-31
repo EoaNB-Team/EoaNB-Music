@@ -22,9 +22,6 @@ music = {
 	song = "Fratelli_d_Italia"
 }
 music = {
-	song = "Va_pensiero"
-}
-music = {
 	song = "Funiculi_Funicula"
 }
 music = {

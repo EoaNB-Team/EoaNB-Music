@@ -1,8 +1,24 @@
-### MUSIC SUBMOD BUNDLE 1 ###
+### VICTORIAN BALLAD ###
 music_station = "eoanbm_bundle_one"
 
+### GENERICS ####
 music = {
 	song = "william_tell"
+}
+music = {
+	song = "waves_of_the_danube"
+}
+music = {
+	song = "voices_of_spring"
+}
+music = {
+	song = "valse_sentimentale"
+}
+music = {
+	song = "un_sospiro"
+}
+music = {
+	song = "tritsch_tratsch"
 }
 music = {
 	song = "traeumerei"
@@ -11,498 +27,379 @@ music = {
 	song = "traeume"
 }
 music = {
+	song = "swan_lake"
+}
+music = {
 	song = "spinnerlied"
 }
 music = {
-	song = "norma"
+	song = "song_of_india"
 }
 music = {
-	song = "il_pirata"
+	song = "solveigs_song"
 }
 music = {
-	song = "calabrese"
+	song = "rusalka"
 }
 music = {
-	song = "bridal_chorus"
+	song = "reverie"
 }
 music = {
-	song = "barber_of_seville"
-}
-
-# Russia
-music = {
-	song = "RUS_imperial_anthem_song"
-}
-music = {
-	song = "valse_sentimentale"
-}
-music = {
-	song = "swan_lake"
+	song = "poet_and_peasant"
 }
 music = {
 	song = "pas_de_deux"
 }
 music = {
-	song = "blue_distance"
+	song = "norma"
 }
 music = {
-	song = "marche_slave"
+	song = "nocturne_op9_no1"
+}
+music = {
+	song = "mountain_king"
+}
+music = {
+	song = "morning_mood"
+}
+music = {
+	song = "moldau"
+}
+music = {
+	song = "liebestraum"
+}
+music = {
+	song = "la_gazza_ladra"
+}
+music = {
+	song = "la_campanella"
+}
+music = {
+	song = "il_pirata"
+}
+music = {
+	song = "husaren_moberg"
+}
+music = {
+	song = "hun_rhapsody_3"
+}
+music = {
+	song = "hun_dance_5"
+}
+music = {
+	song = "holy_city"
+}
+music = {
+	song = "flowers_waltz"
+}
+music = {
+	song = "fledermaus"
+}
+music = {
+	song = "fantaisie_impromptu"
+}
+music = {
+	song = "falstaff"
+}
+music = {
+	song = "entry_gods_valhalla"
+}
+music = {
+	song = "en_rythme_molossique"
+}
+music = {
+	song = "duo_des_fleurs"
+}
+music = {
+	song = "danube_waltz"
+}
+music = {
+	song = "danse_macabre"
 }
 music = {
 	song = "dance_of_the_knights"
 }
+music = {
+	song = "carmen"
+}
+music = {
+	song = "can_can"
+}
+music = {
+	song = "calabrese"
+}
+music = {
+	song = "bumblebee"
+}
+music = {
+	song = "bridal_chorus"
+}
+music = {
+	song = "brahms_waltz"
+}
+music = {
+	song = "brahms_lullaby"
+}
+music = {
+	song = "bohemian_girl_the_dream"
+}
+music = {
+	song = "bohemian_girl"
+}
+music = {
+	song = "blue_distance"
+}
+music = {
+	song = "barcarolle"
+}
+music = {
+	song = "barber_of_seville"
+}
+music = {
+	song = "Va_pensiero"
+}
+music = {
+	song = "eoanb_vic_2_waltz"
+}
+music = {
+	song = "eoanb_peace_6"
+}
+music = {
+	song = "eoanb_peace_5"
+}
+music = {
+	song = "eoanb_peace_4"
+}
+music = {
+	song = "eoanb_peace_2"
+}
+music = {
+	song = "eoanb_peace_1"
+}
+# Austria - Hungary
+music = {
+	song = "o_moravo"
+}
+music = {
+	song = "AUS_radetzky_march_song"
+}
+# Bulgaria
+music = {
+	song = "wind_blows_balkans_moan"
+}
+music = {
+	song = "quiet_white_danube"
+}
+music = {
+	song = "get_up_balkan_hero"
+}
+music = {
+	song = "the_battle_has_begun"
+}
+# Russia
 music = {
 	song = "when_we_were_at_war"
 }
 music = {
 	song = "two_brothers_was_going_there"
 }
-
+music = {
+	song = "marche_slave"
+}
+music = {
+	song = "RUS_imperial_anthem_song"
+}
 #Romania
 music = {
-	song = "drum_bun"
-}
-music = {
-	song = "marsul_carol_I"
-}
-music = {
-	song = "hora_unirii"
+	song = "welcome_march"
 }
 music = {
 	song = "scris_unire"
 }
 music = {
-	song = "la_arme"
-}
-music = {
-	song = "welcome_march"
+	song = "marsul_carol_I"
 }
 music = {
 	song = "long_live_the_king"
 }
 music = {
-	song = "waves_of_the_danube"
-}
-
-#Bulgaria
-music = {
-	song = "the_battle_has_begun"
+	song = "la_arme"
 }
 music = {
-	song = "quiet_white_danube"
+	song = "hora_unirii"
 }
 music = {
-	song = "wind_blows_balkans_moan"
+	song = "drum_bun"
 }
-music = {
-	song = "get_up_balkan_hero"
-}
-
 #Serbia
-music = {
-	song = "God_of_justice"
-}
 music = {
 	song = "the_serbs_are_calling_you"
 }
-
+music = {
+	song = "God_of_justice"
+}
 #Montenegro
 music = {
 	song = "bright_dawn_of_may"
 }
-
-# Generic
-music = {
-	song = "o_moravo"
-}
-
-music = {
-	song = "eoanb_peace_1"
-}
-
-music = {
-	song = "eoanb_peace_2"
-}
-
-music = {
-	song = "eoanb_peace_4"
-}
-
-music = {
-	song = "eoanb_peace_5"
-}
-
-music = {
-	song = "ENG_british_grenadiers_song"
-}
-
+# UNITED KINGDOM
 music = {
 	song = "ENG_god_save_the_queen_song"
 }
-
 music = {
-	song = "FRA_marsellaise_song"
+	song = "ENG_british_grenadiers_song"
 }
-
-music = {
-	song = "FRA_victory_song"
-}
-
-music = {
-	song = "OTO_mehter_marsi_song"
-}
-
-music = {
-	song = "OTO_mecidiye_marsi_song"
-}
-
-music = {
-	song = "AUS_radetzky_march_song"
-}
-
-music = {
-	song = "BRA_anthem"
-}
-
-music = {
-	song = "SPR_el_turuta_song"
-}
-
-music = {
-	song = "USA_johnny_marching_song"
-}
-
-music = {
-	song = "USA_stars_stripes_song"
-}
-
-music = {
-	song = "USA_battle_hymn_of_the_republic_song"
-}
-
-music = {
-	song = "USA_union_dixie_song"
-}
-
-music = {
-	song = "USA_battle_cry_of_freedom_song"
-}
-
-music = {
-	song = "USA_well_fight_for_uncle_sam_song"
-}
-
-music = {
-	song = "CSA_dixie_song"
-}
-
-music = {
-	song = "eoanb_peace_6"
-}
-
-music = {
-	song = "eoanb_vic_2_waltz"
-}
-
-#BAV
-
-#USA / CSA
-music = {
-	song = "hard_times_come_again_no_more"
-}
-
-music = {
-	song = "marching_through_georgia"
-}
-
-#CSA
-music = {
-	song = "southern_soldier"
-}
-
-music = {
-	song = "johnny_reb"
-}
-
-music = {
-	song = "southern_men_march"
-}
-
-music = {
-	song = "oh_susanna"
-}
-
-music = {
-	song = "good_old_rebel"
-}
-
-music = {
-	song = "southern_wagon"
-}
-
-music = {
-	song = "riding_a_raid"
-}
-
-#FIN
-music = {
-	song = "kauan_on_karsitty"
-}
-
-#CHI
-music = {
-	song = "mo_li_hua"
-}
-
-music = {
-	song = "gao_shan_liu_shui"
-}
-
-music = {
-	song = "colorful_clouds_chasing_moon"
-}
-
-music = {
-	song = "cup_of_solid_gold"
-}
-
-#GRE
-music = {
-	song = "hymnos_eis_tin"
-}
-
-music = {
-	song = "chrysanthems"
-}
-
-music = {
-	song = "greek_naval_march"
-}
-
-#KOR
-music = {
-	song = "arirang"
-}
-
-#JAP
-music = {
-	song = "sakura"
-}
-
-music = {
-	song = "gagaku"
-}
-
-#RUS
-
-#AUS / HUN
-music = {
-	song = "hun_rhapsody_3"
-}
-
-music = {
-	song = "hun_dance_5"
-}
-
-music = {
-	song = "brahms_lullaby"
-}
-
-music = {
-	song = "brahms_waltz"
-}
-
-#FRA
+# France
 music = {
 	song = "le_chant_du_depart"
 }
-
 music = {
-	song = "danse_macabre"
+	song = "FRA_victory_song"
 }
-
 music = {
-	song = "en_rythme_molossique"
+	song = "FRA_marsellaise_song"
 }
-
+# Ottoman Empire
 music = {
-	song = "fantaisie_impromptu"
+	song = "OTO_mehter_marsi_song"
 }
-
 music = {
-	song = "carmen"
+	song = "OTO_mecidiye_marsi_song"
 }
-
-#ENG
+# Brazil
 music = {
-	song = "bohemian_girl"
+	song = "BRA_anthem"
 }
-
-music = {
-	song = "bohemian_girl_the_dream"
-}
-
-music = {
-	song = "falstaff"
-}
-
-music = {
-	song = "holy_city"
-}
-
-#all ITA
-
-#all GER
-
-music = {
-	song = "german_dixie"
-}
-
-#SWE
+# Sweden
 music = {
 	song = "till_fronten"
 }
-
-music = {
-	song = "blue_yellow_banner"
-}
-
-music = {
-	song = "arme_och_marine"
-}
-
-music = {
-	song = "i_gevar"
-}
-
-music = {
-	song = "kronprins_olav"
-}
-
-music = {
-	song = "husaren_moberg"
-}
-
-music = {
-	song = "bohus_batajon"
-}
-
-music = {
-	song = "bred_dina_vida_vingar"
-}
-
-#Balkans
-
-#Generic
-music = {
-	song = "dragonerna_komma"
-}
-
 music = {
 	song = "pa_marsch"
 }
-
-music = {
-	song = "hertigen_av_vasterbotten"
-}
-
-music = {
-	song = "bodens_ingenjorskars"
-}
-
 music = {
 	song = "ikaros"
 }
-
 music = {
-	song = "la_gazza_ladra"
+	song = "i_gevar"
 }
-
 music = {
-	song = "rusalka"
+	song = "hertigen_av_vasterbotten"
 }
-
 music = {
-	song = "danube_waltz"
+	song = "dragonerna_komma"
 }
-
 music = {
-	song = "fledermaus"
+	song = "bohus_batajon"
 }
-
 music = {
-	song = "poet_and_peasant"
+	song = "bodens_ingenjorskars"
 }
-
 music = {
-	song = "flowers_waltz"
+	song = "blue_yellow_banner"
 }
-
 music = {
-	song = "voices_of_spring"
+	song = "arme_och_marine"
 }
-
+# Denmark
 music = {
-	song = "tritsch_tratsch"
+	song = "bred_dina_vida_vingar"
 }
-
+# Norway
 music = {
-	song = "song_of_india"
+	song = "kronprins_olav"
 }
-
+# Finland
 music = {
-	song = "bumblebee"
+	song = "kauan_on_karsitty"
 }
-
+# Greece
 music = {
-	song = "un_sospiro"
+	song = "hymnos_eis_tin"
 }
-
 music = {
-	song = "liebestraum"
+	song = "greek_naval_march"
 }
-
 music = {
-	song = "duo_des_fleurs"
+	song = "chrysanthems"
 }
-
+# Spain
 music = {
-	song = "barcarolle"
+	song = "SPR_el_turuta_song"
 }
-
+# Korea
 music = {
-	song = "morning_mood"
+	song = "arirang"
 }
-
+# Qing
 music = {
-	song = "moldau"
+	song = "mo_li_hua"
 }
-
 music = {
-	song = "la_campanella"
-
+	song = "gao_shan_liu_shui"
 }
-
 music = {
-	song = "nocturne_op9_no1"
+	song = "cup_of_solid_gold"
 }
-
 music = {
-	song = "entry_gods_valhalla"
+	song = "colorful_clouds_chasing_moon"
 }
-
+# Japan
 music = {
-	song = "solveigs_song"
+	song = "sakura"
 }
-
 music = {
-	song = "reverie"
+	song = "gagaku"
 }
-
+# USA / CSA
 music = {
-	song = "mountain_king"
+	song = "southern_wagon"
 }
-
 music = {
-	song = "can_can"
+	song = "southern_soldier"
+}
+music = {
+	song = "southern_men_march"
+}
+music = {
+	song = "riding_a_raid"
+}
+music = {
+	song = "oh_susanna"
+}
+music = {
+	song = "marching_through_georgia"
+}
+music = {
+	song = "johnny_reb"
+}
+music = {
+	song = "hard_times_come_again_no_more"
+}
+music = {
+	song = "good_old_rebel"
+}
+music = {
+	song = "german_dixie"
+}
+music = {
+	song = "USA_well_fight_for_uncle_sam_song"
+}
+music = {
+	song = "USA_union_dixie_song"
+}
+music = {
+	song = "USA_stars_stripes_song"
+}
+music = {
+	song = "USA_johnny_marching_song"
+}
+music = {
+	song = "USA_battle_hymn_of_the_republic_song"
+}
+music = {
+	song = "USA_battle_cry_of_freedom_song"
+}
+music = {
+	song = "CSA_dixie_song"
 }
