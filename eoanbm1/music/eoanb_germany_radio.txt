@@ -4,18 +4,6 @@
 music_station = "Germany"
 
 music = {
-	song = "traeumerei"
-}
-music = {
-	song = "bridal_chorus"
-}
-music = {
-	song = "spinnerlied"
-}
-music = {
-	song = "traeume"
-}
-music = {
 	song = "bayernhymne"
 }
 music = {

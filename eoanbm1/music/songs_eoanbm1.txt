@@ -1,6 +1,34 @@
 ### MUSIC SUBMOD BUNDLE 1 ###
 music_station = "eoanbm_bundle_one"
 
+music = {
+	song = "william_tell"
+}
+music = {
+	song = "traeumerei"
+}
+music = {
+	song = "traeume"
+}
+music = {
+	song = "spinnerlied"
+}
+music = {
+	song = "norma"
+}
+music = {
+	song = "il_pirata"
+}
+music = {
+	song = "calabrese"
+}
+music = {
+	song = "bridal_chorus"
+}
+music = {
+	song = "barber_of_seville"
+}
+
 # Russia
 music = {
 	song = "RUS_imperial_anthem_song"

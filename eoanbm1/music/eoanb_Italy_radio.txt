@@ -4,21 +4,6 @@
 music_station = "Italy"
 
 music = {
-	song = "norma"
-}
-music = {
-	song = "il_pirata"
-}
-music = {
-	song = "calabrese"
-}
-music = {
-	song = "william_tell"
-}
-music = {
-	song = "barber_of_seville"
-}
-music = {
 	song = "tarantella_siciliana"
 }
 music = {
