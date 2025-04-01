@@ -1,0 +1,5 @@
+### RUSSIA ###
+music_station = "russia"
+music = {
+	song = "RUS_imperial_anthem_song"
+}

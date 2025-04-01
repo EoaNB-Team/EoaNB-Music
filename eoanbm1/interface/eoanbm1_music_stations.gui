@@ -365,4 +365,103 @@ guiTypes = {
 			clicksound = decisions_ui_button
 		}
 	}
+	containerWindowType={
+		name = "balkans_stations_entry"
+		size = { width = 162 height = 130 }
+		
+		checkBoxType = {
+			name = "select_station_button"
+			position = { x = 0 y = 0 }
+			quadTextureSprite = "GFX_balkans_album_art"
+			clicksound = decisions_ui_button
+		}
+	}
+	containerWindowType={
+		name = "far_east_stations_entry"
+		size = { width = 162 height = 130 }
+		
+		checkBoxType = {
+			name = "select_station_button"
+			position = { x = 0 y = 0 }
+			quadTextureSprite = "GFX_far_east_album_art"
+			clicksound = decisions_ui_button
+		}
+	}
+	containerWindowType={
+		name = "habsburgs_stations_entry"
+		size = { width = 162 height = 130 }
+		
+		checkBoxType = {
+			name = "select_station_button"
+			position = { x = 0 y = 0 }
+			quadTextureSprite = "GFX_habsburgs_album_art"
+			clicksound = decisions_ui_button
+		}
+	}
+	containerWindowType={
+		name = "mena_stations_entry"
+		size = { width = 162 height = 130 }
+		
+		checkBoxType = {
+			name = "select_station_button"
+			position = { x = 0 y = 0 }
+			quadTextureSprite = "GFX_mena_album_art"
+			clicksound = decisions_ui_button
+		}
+	}
+	containerWindowType={
+		name = "nordics_stations_entry"
+		size = { width = 162 height = 130 }
+		
+		checkBoxType = {
+			name = "select_station_button"
+			position = { x = 0 y = 0 }
+			quadTextureSprite = "GFX_nordics_album_art"
+			clicksound = decisions_ui_button
+		}
+	}
+	containerWindowType={
+		name = "russia_stations_entry"
+		size = { width = 162 height = 130 }
+		
+		checkBoxType = {
+			name = "select_station_button"
+			position = { x = 0 y = 0 }
+			quadTextureSprite = "GFX_russia_album_art"
+			clicksound = decisions_ui_button
+		}
+	}
+	containerWindowType={
+		name = "south_america_stations_entry"
+		size = { width = 162 height = 130 }
+		
+		checkBoxType = {
+			name = "select_station_button"
+			position = { x = 0 y = 0 }
+			quadTextureSprite = "GFX_south_america_album_art"
+			clicksound = decisions_ui_button
+		}
+	}
+	containerWindowType={
+		name = "usa_csa_stations_entry"
+		size = { width = 162 height = 130 }
+		
+		checkBoxType = {
+			name = "select_station_button"
+			position = { x = 0 y = 0 }
+			quadTextureSprite = "GFX_usa_csa_album_art"
+			clicksound = decisions_ui_button
+		}
+	}
+	containerWindowType={
+		name = "west_europe_stations_entry"
+		size = { width = 162 height = 130 }
+		
+		checkBoxType = {
+			name = "select_station_button"
+			position = { x = 0 y = 0 }
+			quadTextureSprite = "GFX_west_europe_album_art"
+			clicksound = decisions_ui_button
+		}
+	}
 }

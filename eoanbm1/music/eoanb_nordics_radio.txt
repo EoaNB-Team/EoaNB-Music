@@ -1,0 +1,5 @@
+### THE NORDICS ###
+music_station = "nordics"
+music = {
+	song = "i_gevar"
+}

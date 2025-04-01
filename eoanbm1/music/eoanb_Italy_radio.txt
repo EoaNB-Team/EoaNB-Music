@@ -40,9 +40,6 @@ music = {
 	song = "Camicia_Rossa"
 }
 music = {
-	song = "Aida_Marcia"
-}
-music = {
 	song = "Noi_vogliam_Dio_Vergine_Maria"
 }
 music = {

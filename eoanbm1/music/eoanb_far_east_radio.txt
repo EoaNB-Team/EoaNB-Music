@@ -1,0 +1,5 @@
+### FAR EAST ###
+music_station = "far_east"
+music = {
+	song = "cup_of_solid_gold"
+}

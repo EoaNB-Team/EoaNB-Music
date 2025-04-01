@@ -1,0 +1,5 @@
+### YANKEES AND DIXIES ###
+music_station = "usa_csa"
+music = {
+	song = "johnny_reb"
+}

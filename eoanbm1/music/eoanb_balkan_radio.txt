@@ -1,0 +1,6 @@
+### BALKAN POWDERKEG ###
+music_station = "balkans"
+# Bulgaria
+music = {
+	song = "wind_blows_balkans_moan"
+}

@@ -3,6 +3,9 @@ music_station = "eoanbm_bundle_one"
 
 ### GENERICS ####
 music = {
+	song = "Aida_Marcia"
+}
+music = {
 	song = "william_tell"
 }
 music = {
@@ -180,13 +183,7 @@ music = {
 music = {
 	song = "o_moravo"
 }
-music = {
-	song = "AUS_radetzky_march_song"
-}
 # Bulgaria
-music = {
-	song = "wind_blows_balkans_moan"
-}
 music = {
 	song = "quiet_white_danube"
 }
@@ -205,9 +202,6 @@ music = {
 }
 music = {
 	song = "marche_slave"
-}
-music = {
-	song = "RUS_imperial_anthem_song"
 }
 #Romania
 music = {
@@ -261,15 +255,9 @@ music = {
 }
 # Ottoman Empire
 music = {
-	song = "OTO_mehter_marsi_song"
-}
-music = {
 	song = "OTO_mecidiye_marsi_song"
 }
 # Brazil
-music = {
-	song = "BRA_anthem"
-}
 # Sweden
 music = {
 	song = "till_fronten"
@@ -279,9 +267,6 @@ music = {
 }
 music = {
 	song = "ikaros"
-}
-music = {
-	song = "i_gevar"
 }
 music = {
 	song = "hertigen_av_vasterbotten"
@@ -339,9 +324,6 @@ music = {
 	song = "gao_shan_liu_shui"
 }
 music = {
-	song = "cup_of_solid_gold"
-}
-music = {
 	song = "colorful_clouds_chasing_moon"
 }
 # Japan
@@ -369,9 +351,6 @@ music = {
 }
 music = {
 	song = "marching_through_georgia"
-}
-music = {
-	song = "johnny_reb"
 }
 music = {
 	song = "hard_times_come_again_no_more"

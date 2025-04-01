@@ -1,0 +1,5 @@
+### MENA ###
+music_station = "mena"
+music = {
+	song = "OTO_mehter_marsi_song"
+}

@@ -1,0 +1,5 @@
+### THE HABSBURG MONARCHY ###
+music_station = "habsburgs"
+music = {
+	song = "AUS_radetzky_march_song"
+}

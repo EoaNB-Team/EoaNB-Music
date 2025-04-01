@@ -1,0 +1,5 @@
+### WESTERN EUROPE ###
+music_station = "west_europe"
+music = {
+	song = "FRA_marsellaise_song"
+}
