@@ -4,3 +4,55 @@ music_station = "balkans"
 music = {
 	song = "wind_blows_balkans_moan"
 }
+music = {
+	song = "quiet_white_danube"
+}
+music = {
+	song = "get_up_balkan_hero"
+}
+music = {
+	song = "the_battle_has_begun"
+}
+#Romania
+music = {
+	song = "welcome_march"
+}
+music = {
+	song = "scris_unire"
+}
+music = {
+	song = "marsul_carol_I"
+}
+music = {
+	song = "long_live_the_king"
+}
+music = {
+	song = "la_arme"
+}
+music = {
+	song = "hora_unirii"
+}
+music = {
+	song = "drum_bun"
+}
+#Serbia
+music = {
+	song = "the_serbs_are_calling_you"
+}
+music = {
+	song = "God_of_justice"
+}
+#Montenegro
+music = {
+	song = "bright_dawn_of_may"
+}
+# Greece
+music = {
+	song = "hymnos_eis_tin"
+}
+music = {
+	song = "greek_naval_march"
+}
+music = {
+	song = "chrysanthems"
+}

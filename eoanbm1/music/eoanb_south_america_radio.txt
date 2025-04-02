@@ -1,5 +1,5 @@
 ### SOUTH AMERICA ###
 music_station = "south_america"
 music = {
-	song = "RUS_imperial_anthem_song"
+	song = "BRA_anthem"
 }

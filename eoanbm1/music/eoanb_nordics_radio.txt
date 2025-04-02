@@ -1,5 +1,45 @@
 ### THE NORDICS ###
 music_station = "nordics"
+# Sweden
+music = {
+	song = "till_fronten"
+}
+music = {
+	song = "pa_marsch"
+}
+music = {
+	song = "ikaros"
+}
+music = {
+	song = "hertigen_av_vasterbotten"
+}
+music = {
+	song = "dragonerna_komma"
+}
+music = {
+	song = "bohus_batajon"
+}
+music = {
+	song = "bodens_ingenjorskars"
+}
+music = {
+	song = "blue_yellow_banner"
+}
+music = {
+	song = "arme_och_marine"
+}
 music = {
 	song = "i_gevar"
+}
+# Denmark
+music = {
+	song = "bred_dina_vida_vingar"
+}
+# Norway
+music = {
+	song = "kronprins_olav"
+}
+# Finland
+music = {
+	song = "kauan_on_karsitty"
 }

@@ -1,5 +1,26 @@
 ### FAR EAST ###
 music_station = "far_east"
+# Qing
+music = {
+	song = "mo_li_hua"
+}
+music = {
+	song = "gao_shan_liu_shui"
+}
+music = {
+	song = "colorful_clouds_chasing_moon"
+}
 music = {
 	song = "cup_of_solid_gold"
+}
+# Japan
+music = {
+	song = "sakura"
+}
+music = {
+	song = "gagaku"
+}
+# Korea
+music = {
+	song = "arirang"
 }

@@ -1,5 +1,54 @@
 ### YANKEES AND DIXIES ###
 music_station = "usa_csa"
+# USA / CSA
+music = {
+	song = "southern_wagon"
+}
+music = {
+	song = "southern_soldier"
+}
+music = {
+	song = "southern_men_march"
+}
+music = {
+	song = "riding_a_raid"
+}
+music = {
+	song = "oh_susanna"
+}
+music = {
+	song = "marching_through_georgia"
+}
+music = {
+	song = "hard_times_come_again_no_more"
+}
+music = {
+	song = "good_old_rebel"
+}
+music = {
+	song = "german_dixie"
+}
+music = {
+	song = "USA_well_fight_for_uncle_sam_song"
+}
+music = {
+	song = "USA_union_dixie_song"
+}
+music = {
+	song = "USA_stars_stripes_song"
+}
+music = {
+	song = "USA_johnny_marching_song"
+}
+music = {
+	song = "USA_battle_hymn_of_the_republic_song"
+}
+music = {
+	song = "USA_battle_cry_of_freedom_song"
+}
+music = {
+	song = "CSA_dixie_song"
+}s
 music = {
 	song = "johnny_reb"
 }
