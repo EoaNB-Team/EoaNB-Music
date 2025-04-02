@@ -1,5 +1,9 @@
 ### SOUTH AMERICA ###
 music_station = "south_america"
+# Brazil
 music = {
 	song = "BRA_anthem"
+}
+music = {
+	song = "exulta_oh_brazil"
 }

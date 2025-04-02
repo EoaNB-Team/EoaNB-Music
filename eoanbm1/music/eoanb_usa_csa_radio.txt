@@ -52,3 +52,6 @@ music = {
 music = {
 	song = "johnny_reb"
 }
+music = {
+	song = "yellow_rose_texas"
+}

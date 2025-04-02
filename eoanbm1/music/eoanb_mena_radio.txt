@@ -7,3 +7,7 @@ music = {
 music = {
 	song = "OTO_mehter_marsi_song"
 }
+# Iran
+music = {
+	song = "vatanam"
+}

@@ -13,12 +13,30 @@ music = {
 music = {
 	song = "cup_of_solid_gold"
 }
+music = {
+	song = "li_zhongtang_yue"
+}
+music = {
+	song = "pu_tian_yue"
+}
+music = {
+	song = "soldiers_training_song"
+}
 # Japan
 music = {
 	song = "sakura"
 }
 music = {
 	song = "gagaku"
+}
+music = {
+	song = "miyasan_miyasan"
+}
+music = {
+	song = "battotai_instrumental"
+}
+music = {
+	song = "hayashi_koshinyoku"
 }
 # Korea
 music = {

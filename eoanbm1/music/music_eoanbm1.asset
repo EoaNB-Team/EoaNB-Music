@@ -1024,3 +1024,43 @@ music = {
 #####################
 # End Terra Slavica #
 #####################
+music = {
+	name = "exulta_oh_brazil"
+	file = "eoanbm1_exulta_oh_brazil.ogg"
+	volume = 0.8
+}
+music = {
+	name = "li_zhongtang_yue"
+	file = "eoanbm1_li_zhongtang_yue.ogg"
+	volume = 0.8
+}
+music = {
+	name = "pu_tian_yue"
+	file = "eoanbm1_pu_tian_yue.ogg"
+	volume = 0.8
+}
+music = {
+	name = "yellow_rose_texas"
+	file = "eoanbm1_yellow_rose_texas.ogg"
+	volume = 0.8
+}
+music = {
+	name = "soldiers_training_song"
+	file = "eoanbm1_soldiers_training_song.ogg"
+	volume = 0.8
+}
+music = {
+	name = "miyasan_miyasan"
+	file = "eoanbm1_miyasan_miyasan.ogg"
+	volume = 0.8
+}
+music = {
+	name = "battotai_instrumental"
+	file = "eoanmb1_battotai_instrumental.ogg"
+	volume = 0.8
+}
+music = {
+	name = "hayashi_koshinyoku"
+	file = "eoanbm1_hayashi_koshinyoku.ogg"
+	volume = 0.8
+}
