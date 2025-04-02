@@ -56,3 +56,9 @@ music = {
 music = {
 	song = "chrysanthems"
 }
+music = {
+	song = "i_wish_it_were_1821"
+}
+music = {
+	song = "anthem_crete_revolt"
+}

@@ -7,3 +7,11 @@ music = {
 music = {
 	song = "exulta_oh_brazil"
 }
+# Argentina
+music = {
+	song = "himno_argentino"
+}
+# Uruguay
+music = {
+	song = "mariscal_lopez"
+}

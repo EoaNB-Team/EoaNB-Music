@@ -12,3 +12,12 @@ music = {
 music = {
 	song = "marche_slave"
 }
+music = {
+	song = "petersburg_march"
+}
+music = {
+	song = "preobrazhensky_march"
+}
+music = {
+	song = "slavsya"
+}

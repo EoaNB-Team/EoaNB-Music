@@ -6,3 +6,12 @@ music = {
 music = {
 	song = "AUS_radetzky_march_song"
 }
+music = {
+	song = "unter_dem_doppeladler"
+}
+music = {
+	song = "rakoczi_march"
+}
+music = {
+	song = "entrance_gladiators"
+}

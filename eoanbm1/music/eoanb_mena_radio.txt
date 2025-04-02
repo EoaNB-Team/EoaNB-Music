@@ -7,7 +7,40 @@ music = {
 music = {
 	song = "OTO_mehter_marsi_song"
 }
+music = {
+	song = "ceddin_deden"
+}
+music = {
+	song = "gafil_ne_bilir"
+}
+music = {
+	song = "plevne_march"
+}
+music = {
+	song = "mecidiye_marsi"
+}
+music = {
+	song = "aziziye_march"
+}
+music = {
+	song = "hamidiye_marsi"
+}
+music = {
+	song = "sevastopol_march"
+}
 # Iran
 music = {
 	song = "vatanam"
+}
+# Egypt
+music = {
+	song = "salam_affandina"
+}
+# Tunisia
+music = {
+	song = "salam_al_bey"
+}
+# Arabia
+music = {
+	song = "sword_dance"
 }

@@ -22,6 +22,15 @@ music = {
 music = {
 	song = "soldiers_training_song"
 }
+music = {
+	song = "chao_tianzi"
+}
+music = {
+	song = "purple_bamboo_tune"
+}
+music = {
+	song = "uksalara_maksin"
+}
 # Japan
 music = {
 	song = "sakura"

@@ -10,12 +10,30 @@ music = {
 music = {
 	song = "FRA_marsellaise_song"
 }
+music = {
+	song = "ca_ira"
+}
+music = {
+	song = "te_souviens_tu"
+}
 # UNITED KINGDOM
 music = {
 	song = "ENG_god_save_the_queen_song"
 }
 music = {
 	song = "ENG_british_grenadiers_song"
+}
+music = {
+	song = "scotland_brave"
+}
+music = {
+	song = "rule_britannia"
+}
+music = {
+	song = "land_hope_glory"
+}
+music = {
+	song = "vow_to_thee_country"
 }
 # Spain
 music = {

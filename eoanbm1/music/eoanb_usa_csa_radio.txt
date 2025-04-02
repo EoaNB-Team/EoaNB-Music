@@ -55,3 +55,12 @@ music = {
 music = {
 	song = "yellow_rose_texas"
 }
+music = {
+	song = "hail_spirit_liberty"
+}
+music = {
+	song = "el_capitan"
+}
+music = {
+	song = "honored_dead"
+}

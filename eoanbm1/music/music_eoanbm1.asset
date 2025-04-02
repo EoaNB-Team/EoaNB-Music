@@ -1064,3 +1064,169 @@ music = {
 	file = "eoanbm1_hayashi_koshinyoku.ogg"
 	volume = 0.8
 }
+music = {
+	name = "vatanam"
+	file = "eoanbm1_vatanam.ogg"
+	volume = 0.8
+}
+#################
+music = {
+	name = "ceddin_deden"
+	file = "eoanbm1_ceddin_deden.ogg"
+	volume = 0.8
+}
+music = {
+	name = "gafil_ne_bilir"
+	file = "eoanbm1_gafil_ne_bilir.ogg"
+	volume = 0.8
+}
+music = {
+	name = "plevne_march"
+	file = "eoanbm1_plevne_march.ogg"
+	volume = 0.8
+}
+music = {
+	name = "mecidiye_marsi"
+	file = "eoanbm1_mecidiye_marsi.ogg"
+	volume = 0.8
+}
+music = {
+	name = "aziziye_march"
+	file = "eoanbm1_aziziye_march.ogg"
+	volume = 0.8
+}
+music = {
+	name = "hamidiye_marsi"
+	file = "eoanbm1_hamidiye_marsi.ogg"
+	volume = 0.8
+}
+music = {
+	name = "sevastopol_march"
+	file = "eoanbm1_sevastopol_march.ogg"
+	volume = 0.8
+}
+music = {
+	name = "chao_tianzi"
+	file = "eoanbm1_chao_tianzi.ogg"
+	volume = 0.8
+}
+music = {
+	name = "purple_bamboo_tune"
+	file = "eoanbm1_purple_bamboo_tune.ogg"
+	volume = 0.8
+}
+music = {
+	name = "ca_ira"
+	file = "eoanbm1_ca_ira.ogg"
+	volume = 0.8
+}
+music = {
+	name = "hail_spirit_liberty"
+	file = "eoanbm1_hail_spirit_liberty.ogg"
+	volume = 0.8
+}
+music = {
+	name = "te_souviens_tu"
+	file = "eoanbm1_te_souviens_tu.ogg"
+	volume = 0.8
+}
+music = {
+	name = "unter_dem_doppeladler"
+	file = "eoanbm1_unter_dem_doppeladler.ogg"
+	volume = 0.8
+}
+music = {
+	name = "uksalara_maksin"
+	file = "eoanbm1_uksalara_maksin.ogg"
+	volume = 0.8
+}
+music = {
+	name = "el_capitan"
+	file = "eoanbm1_el_capitan.ogg"
+	volume = 0.8
+}
+music = {
+	name = "rakoczi_march"
+	file = "eoanbm1_rakoczi_march.ogg"
+	volume = 0.8
+}
+music = {
+	name = "entrance_gladiators"
+	file = "eoanbm1_entrance_gladiators.ogg"
+	volume = 0.8
+}
+music = {
+	name = "himno_argentino"
+	file = "eoanbm1_himno_argentino.ogg"
+	volume = 0.8
+}
+music = {
+	name = "mariscal_lopez"
+	file = "eoanbm1_mariscal_lopez.ogg"
+	volume = 0.8
+}
+music = {
+	name = "honored_dead"
+	file = "eoanbm1_honored_dead.ogg"
+	volume = 0.8
+}
+music = {
+	name = "scotland_brave"
+	file = "eoanbm1_scotland_brave.ogg"
+	volume = 0.8
+}
+music = {
+	name = "rule_britannia"
+	file = "eoanbm1_rule_britannia.ogg"
+	volume = 0.8
+}
+music = {
+	name = "i_wish_it_were_1821"
+	file = "eoanbm1_i_wish_it_were_1821.ogg"
+	volume = 0.8
+}
+music = {
+	name = "anthem_crete_revolt"
+	file = "eoanbm1_anthem_crete_revolt.ogg"
+	volume = 0.8
+}
+music = {
+	name = "land_hope_glory"
+	file = "eoanbm1_land_hope_glory.ogg"
+	volume = 0.8
+}
+music = {
+	name = "vow_to_thee_country"
+	file = "eoanbm1_vow_to_thee_country.ogg"
+	volume = 0.8
+}
+music = {
+	name = "petersburg_march"
+	file = "eoanbm1_petersburg_march.ogg"
+	volume = 0.8
+}
+music = {
+	name = "preobrazhensky_march"
+	file = "eoanbm1_preobrazhensky_march.ogg"
+	volume = 0.8
+}
+music = {
+	name = "slavsya"
+	file = "eoanbm1_slavsya.ogg"
+	volume = 0.8
+}
+music = {
+	name = "salam_affandina"
+	file = "eoanbm1_salam_affandina.ogg"
+	volume = 0.8
+}
+music = {
+	name = "salam_al_bey"
+	file = "eoanbm1_salam_al_bey.ogg"
+	volume = 0.8
+}
+music = {
+	name = "sword_dance"
+	file = "eoanbm1_sword_dance.ogg"
+	volume = 0.8
+}
