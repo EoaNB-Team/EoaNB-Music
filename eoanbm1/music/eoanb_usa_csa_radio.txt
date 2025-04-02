@@ -48,7 +48,7 @@ music = {
 }
 music = {
 	song = "CSA_dixie_song"
-}s
+}
 music = {
 	song = "johnny_reb"
 }
