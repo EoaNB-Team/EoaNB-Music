@@ -31,6 +31,25 @@ music = {
 music = {
 	song = "uksalara_maksin"
 }
+music = {
+	song = "55_days_peking"
+}
+#music = {
+#	song = "55_tage_in_peking"
+#}
+music = {
+	song = "nurhaci_ebken_morim"
+}
+music = {
+	song = "yihetuan"
+}
+# Taiping Heavenly Kingdom
+music = {
+	song = "ode_to_heavenly_kingdom"
+}
+music = {
+	song = "hong_xiuquans_rebellion"
+}
 # Japan
 music = {
 	song = "sakura"
@@ -47,7 +66,47 @@ music = {
 music = {
 	song = "hayashi_koshinyoku"
 }
+music = {
+	song = "kimigayo"
+}
+music = {
+	song = "noe_bushi"
+}
+music = {
+	song = "kangun_koshinyoku"
+}
+music = {
+	song = "boshin_koshinyoku"
+}
+music = {
+	song = "teki_wa_ikuman"
+}
 # Korea
 music = {
 	song = "arirang"
+}
+music = {
+	song = "daehan_jeguk_aegukga"
+}
+music = {
+	song = "seungliui_nolae"
+}
+# Thailand
+music = {
+	song = "chom_rat_chong_charoen"
+}
+# India
+music = {
+	song = "anthem_mughal"
+}
+music = {
+	song = "kayo_sri_gowri"
+}
+# Burma
+music = {
+	song = "the_whole_southern_island"
+}
+# Vietnam
+music = {
+	song = "dang_dan_cung"
 }

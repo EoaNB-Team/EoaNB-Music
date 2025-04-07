@@ -21,3 +21,12 @@ music = {
 music = {
 	song = "slavsya"
 }
+music = {
+	song = "on_hills_manchuria"
+}
+music = {
+	song = "how_we_stood_shipka"
+}
+music = {
+	song = "solemn_march"
+}

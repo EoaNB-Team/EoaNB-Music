@@ -46,6 +46,12 @@ music = {
 music = {
 	song = "bright_dawn_of_may"
 }
+music = {
+	song = "anthem_montenegro"
+}
+music = {
+	song = "ubavoj_nam_crno_gori"
+}
 # Greece
 music = {
 	song = "hymnos_eis_tin"

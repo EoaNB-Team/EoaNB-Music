@@ -1,4 +1,4 @@
-### SOUTH AMERICA ###
+### LATIN AMERICA ###
 music_station = "south_america"
 # Brazil
 music = {
@@ -7,6 +7,12 @@ music = {
 music = {
 	song = "exulta_oh_brazil"
 }
+music = {
+	song = "hino_7_abril"
+}
+music = {
+	song = "cancao_guerra_paraguai"
+}
 # Argentina
 music = {
 	song = "himno_argentino"
@@ -14,4 +20,8 @@ music = {
 # Uruguay
 music = {
 	song = "mariscal_lopez"
+}
+# Mexico
+music = {
+	song = "himno_nacional_mexicano"
 }

@@ -16,6 +16,18 @@ music = {
 music = {
 	song = "te_souviens_tu"
 }
+music = {
+	song = "marche_garde_consulaire"
+}
+music = {
+	song = "veillons_salut_empire"
+}
+music = {
+	song = "salut_des_aigles"
+}
+music = {
+	song = "dans_les_hussars"
+}
 # UNITED KINGDOM
 music = {
 	song = "ENG_god_save_the_queen_song"
@@ -35,7 +47,30 @@ music = {
 music = {
 	song = "vow_to_thee_country"
 }
+music = {
+	song = "battle_of_alma"
+}
+music = {
+	song = "cock_o_the_north"
+}
+# Netherlands
+music = {
+	song = "merck_toch_hoe_sterck"
+}
 # Spain
 music = {
 	song = "SPR_el_turuta_song"
+}
+music = {
+	song = "marcha_real"
+}
+music = {
+	song = "guerra_al_yankee"
+}
+music = {
+	song = "los_voluntarios"
+}
+# Portugal
+music = {
+	song = "hino_da_carta"
 }

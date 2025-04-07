@@ -45,3 +45,9 @@ music = {
 music = {
 	song = "rorate_caeli"
 }
+music = {
+	song = "inno_di_garibaldi"
+}
+music = {
+	song = "marcia_reale"
+}

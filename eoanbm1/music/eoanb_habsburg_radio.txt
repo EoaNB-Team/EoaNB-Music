@@ -15,3 +15,12 @@ music = {
 music = {
 	song = "entrance_gladiators"
 }
+music = {
+	song = "gott_erhalte_beschutze"
+}
+music = {
+	song = "deutschmeister"
+}
+music = {
+	song = "hoch_habsburg"
+}

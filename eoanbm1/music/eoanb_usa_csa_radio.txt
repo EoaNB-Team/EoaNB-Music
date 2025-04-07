@@ -64,3 +64,12 @@ music = {
 music = {
 	song = "honored_dead"
 }
+music = {
+	song = "columbia_gem_ocean"
+}
+music = {
+	song = "rise_columbia"
+}
+music = {
+	song = "my_country_tis_thee"
+}

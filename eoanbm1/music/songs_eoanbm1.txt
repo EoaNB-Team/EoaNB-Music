@@ -179,3 +179,36 @@ music = {
 music = {
 	song = "eoanb_peace_1"
 }
+music = {
+	song = "rise_valkyries"
+}
+music = {
+	song = "from_new_world"
+}
+music = {
+	song = "mars"
+}
+music = {
+	song = "jupiter"
+}
+music = {
+	song = "saturn"
+}
+music = {
+	song = "hungarian_rhaspody_2"
+}
+music = {
+	song = "ode_to_joy"
+}
+music = {
+	song = "dies_irae"
+}
+music = {
+	song = "kaiserwalzer"
+}
+music = {
+	song = "la_donna"
+}
+music = {
+	song = "nutcracker"
+}

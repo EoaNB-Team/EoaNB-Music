@@ -8,7 +8,7 @@ guiTypes = {
 			name ="musicplayer_header_bg"
 			spriteType = "GFX_musicplayer_header_bg"
 			position = { x= 0 y = 0 }
-			allwaystransparent = yes
+			alwaystransparent = yes
 		}
 
 		instantTextboxType = {
@@ -130,7 +130,7 @@ guiTypes = {
 			name ="musicplayer_header_bg"
 			spriteType = "GFX_musicplayer_header_bg"
 			position = { x= 0 y = 0 }
-			allwaystransparent = yes
+			alwaystransparent = yes
 		}
 
 		instantTextboxType = {
@@ -252,7 +252,7 @@ guiTypes = {
 			name ="musicplayer_header_bg"
 			spriteType = "GFX_musicplayer_header_bg"
 			position = { x= 0 y = 0 }
-			allwaystransparent = yes
+			alwaystransparent = yes
 		}
 
 		instantTextboxType = {
@@ -373,7 +373,7 @@ guiTypes = {
 			name ="musicplayer_header_bg"
 			spriteType = "GFX_musicplayer_header_bg"
 			position = { x= 0 y = 0 }
-			allwaystransparent = yes
+			alwaystransparent = yes
 		}
 
 		instantTextboxType = {
@@ -494,7 +494,7 @@ guiTypes = {
 			name ="musicplayer_header_bg"
 			spriteType = "GFX_musicplayer_header_bg"
 			position = { x= 0 y = 0 }
-			allwaystransparent = yes
+			alwaystransparent = yes
 		}
 
 		instantTextboxType = {
@@ -615,7 +615,7 @@ guiTypes = {
 			name ="musicplayer_header_bg"
 			spriteType = "GFX_musicplayer_header_bg"
 			position = { x= 0 y = 0 }
-			allwaystransparent = yes
+			alwaystransparent = yes
 		}
 
 		instantTextboxType = {
@@ -736,7 +736,7 @@ guiTypes = {
 			name ="musicplayer_header_bg"
 			spriteType = "GFX_musicplayer_header_bg"
 			position = { x= 0 y = 0 }
-			allwaystransparent = yes
+			alwaystransparent = yes
 		}
 
 		instantTextboxType = {
@@ -857,7 +857,7 @@ guiTypes = {
 			name ="musicplayer_header_bg"
 			spriteType = "GFX_musicplayer_header_bg"
 			position = { x= 0 y = 0 }
-			allwaystransparent = yes
+			alwaystransparent = yes
 		}
 
 		instantTextboxType = {
@@ -978,7 +978,7 @@ guiTypes = {
 			name ="musicplayer_header_bg"
 			spriteType = "GFX_musicplayer_header_bg"
 			position = { x= 0 y = 0 }
-			allwaystransparent = yes
+			alwaystransparent = yes
 		}
 
 		instantTextboxType = {
@@ -1099,7 +1099,7 @@ guiTypes = {
 			name ="musicplayer_header_bg"
 			spriteType = "GFX_musicplayer_header_bg"
 			position = { x= 0 y = 0 }
-			allwaystransparent = yes
+			alwaystransparent = yes
 		}
 
 		instantTextboxType = {
@@ -1220,7 +1220,7 @@ guiTypes = {
 			name ="musicplayer_header_bg"
 			spriteType = "GFX_musicplayer_header_bg"
 			position = { x= 0 y = 0 }
-			allwaystransparent = yes
+			alwaystransparent = yes
 		}
 
 		instantTextboxType = {
@@ -1341,7 +1341,7 @@ guiTypes = {
 			name ="musicplayer_header_bg"
 			spriteType = "GFX_musicplayer_header_bg"
 			position = { x= 0 y = 0 }
-			allwaystransparent = yes
+			alwaystransparent = yes
 		}
 
 		instantTextboxType = {
