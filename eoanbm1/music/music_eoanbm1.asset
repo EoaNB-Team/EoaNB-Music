@@ -1387,11 +1387,6 @@ music = {
 	volume = 0.8
 }
 music = {
-	name = "55_tage_in_peking"
-	file = "eoanbm1_55_tage_in_peking.ogg"
-	volume = 0.8
-}
-music = {
 	name = "the_whole_southern_island"
 	file = "eoanbm1_the_whole_southern_island.ogg"
 	volume = 0.8

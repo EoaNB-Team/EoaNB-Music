@@ -34,9 +34,6 @@ music = {
 music = {
 	song = "55_days_peking"
 }
-#music = {
-#	song = "55_tage_in_peking"
-#}
 music = {
 	song = "nurhaci_ebken_morim"
 }
