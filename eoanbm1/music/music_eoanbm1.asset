@@ -55,7 +55,7 @@ music = {
 }
 
 music = {
-	name = "OTO_mehter_marsi_song"
+	name = "ceddin_deden"
 	file = "OTO_mehter_marsi.ogg"
 	volume = 0.8
 }
@@ -1070,11 +1070,6 @@ music = {
 	volume = 0.8
 }
 #################
-music = {
-	name = "ceddin_deden"
-	file = "eoanbm1_ceddin_deden.ogg"
-	volume = 0.8
-}
 music = {
 	name = "gafil_ne_bilir"
 	file = "eoanbm1_gafil_ne_bilir.ogg"

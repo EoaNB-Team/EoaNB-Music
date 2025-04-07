@@ -1,0 +1,6 @@
+### ?????? ###
+music_station = "meme"
+# Bismarck does the Jig
+music = {
+	song = "german_dixie"
+}

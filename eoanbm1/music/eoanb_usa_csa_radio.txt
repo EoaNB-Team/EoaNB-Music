@@ -26,9 +26,6 @@ music = {
 	song = "good_old_rebel"
 }
 music = {
-	song = "german_dixie"
-}
-music = {
 	song = "USA_well_fight_for_uncle_sam_song"
 }
 music = {
