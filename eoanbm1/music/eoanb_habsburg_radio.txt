@@ -24,3 +24,9 @@ music = {
 music = {
 	song = "hoch_habsburg"
 }
+music = {
+	song = "florentiner_march"
+}
+music = {
+	song = "barataria_march"
+}

@@ -1,29 +1,11 @@
 ### YANKEES AND DIXIES ###
 music_station = "usa_csa"
-# USA / CSA
-music = {
-	song = "southern_wagon"
-}
-music = {
-	song = "southern_soldier"
-}
-music = {
-	song = "southern_men_march"
-}
-music = {
-	song = "riding_a_raid"
-}
-music = {
-	song = "oh_susanna"
-}
+# United States of America
 music = {
 	song = "marching_through_georgia"
 }
 music = {
 	song = "hard_times_come_again_no_more"
-}
-music = {
-	song = "good_old_rebel"
 }
 music = {
 	song = "USA_well_fight_for_uncle_sam_song"
@@ -44,15 +26,6 @@ music = {
 	song = "USA_battle_cry_of_freedom_song"
 }
 music = {
-	song = "CSA_dixie_song"
-}
-music = {
-	song = "johnny_reb"
-}
-music = {
-	song = "yellow_rose_texas"
-}
-music = {
 	song = "hail_spirit_liberty"
 }
 music = {
@@ -69,4 +42,101 @@ music = {
 }
 music = {
 	song = "my_country_tis_thee"
+}
+music = {
+	song = "barbara_allen"
+}
+music = {
+	song = "chester"
+}
+music = {
+	song = "crawford_defeat_indians"
+}
+music = {
+	song = "yankee_doodle"
+}
+music = {
+	song = "perrys_victory"
+}
+music = {
+	song = "star_spangled_banner"
+}
+music = {
+	song = "eight_of_january"
+}
+music = {
+	song = "hail_to_the_chief"
+}
+music = {
+	song = "the_blue_juniata"
+}
+music = {
+	song = "sweet_betsy_pike"
+}
+music = {
+	song = "thats_whats_the_matter"
+}
+music = {
+	song = "tramp"
+}
+music = {
+	song = "shenandoah"
+}
+music = {
+	song = "my_maryland"
+}
+music = {
+	song = "richmond_hard_road"
+}
+music = {
+	song = "irish_volunteer"
+}
+# Confederate States of America
+music = {
+	song = "southern_wagon"
+}
+music = {
+	song = "southern_soldier"
+}
+music = {
+	song = "southern_men_march"
+}
+music = {
+	song = "riding_a_raid"
+}
+music = {
+	song = "oh_susanna"
+}
+music = {
+	song = "good_old_rebel"
+}
+music = {
+	song = "CSA_dixie_song"
+}
+music = {
+	song = "johnny_reb"
+}
+music = {
+	song = "yellow_rose_texas"
+}
+music = {
+	song = "dixie_battle_cry"
+}
+music = {
+	song = "legend_rebel_soldier"
+}
+music = {
+	song = "stonewall_jacksons_way"
+}
+music = {
+	song = "roll_alabama_roll"
+}
+music = {
+	song = "kellys_irish_brigade"
+}
+music = {
+	song = "god_save_south"
+}
+music = {
+	song = "flag_of_secession"
 }

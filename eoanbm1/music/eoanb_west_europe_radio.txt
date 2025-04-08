@@ -53,6 +53,18 @@ music = {
 music = {
 	song = "cock_o_the_north"
 }
+music = {
+	song = "see_conquering_heroes_come"
+}
+music = {
+	song = "britain_ask_of_thyself"
+}
+music = {
+	song = "men_of_harlech"
+}
+music = {
+	song = "girl_i_left_behind"
+}
 # Netherlands
 music = {
 	song = "merck_toch_hoe_sterck"

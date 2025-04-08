@@ -1501,3 +1501,153 @@ music = {
 	file = "eoanbm1_los_voluntarios.ogg"
 	volume = 0.8
 }
+music = {
+	name = "see_conquering_heroes_come"
+	file = "eoanbm1_see_conquering_heroes_come.ogg"
+	volume = 0.8
+}
+music = {
+	name = "britain_ask_of_thyself"
+	file = "eoanbm1_britain_ask_of_thyself.ogg"
+	volume = 0.8
+}
+music = {
+	name = "men_of_harlech"
+	file = "eoanbm1_men_of_harlech.ogg"
+	volume = 0.8
+}
+music = {
+	name = "girl_i_left_behind"
+	file = "eoanbm1_girl_i_left_behind.ogg"
+	volume = 0.8
+}
+music = {
+	name = "grom_pobedy_razdavaysya"
+	file = "eoanbm1_grom_pobedy_razdavaysya.ogg"
+	volume = 0.8
+}
+music = {
+	name = "florentiner_march"
+	file = "eoanbm1_florentiner_march.ogg"
+	volume = 0.8
+}
+music = {
+	name = "barataria_march"
+	file = "eoanbm1_barataria_march.ogg"
+	volume = 0.8
+}
+music = {
+	name = "barbara_allen"
+	file = "eoanbm1_barbara_allen.ogg"
+	volume = 0.8
+}
+music = {
+	name = "chester"
+	file = "eoanbm1_chester.ogg"
+	volume = 0.8
+}
+music = {
+	name = "crawford_defeat_indians"
+	file = "eoanbm1_crawford_defeat_indians.ogg"
+	volume = 0.8
+}
+music = {
+	name = "yankee_doodle"
+	file = "eoanbm1_yankee_doodle.ogg"
+	volume = 0.8
+}
+music = {
+	name = "perrys_victory"
+	file = "eoanbm1_perrys_victory.ogg"
+	volume = 0.8
+}
+music = {
+	name = "star_spangled_banner"
+	file = "eoanbm1_star_spangled_banner.ogg"
+	volume = 0.8
+}
+music = {
+	name = "eight_of_january"
+	file = "eoanbm1_eight_of_january.ogg"
+	volume = 0.8
+}
+music = {
+	name = "hail_to_the_chief"
+	file = "eoanbm1_hail_to_the_chief.ogg"
+	volume = 0.8
+}
+music = {
+	name = "the_blue_juniata"
+	file = "eoanbm1_the_blue_juniata.ogg"
+	volume = 0.8
+}
+music = {
+	name = "sweet_betsy_pike"
+	file = "eoanbm1_sweet_betsy_pike.ogg"
+	volume = 0.8
+}
+music = {
+	name = "thats_whats_the_matter"
+	file = "eoanbm1_thats_whats_the_matter.ogg"
+	volume = 0.8
+}
+music = {
+	name = "dixie_battle_cry"
+	file = "eoanbm1_dixie_battle_cry.ogg"
+	volume = 0.8
+}
+music = {
+	name = "legend_rebel_soldier"
+	file = "eoanbm1_legend_rebel_soldier.ogg"
+	volume = 0.8
+}
+music = {
+	name = "stonewall_jacksons_way"
+	file = "eoanbm1_stonewall_jacksons_way.ogg"
+	volume = 0.8
+}
+music = {
+	name = "roll_alabama_roll"
+	file = "eoanbm1_roll_alabama_roll.ogg"
+	volume = 0.8
+}
+music = {
+	name = "tramp"
+	file = "eoanbm1_tramp.ogg"
+	volume = 0.8
+}
+music = {
+	name = "richmond_hard_road"
+	file = "eoanbm1_richmond_hard_road.ogg"
+	volume = 0.8
+}
+music = {
+	name = "shenandoah"
+	file = "eoanbm1_shenandoah.ogg"
+	volume = 0.8
+}
+music = {
+	name = "my_maryland"
+	file = "eoanbm1_my_maryland.ogg"
+	volume = 0.8
+}
+music = {
+	name = "kellys_irish_brigade"
+	file = "eoanbm1_kellys_irish_brigade.ogg"
+	volume = 0.8
+}
+music = {
+	name = "god_save_south"
+	file = "eoanbm1_god_save_south.ogg"
+	volume = 0.8
+}
+music = {
+	name = "flag_of_secession"
+	file = "eoanbm1_flag_of_secession.ogg"
+	volume = 0.8
+}
+music = {
+	name = "irish_volunteer"
+	file = "eoanbm1_irish_volunteer.ogg"
+	volume = 0.8
+}

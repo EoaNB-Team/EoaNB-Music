@@ -30,3 +30,6 @@ music = {
 music = {
 	song = "solemn_march"
 }
+music = {
+	song = "grom_pobedy_razdavaysya"
+}
