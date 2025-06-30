@@ -5,9 +5,6 @@ music = {
 	song = "OTO_mecidiye_marsi_song"
 }
 music = {
-	song = "OTO_mehter_marsi_song"
-}
-music = {
 	song = "ceddin_deden"
 }
 music = {
